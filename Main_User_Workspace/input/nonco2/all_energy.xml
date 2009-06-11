@@ -11,8 +11,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00474</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -51,7 +51,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.00087</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -145,7 +145,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.00087</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -239,7 +239,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.00087</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -333,7 +333,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.00087</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -427,7 +427,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.00087</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -521,7 +521,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.00087</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -615,7 +615,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.00087</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -709,7 +709,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.00087</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -16411,8 +16411,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00466</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -16451,7 +16451,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00115</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -16545,7 +16545,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00115</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -16639,7 +16639,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00115</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -16733,7 +16733,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00115</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -16827,7 +16827,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00115</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -16921,7 +16921,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00115</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -17015,7 +17015,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00115</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -17109,7 +17109,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00115</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -32812,8 +32812,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00436</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -32852,7 +32852,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.00101</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -32946,7 +32946,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.00101</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -33040,7 +33040,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.00101</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -33134,7 +33134,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.00101</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -33228,7 +33228,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.00101</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -33322,7 +33322,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.00101</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -33416,7 +33416,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.00101</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -33510,7 +33510,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.00101</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -49212,8 +49212,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00414</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -49252,7 +49252,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.00094</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -49346,7 +49346,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.00094</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -49440,7 +49440,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.00094</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -49534,7 +49534,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.00094</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -49628,7 +49628,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.00094</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -49722,7 +49722,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.00094</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -49816,7 +49816,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.00094</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -49910,7 +49910,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.00094</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -65612,8 +65612,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00479</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -65652,7 +65652,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.00119</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -65746,7 +65746,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.00119</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -65840,7 +65840,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.00119</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -65934,7 +65934,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.00119</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -66028,7 +66028,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.00119</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -66122,7 +66122,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.00119</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -66216,7 +66216,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.00119</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -66310,7 +66310,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.00119</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -82013,8 +82013,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00394</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -82053,7 +82053,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.00053</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -82147,7 +82147,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.00053</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -82241,7 +82241,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.00053</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -82335,7 +82335,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.00053</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -82429,7 +82429,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.00053</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -82523,7 +82523,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.00053</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -82617,7 +82617,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.00053</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -82711,7 +82711,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.00053</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -98413,8 +98413,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00466</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -98453,7 +98453,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00169</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -98547,7 +98547,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00169</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -98641,7 +98641,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00169</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -98735,7 +98735,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00169</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -98829,7 +98829,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00169</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -98923,7 +98923,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00169</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -99017,7 +99017,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00169</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -99111,7 +99111,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.00169</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -114813,8 +114813,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00570</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -114853,7 +114853,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00201</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -114947,7 +114947,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00201</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -115041,7 +115041,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00201</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -115135,7 +115135,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00201</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -115229,7 +115229,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00201</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -115323,7 +115323,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00201</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -115417,7 +115417,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00201</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -115511,7 +115511,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00201</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -131216,8 +131216,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00567</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -131256,7 +131256,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00129</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -131350,7 +131350,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00129</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -131444,7 +131444,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00129</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -131538,7 +131538,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00129</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -131632,7 +131632,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00129</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -131726,7 +131726,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00129</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -131820,7 +131820,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00129</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -131914,7 +131914,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.00129</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -147618,8 +147618,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00508</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -147658,7 +147658,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.00133</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -147752,7 +147752,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.00133</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -147846,7 +147846,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.00133</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -147940,7 +147940,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.00133</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -148034,7 +148034,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.00133</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -148128,7 +148128,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.00133</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -148222,7 +148222,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.00133</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -148316,7 +148316,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.00133</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -164019,8 +164019,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00522</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -164059,7 +164059,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.00186</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -164153,7 +164153,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.00186</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -164247,7 +164247,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.00186</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -164341,7 +164341,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.00186</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -164435,7 +164435,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.00186</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -164529,7 +164529,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.00186</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -164623,7 +164623,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.00186</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -164717,7 +164717,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.00186</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -180420,8 +180420,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00380</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -180460,7 +180460,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.00057</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -180554,7 +180554,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.00057</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -180648,7 +180648,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.00057</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -180742,7 +180742,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.00057</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -180836,7 +180836,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.00057</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -180930,7 +180930,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.00057</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -181024,7 +181024,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.00057</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -181118,7 +181118,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.00057</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -196821,8 +196821,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00451</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -196861,7 +196861,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.00143</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -196955,7 +196955,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.00143</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -197049,7 +197049,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.00143</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -197143,7 +197143,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.00143</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -197237,7 +197237,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.00143</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -197331,7 +197331,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.00143</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -197425,7 +197425,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.00143</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -197519,7 +197519,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.00143</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -213222,8 +213222,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1975">1</base-service>
-            <base-scaler fillout="1" year="1975">1</base-scaler>
+            <base-service year="1990">0.004</base-service>
+            <base-service year="2005">0.00515</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -213262,7 +213262,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>0.00154</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -213356,7 +213356,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>0.00154</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -213450,7 +213450,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>0.00154</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -213544,7 +213544,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>0.00154</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -213638,7 +213638,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>0.00154</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -213732,7 +213732,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>0.00154</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -213826,7 +213826,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>0.00154</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
@@ -213920,7 +213920,7 @@
                      <logitexp>0</logitexp>
                      <minicam-energy-input name="misc emissions sources">
                         <efficiency>1</efficiency>
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>0.00154</calibrated-value>
                      </minicam-energy-input>
                      <CO2 name="CO2"/>
                   </period>
