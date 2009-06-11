@@ -10836,15 +10836,6 @@
 					<aeei year="2095">0.0117241</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">15.2377</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.0173</base-scaler>
-				<base-scaler year="2005">1.02583</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.86794</price-elasticity>
 				<price-elasticity year="2035">-0.86794</price-elasticity>
 				<price-elasticity year="2050">-0.86794</price-elasticity>
@@ -10875,15 +10866,6 @@
 					<aeei year="2095">0.014502</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">9.7881</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.882075</base-scaler>
-				<base-scaler year="2005">0.755734</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.91915</price-elasticity>
 				<price-elasticity year="2035">-0.91915</price-elasticity>
 				<price-elasticity year="2050">-0.91915</price-elasticity>
@@ -10914,15 +10896,6 @@
 					<aeei year="2095">0.0175564</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">6.6411</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.935592</base-scaler>
-				<base-scaler year="2005">0.98132</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.89948</price-elasticity>
 				<price-elasticity year="2035">-0.89948</price-elasticity>
 				<price-elasticity year="2050">-0.89948</price-elasticity>
@@ -10944,15 +10917,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.00822196</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.1</income-elasticity>
 				<income-elasticity year="2020">0.1</income-elasticity>
 				<income-elasticity year="2035">0.1</income-elasticity>
@@ -21737,15 +21701,6 @@
 					<aeei year="2095">0.0117928</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">2.22952</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.936912</base-scaler>
-				<base-scaler year="2005">0.918446</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.81345</price-elasticity>
 				<price-elasticity year="2035">-0.81345</price-elasticity>
 				<price-elasticity year="2050">-0.81345</price-elasticity>
@@ -21776,15 +21731,6 @@
 					<aeei year="2095">0.0157635</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.88094</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.698445</base-scaler>
-				<base-scaler year="2005">0.935264</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.91396</price-elasticity>
 				<price-elasticity year="2035">-0.91396</price-elasticity>
 				<price-elasticity year="2050">-0.91396</price-elasticity>
@@ -21815,15 +21761,6 @@
 					<aeei year="2095">0.0129169</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.67948</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.876491</base-scaler>
-				<base-scaler year="2005">1.00159</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.8989</price-elasticity>
 				<price-elasticity year="2035">-0.8989</price-elasticity>
 				<price-elasticity year="2050">-0.8989</price-elasticity>
@@ -21845,15 +21782,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.0013587</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.1</income-elasticity>
 				<income-elasticity year="2020">0.1</income-elasticity>
 				<income-elasticity year="2035">0.1</income-elasticity>
@@ -32646,15 +32574,6 @@
 					<aeei year="2095">0.00846713</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">10.2558</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.0497</base-scaler>
-				<base-scaler year="2005">0.922827</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.81947</price-elasticity>
 				<price-elasticity year="2035">-0.81947</price-elasticity>
 				<price-elasticity year="2050">-0.81947</price-elasticity>
@@ -32685,15 +32604,6 @@
 					<aeei year="2095">0.0088942</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">8.65232</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.83916</base-scaler>
-				<base-scaler year="2005">0.766314</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.92446</price-elasticity>
 				<price-elasticity year="2035">-0.92446</price-elasticity>
 				<price-elasticity year="2050">-0.92446</price-elasticity>
@@ -32724,15 +32634,6 @@
 					<aeei year="2095">0.00955996</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">3.12561</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.08987</base-scaler>
-				<base-scaler year="2005">0.953324</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-1.01901</price-elasticity>
 				<price-elasticity year="2035">-1.01901</price-elasticity>
 				<price-elasticity year="2050">-1.01901</price-elasticity>
@@ -32754,15 +32655,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.0283661</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.999998</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.1</income-elasticity>
 				<income-elasticity year="2020">0.1</income-elasticity>
 				<income-elasticity year="2035">0.1</income-elasticity>
@@ -43564,15 +43456,6 @@
 					<aeei year="2095">0.0118963</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.67008</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.00198</base-scaler>
-				<base-scaler year="2005">1.01834</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.81778</price-elasticity>
 				<price-elasticity year="2035">-0.81778</price-elasticity>
 				<price-elasticity year="2050">-0.81778</price-elasticity>
@@ -43603,15 +43486,6 @@
 					<aeei year="2095">0.0128101</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">3.15128</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.805526</base-scaler>
-				<base-scaler year="2005">0.69204</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.89861</price-elasticity>
 				<price-elasticity year="2035">-0.89861</price-elasticity>
 				<price-elasticity year="2050">-0.89861</price-elasticity>
@@ -43642,15 +43516,6 @@
 					<aeei year="2095">0.0104208</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.71528</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.05527</base-scaler>
-				<base-scaler year="2005">0.96397</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.86115</price-elasticity>
 				<price-elasticity year="2035">-0.86115</price-elasticity>
 				<price-elasticity year="2050">-0.86115</price-elasticity>
@@ -43672,15 +43537,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.0103384</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.00001</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.1</income-elasticity>
 				<income-elasticity year="2020">0.1</income-elasticity>
 				<income-elasticity year="2035">0.1</income-elasticity>
@@ -54465,15 +54321,6 @@
 					<aeei year="2095">0.00996111</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.62628</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.954245</base-scaler>
-				<base-scaler year="2005">0.844578</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.76262</price-elasticity>
 				<price-elasticity year="2035">-0.76262</price-elasticity>
 				<price-elasticity year="2050">-0.76262</price-elasticity>
@@ -54504,15 +54351,6 @@
 					<aeei year="2095">0.0123921</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.18173</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.68217</base-scaler>
-				<base-scaler year="2005">0.685207</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.90513</price-elasticity>
 				<price-elasticity year="2035">-0.90513</price-elasticity>
 				<price-elasticity year="2050">-0.90513</price-elasticity>
@@ -54543,15 +54381,6 @@
 					<aeei year="2095">0.0128087</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.26823</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.08568</base-scaler>
-				<base-scaler year="2005">0.758574</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.90139</price-elasticity>
 				<price-elasticity year="2035">-0.90139</price-elasticity>
 				<price-elasticity year="2050">-0.90139</price-elasticity>
@@ -54573,15 +54402,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.000872744</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.999999</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.1</income-elasticity>
 				<income-elasticity year="2020">0.1</income-elasticity>
 				<income-elasticity year="2035">0.1</income-elasticity>
@@ -65408,15 +65228,6 @@
 					<aeei year="2095">0.00994277</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">5.47025</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.952229</base-scaler>
-				<base-scaler year="2005">1.1483</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.80424</price-elasticity>
 				<price-elasticity year="2035">-0.80424</price-elasticity>
 				<price-elasticity year="2050">-0.80424</price-elasticity>
@@ -65447,15 +65258,6 @@
 					<aeei year="2095">0.0174854</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">14.5254</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.737531</base-scaler>
-				<base-scaler year="2005">0.8441</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.93704</price-elasticity>
 				<price-elasticity year="2035">-0.93704</price-elasticity>
 				<price-elasticity year="2050">-0.93704</price-elasticity>
@@ -65486,15 +65288,6 @@
 					<aeei year="2095">-0.00220833</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">2.12623</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.991585</base-scaler>
-				<base-scaler year="2005">1.17256</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.9005</price-elasticity>
 				<price-elasticity year="2035">-0.9005</price-elasticity>
 				<price-elasticity year="2050">-0.9005</price-elasticity>
@@ -65516,15 +65309,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.0164865</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.75</income-elasticity>
 				<income-elasticity year="2020">0.75</income-elasticity>
 				<income-elasticity year="2035">0.75</income-elasticity>
@@ -76479,15 +76263,6 @@
 					<aeei year="2095">0.00877058</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.7254</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.12335</base-scaler>
-				<base-scaler year="2005">0.718387</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.8989</price-elasticity>
 				<price-elasticity year="2035">-0.8989</price-elasticity>
 				<price-elasticity year="2050">-0.8989</price-elasticity>
@@ -76518,15 +76293,6 @@
 					<aeei year="2095">0.00421967</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">7.0613</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.775751</base-scaler>
-				<base-scaler year="2005">0.876045</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.93281</price-elasticity>
 				<price-elasticity year="2035">-0.93281</price-elasticity>
 				<price-elasticity year="2050">-0.93281</price-elasticity>
@@ -76557,15 +76323,6 @@
 					<aeei year="2095">-0.00660385</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.3344</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.991549</base-scaler>
-				<base-scaler year="2005">2.04738</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.91863</price-elasticity>
 				<price-elasticity year="2035">-0.91863</price-elasticity>
 				<price-elasticity year="2050">-0.91863</price-elasticity>
@@ -76587,15 +76344,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.024782</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.75</income-elasticity>
 				<income-elasticity year="2020">0.75</income-elasticity>
 				<income-elasticity year="2035">0.75</income-elasticity>
@@ -87404,15 +87152,6 @@
 					<aeei year="2095">0.0114748</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.5171</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.51702</base-scaler>
-				<base-scaler year="2005">2.44673</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.84767</price-elasticity>
 				<price-elasticity year="2035">-0.84767</price-elasticity>
 				<price-elasticity year="2050">-0.84767</price-elasticity>
@@ -87443,15 +87182,6 @@
 					<aeei year="2095">0.00943444</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.9323</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.790732</base-scaler>
-				<base-scaler year="2005">0.947911</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.95414</price-elasticity>
 				<price-elasticity year="2035">-0.95414</price-elasticity>
 				<price-elasticity year="2050">-0.95414</price-elasticity>
@@ -87482,15 +87212,6 @@
 					<aeei year="2095">0.000838716</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.3659</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.15675</base-scaler>
-				<base-scaler year="2005">0.863274</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.93216</price-elasticity>
 				<price-elasticity year="2035">-0.93216</price-elasticity>
 				<price-elasticity year="2050">-0.93216</price-elasticity>
@@ -87512,15 +87233,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.0039522</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.75</income-elasticity>
 				<income-elasticity year="2020">0.75</income-elasticity>
 				<income-elasticity year="2035">0.1</income-elasticity>
@@ -98483,15 +98195,6 @@
 					<aeei year="2095">0.0192363</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.4621</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">2.02071</base-scaler>
-				<base-scaler year="2005">0.693532</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.84536</price-elasticity>
 				<price-elasticity year="2035">-0.84536</price-elasticity>
 				<price-elasticity year="2050">-0.84536</price-elasticity>
@@ -98522,15 +98225,6 @@
 					<aeei year="2095">0.00837012</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.4083</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.880652</base-scaler>
-				<base-scaler year="2005">1.28861</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.88948</price-elasticity>
 				<price-elasticity year="2035">-0.88948</price-elasticity>
 				<price-elasticity year="2050">-0.88948</price-elasticity>
@@ -98561,15 +98255,6 @@
 					<aeei year="2095">0.0131362</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.413</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.08508</base-scaler>
-				<base-scaler year="2005">1.08924</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-1.02512</price-elasticity>
 				<price-elasticity year="2035">-1.02512</price-elasticity>
 				<price-elasticity year="2050">-1.02512</price-elasticity>
@@ -98591,15 +98276,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.00471883</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.75</income-elasticity>
 				<income-elasticity year="2020">0.75</income-elasticity>
 				<income-elasticity year="2035">0.75</income-elasticity>
@@ -109557,15 +109233,6 @@
 					<aeei year="2095">0.0181513</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.2285</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.82038</base-scaler>
-				<base-scaler year="2005">0.752491</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.84552</price-elasticity>
 				<price-elasticity year="2035">-0.84552</price-elasticity>
 				<price-elasticity year="2050">-0.84552</price-elasticity>
@@ -109596,15 +109263,6 @@
 					<aeei year="2095">0.00555504</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">2.7492</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.17471</base-scaler>
-				<base-scaler year="2005">0.686306</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.93614</price-elasticity>
 				<price-elasticity year="2035">-0.93614</price-elasticity>
 				<price-elasticity year="2050">-0.93614</price-elasticity>
@@ -109635,15 +109293,6 @@
 					<aeei year="2095">0.000304681</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.0636</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.844715</base-scaler>
-				<base-scaler year="2005">0.910913</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.90073</price-elasticity>
 				<price-elasticity year="2035">-0.90073</price-elasticity>
 				<price-elasticity year="2050">-0.90073</price-elasticity>
@@ -109665,15 +109314,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.00307932</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.999999</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.75</income-elasticity>
 				<income-elasticity year="2020">0.75</income-elasticity>
 				<income-elasticity year="2035">0.75</income-elasticity>
@@ -120625,15 +120265,6 @@
 					<aeei year="2095">0.00925931</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.50765</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.83144</base-scaler>
-				<base-scaler year="2005">0.417503</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.87057</price-elasticity>
 				<price-elasticity year="2035">-0.87057</price-elasticity>
 				<price-elasticity year="2050">-0.87057</price-elasticity>
@@ -120664,15 +120295,6 @@
 					<aeei year="2095">0.00189041</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.2696</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.68893</base-scaler>
-				<base-scaler year="2005">0.798777</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.98863</price-elasticity>
 				<price-elasticity year="2035">-0.98863</price-elasticity>
 				<price-elasticity year="2050">-0.98863</price-elasticity>
@@ -120703,15 +120325,6 @@
 					<aeei year="2095">-0.00394458</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.3854</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.07194</base-scaler>
-				<base-scaler year="2005">1.09549</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.93967</price-elasticity>
 				<price-elasticity year="2035">-0.93967</price-elasticity>
 				<price-elasticity year="2050">-0.93967</price-elasticity>
@@ -120733,15 +120346,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.00739661</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.999999</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.75</income-elasticity>
 				<income-elasticity year="2020">0.75</income-elasticity>
 				<income-elasticity year="2035">0.75</income-elasticity>
@@ -131572,15 +131176,6 @@
 					<aeei year="2095">0.0118736</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.57345</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.784976</base-scaler>
-				<base-scaler year="2005">1.45918</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.99807</price-elasticity>
 				<price-elasticity year="2035">-0.99807</price-elasticity>
 				<price-elasticity year="2050">-0.99807</price-elasticity>
@@ -131611,15 +131206,6 @@
 					<aeei year="2095">0.0182434</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">4.08534</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.598539</base-scaler>
-				<base-scaler year="2005">0.85394</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.92182</price-elasticity>
 				<price-elasticity year="2035">-0.92182</price-elasticity>
 				<price-elasticity year="2050">-0.92182</price-elasticity>
@@ -131650,15 +131236,6 @@
 					<aeei year="2095">0.00757575</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.449372</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.882727</base-scaler>
-				<base-scaler year="2005">1.92407</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.91113</price-elasticity>
 				<price-elasticity year="2035">-0.91113</price-elasticity>
 				<price-elasticity year="2050">-0.91113</price-elasticity>
@@ -131680,15 +131257,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.0062194</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.999999</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.75</income-elasticity>
 				<income-elasticity year="2020">0.75</income-elasticity>
 				<income-elasticity year="2035">0.75</income-elasticity>
@@ -142492,15 +142060,6 @@
 					<aeei year="2095">0.0092766</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.695269</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.61866</base-scaler>
-				<base-scaler year="2005">0.68571</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.8541</price-elasticity>
 				<price-elasticity year="2035">-0.8541</price-elasticity>
 				<price-elasticity year="2050">-0.8541</price-elasticity>
@@ -142531,15 +142090,6 @@
 					<aeei year="2095">0.0139623</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.710873</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.588525</base-scaler>
-				<base-scaler year="2005">0.805472</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.91311</price-elasticity>
 				<price-elasticity year="2035">-0.91311</price-elasticity>
 				<price-elasticity year="2050">-0.91311</price-elasticity>
@@ -142570,15 +142120,6 @@
 					<aeei year="2095">0.00845598</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.251545</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">1.00696</base-scaler>
-				<base-scaler year="2005">0.976767</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.90456</price-elasticity>
 				<price-elasticity year="2035">-0.90456</price-elasticity>
 				<price-elasticity year="2050">-0.90456</price-elasticity>
@@ -142600,15 +142141,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.00376054</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.999999</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.1</income-elasticity>
 				<income-elasticity year="2020">0.1</income-elasticity>
 				<income-elasticity year="2035">0.1</income-elasticity>
@@ -153555,15 +153087,6 @@
 					<aeei year="2095">0.0126865</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.50765</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">2.13541</base-scaler>
-				<base-scaler year="2005">0.665698</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.87334</price-elasticity>
 				<price-elasticity year="2035">-0.87334</price-elasticity>
 				<price-elasticity year="2050">-0.87334</price-elasticity>
@@ -153594,15 +153117,6 @@
 					<aeei year="2095">0.00626981</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">1.2696</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.578936</base-scaler>
-				<base-scaler year="2005">1.04461</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.90667</price-elasticity>
 				<price-elasticity year="2035">-0.90667</price-elasticity>
 				<price-elasticity year="2050">-0.90667</price-elasticity>
@@ -153633,15 +153147,6 @@
 					<aeei year="2095">-0.00682617</aeei>
 				</final-energy-consumer>
 				<base-service year="1975">0.31</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.965027</base-scaler>
-				<base-scaler year="2005">0.839178</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<price-elasticity year="2020">-0.8992</price-elasticity>
 				<price-elasticity year="2035">-0.8992</price-elasticity>
 				<price-elasticity year="2050">-0.8992</price-elasticity>
@@ -153663,15 +153168,6 @@
 				<final-energy-consumer>
 				</final-energy-consumer>
 				<base-service year="1975">0.00493467</base-service>
-				<base-scaler year="1975">1</base-scaler>
-				<base-scaler year="1990">0.999999</base-scaler>
-				<base-scaler year="2005">1</base-scaler>
-				<base-scaler year="2020">1</base-scaler>
-				<base-scaler year="2035">1</base-scaler>
-				<base-scaler year="2050">1</base-scaler>
-				<base-scaler year="2065">1</base-scaler>
-				<base-scaler year="2080">1</base-scaler>
-				<base-scaler year="2095">1</base-scaler>
 				<income-elasticity year="2005">0.75</income-elasticity>
 				<income-elasticity year="2020">0.75</income-elasticity>
 				<income-elasticity year="2035">0.75</income-elasticity>
