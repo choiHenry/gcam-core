@@ -4383,9 +4383,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">52472686</base-service>
-            <base-service year="1990">52472686</base-service>
-            <base-service year="2005">62915395</base-service>
+            <base-service year="1975">52435546</base-service>
+            <base-service year="1990">52435546</base-service>
+            <base-service year="2005">62873306</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.006</income-elasticity>
@@ -5302,9 +5302,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">22561936</base-service>
-            <base-service year="1990">22561936</base-service>
-            <base-service year="2005">30456699</base-service>
+            <base-service year="1975">22539647</base-service>
+            <base-service year="1990">22539647</base-service>
+            <base-service year="2005">30429050</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.014</income-elasticity>
             <income-elasticity year="2035">0.013</income-elasticity>
@@ -6221,9 +6221,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">28239286</base-service>
-            <base-service year="1990">28239286</base-service>
-            <base-service year="2005">45128244</base-service>
+            <base-service year="1975">28211505</base-service>
+            <base-service year="1990">28211505</base-service>
+            <base-service year="2005">45086763</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.261</income-elasticity>
             <income-elasticity year="2035">0.135</income-elasticity>
@@ -7539,9 +7539,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">217865</base-service>
-            <base-service year="1990">217865</base-service>
-            <base-service year="2005">110167</base-service>
+            <base-service year="1975">217848</base-service>
+            <base-service year="1990">217848</base-service>
+            <base-service year="2005">110158</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.089</income-elasticity>
@@ -12386,9 +12386,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">6236917</base-service>
-            <base-service year="1990">6236917</base-service>
-            <base-service year="2005">6338994</base-service>
+            <base-service year="1975">6231687</base-service>
+            <base-service year="1990">6231687</base-service>
+            <base-service year="2005">6334186</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.006</income-elasticity>
@@ -13297,9 +13297,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">3856362</base-service>
-            <base-service year="1990">3856362</base-service>
-            <base-service year="2005">8474714</base-service>
+            <base-service year="1975">3852830</base-service>
+            <base-service year="1990">3852830</base-service>
+            <base-service year="2005">8467830</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.014</income-elasticity>
             <income-elasticity year="2035">0.013</income-elasticity>
@@ -14208,9 +14208,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1984190</base-service>
-            <base-service year="1990">1984190</base-service>
-            <base-service year="2005">3004986</base-service>
+            <base-service year="1975">1982392</base-service>
+            <base-service year="1990">1982392</base-service>
+            <base-service year="2005">3002439</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.261</income-elasticity>
             <income-elasticity year="2035">0.135</income-elasticity>
@@ -15518,9 +15518,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">11342</base-service>
-            <base-service year="1990">11342</base-service>
-            <base-service year="2005">21207</base-service>
+            <base-service year="1975">11340</base-service>
+            <base-service year="1990">11340</base-service>
+            <base-service year="2005">21204</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.089</income-elasticity>
@@ -20275,9 +20275,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">111831102</base-service>
-            <base-service year="1990">111831102</base-service>
-            <base-service year="2005">109340965</base-service>
+            <base-service year="1975">111476483</base-service>
+            <base-service year="1990">111476483</base-service>
+            <base-service year="2005">109040647</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.006</income-elasticity>
@@ -21178,9 +21178,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">50908095</base-service>
-            <base-service year="1990">50908095</base-service>
-            <base-service year="2005">60160615</base-service>
+            <base-service year="1975">50460380</base-service>
+            <base-service year="1990">50460380</base-service>
+            <base-service year="2005">59736080</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.014</income-elasticity>
             <income-elasticity year="2035">0.013</income-elasticity>
@@ -22081,9 +22081,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">23771740</base-service>
-            <base-service year="1990">23771740</base-service>
-            <base-service year="2005">30820565</base-service>
+            <base-service year="1975">23575805</base-service>
+            <base-service year="1990">23575805</base-service>
+            <base-service year="2005">30624543</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.261</income-elasticity>
             <income-elasticity year="2035">0.135</income-elasticity>
@@ -23367,9 +23367,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">2027562</base-service>
-            <base-service year="1990">2027562</base-service>
-            <base-service year="2005">1762275</base-service>
+            <base-service year="1975">2026244</base-service>
+            <base-service year="1990">2026244</base-service>
+            <base-service year="2005">1761273</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.089</income-elasticity>
@@ -28194,9 +28194,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">6296593</base-service>
-            <base-service year="1990">6296593</base-service>
-            <base-service year="2005">6395323</base-service>
+            <base-service year="1975">6271676</base-service>
+            <base-service year="1990">6271676</base-service>
+            <base-service year="2005">6372013</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.006</income-elasticity>
@@ -29105,9 +29105,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">4947002</base-service>
-            <base-service year="1990">4947002</base-service>
-            <base-service year="2005">3975752</base-service>
+            <base-service year="1975">4927682</base-service>
+            <base-service year="1990">4927682</base-service>
+            <base-service year="2005">3962316</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.014</income-elasticity>
             <income-elasticity year="2035">0.013</income-elasticity>
@@ -30016,9 +30016,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">7207585</base-service>
-            <base-service year="1990">7207585</base-service>
-            <base-service year="2005">7124419</base-service>
+            <base-service year="1975">7181091</base-service>
+            <base-service year="1990">7181091</base-service>
+            <base-service year="2005">7101971</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.261</income-elasticity>
             <income-elasticity year="2035">0.135</income-elasticity>
@@ -31334,9 +31334,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">481</base-service>
-            <base-service year="1990">481</base-service>
-            <base-service year="2005">242</base-service>
+            <base-service year="1975">479</base-service>
+            <base-service year="1990">479</base-service>
+            <base-service year="2005">241</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.089</income-elasticity>
@@ -36116,9 +36116,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">81661858</base-service>
-            <base-service year="1990">81661858</base-service>
-            <base-service year="2005">50462265</base-service>
+            <base-service year="1975">81266857</base-service>
+            <base-service year="1990">81266857</base-service>
+            <base-service year="2005">50267130</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.022</income-elasticity>
             <income-elasticity year="2035">0.023</income-elasticity>
@@ -37027,9 +37027,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">20718065</base-service>
-            <base-service year="1990">20718065</base-service>
-            <base-service year="2005">8391864</base-service>
+            <base-service year="1975">20502371</base-service>
+            <base-service year="1990">20502371</base-service>
+            <base-service year="2005">8306859</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.014</income-elasticity>
             <income-elasticity year="2035">0.013</income-elasticity>
@@ -37938,9 +37938,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">14409247</base-service>
-            <base-service year="1990">14409247</base-service>
-            <base-service year="2005">10296560</base-service>
+            <base-service year="1975">14266980</base-service>
+            <base-service year="1990">14266980</base-service>
+            <base-service year="2005">10193708</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.261</income-elasticity>
             <income-elasticity year="2035">0.135</income-elasticity>
@@ -39232,9 +39232,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1183720</base-service>
-            <base-service year="1990">1183720</base-service>
-            <base-service year="2005">708770</base-service>
+            <base-service year="1975">1181983</base-service>
+            <base-service year="1990">1181983</base-service>
+            <base-service year="2005">708064</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.089</income-elasticity>
@@ -45694,9 +45694,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">10723006</base-service>
-            <base-service year="1990">10723006</base-service>
-            <base-service year="2005">18895128</base-service>
+            <base-service year="1975">10709046</base-service>
+            <base-service year="1990">10709046</base-service>
+            <base-service year="2005">18869403</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.006</income-elasticity>
@@ -46613,9 +46613,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1195362</base-service>
-            <base-service year="1990">1195362</base-service>
-            <base-service year="2005">1458629</base-service>
+            <base-service year="1975">1173708</base-service>
+            <base-service year="1990">1173708</base-service>
+            <base-service year="2005">1430928</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.014</income-elasticity>
             <income-elasticity year="2035">0.013</income-elasticity>
@@ -47532,9 +47532,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1345293</base-service>
-            <base-service year="1990">1345293</base-service>
-            <base-service year="2005">2247504</base-service>
+            <base-service year="1975">1322503</base-service>
+            <base-service year="1990">1322503</base-service>
+            <base-service year="2005">2207594</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.261</income-elasticity>
             <income-elasticity year="2035">0.135</income-elasticity>
@@ -48834,9 +48834,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1512390</base-service>
-            <base-service year="1990">1512390</base-service>
-            <base-service year="2005">1479720</base-service>
+            <base-service year="1975">1512089</base-service>
+            <base-service year="1990">1512089</base-service>
+            <base-service year="2005">1478887</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.089</income-elasticity>
@@ -53600,9 +53600,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">5768373</base-service>
-            <base-service year="1990">5768373</base-service>
-            <base-service year="2005">23389315</base-service>
+            <base-service year="1975">5767377</base-service>
+            <base-service year="1990">5767377</base-service>
+            <base-service year="2005">23379417</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.183</income-elasticity>
             <income-elasticity year="2035">0.1175</income-elasticity>
@@ -54503,9 +54503,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">78142701</base-service>
-            <base-service year="1990">78142701</base-service>
-            <base-service year="2005">166470700</base-service>
+            <base-service year="1975">78113915</base-service>
+            <base-service year="1990">78113915</base-service>
+            <base-service year="2005">166383169</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.069</income-elasticity>
             <income-elasticity year="2035">0.0415</income-elasticity>
@@ -55406,9 +55406,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">22688602</base-service>
-            <base-service year="1990">22688602</base-service>
-            <base-service year="2005">82142300</base-service>
+            <base-service year="1975">22680370</base-service>
+            <base-service year="1990">22680370</base-service>
+            <base-service year="2005">82099238</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.289</income-elasticity>
             <income-elasticity year="2035">0.1515</income-elasticity>
@@ -56692,9 +56692,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1473822</base-service>
-            <base-service year="1990">1473822</base-service>
-            <base-service year="2005">5497323</base-service>
+            <base-service year="1975">1473810</base-service>
+            <base-service year="1990">1473810</base-service>
+            <base-service year="2005">5497241</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.134</income-elasticity>
             <income-elasticity year="2035">0.074</income-elasticity>
@@ -61449,9 +61449,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">6000351</base-service>
-            <base-service year="1990">6000351</base-service>
-            <base-service year="2005">9694475</base-service>
+            <base-service year="1975">5971846</base-service>
+            <base-service year="1990">5971846</base-service>
+            <base-service year="2005">9652994</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.091</income-elasticity>
             <income-elasticity year="2035">0.0505</income-elasticity>
@@ -62352,9 +62352,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">40954</base-service>
-            <base-service year="1990">40954</base-service>
-            <base-service year="2005">63303</base-service>
+            <base-service year="1975">40593</base-service>
+            <base-service year="1990">40593</base-service>
+            <base-service year="2005">62797</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.05175</income-elasticity>
             <income-elasticity year="2035">0.031125</income-elasticity>
@@ -63255,9 +63255,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">3921121</base-service>
-            <base-service year="1990">3921121</base-service>
-            <base-service year="2005">7884018</base-service>
+            <base-service year="1975">3901157</base-service>
+            <base-service year="1990">3901157</base-service>
+            <base-service year="2005">7847670</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.289</income-elasticity>
             <income-elasticity year="2035">0.1515</income-elasticity>
@@ -64541,9 +64541,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">854209</base-service>
-            <base-service year="1990">854209</base-service>
-            <base-service year="2005">1314973</base-service>
+            <base-service year="1975">852147</base-service>
+            <base-service year="1990">852147</base-service>
+            <base-service year="2005">1311869</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.134</income-elasticity>
             <income-elasticity year="2035">0.074</income-elasticity>
@@ -70802,9 +70802,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">16324776</base-service>
-            <base-service year="1990">16324776</base-service>
-            <base-service year="2005">23282660</base-service>
+            <base-service year="1975">16312587</base-service>
+            <base-service year="1990">16312587</base-service>
+            <base-service year="2005">23255968</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.2</income-elasticity>
             <income-elasticity year="2035">0.105</income-elasticity>
@@ -71705,9 +71705,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1905099</base-service>
-            <base-service year="1990">1905099</base-service>
-            <base-service year="2005">2668386</base-service>
+            <base-service year="1975">1901618</base-service>
+            <base-service year="1990">1901618</base-service>
+            <base-service year="2005">2663611</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.069</income-elasticity>
             <income-elasticity year="2035">0.0415</income-elasticity>
@@ -72608,9 +72608,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">6811669</base-service>
-            <base-service year="1990">6811669</base-service>
-            <base-service year="2005">10878421</base-service>
+            <base-service year="1975">6793794</base-service>
+            <base-service year="1990">6793794</base-service>
+            <base-service year="2005">10839472</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.289</income-elasticity>
             <income-elasticity year="2035">0.1515</income-elasticity>
@@ -73894,9 +73894,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1947962</base-service>
-            <base-service year="1990">1947962</base-service>
-            <base-service year="2005">2308926</base-service>
+            <base-service year="1975">1947390</base-service>
+            <base-service year="1990">1947390</base-service>
+            <base-service year="2005">2308128</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.134</income-elasticity>
             <income-elasticity year="2035">0.074</income-elasticity>
@@ -78651,9 +78651,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">32722144</base-service>
-            <base-service year="1990">32722144</base-service>
-            <base-service year="2005">52790882</base-service>
+            <base-service year="1975">32690755</base-service>
+            <base-service year="1990">32690755</base-service>
+            <base-service year="2005">52745378</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.2</income-elasticity>
             <income-elasticity year="2035">0.105</income-elasticity>
@@ -79554,9 +79554,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">9391294</base-service>
-            <base-service year="1990">9391294</base-service>
-            <base-service year="2005">19172339</base-service>
+            <base-service year="1975">9368536</base-service>
+            <base-service year="1990">9368536</base-service>
+            <base-service year="2005">19129583</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.069</income-elasticity>
             <income-elasticity year="2035">0.0415</income-elasticity>
@@ -80457,9 +80457,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">16817816</base-service>
-            <base-service year="1990">16817816</base-service>
-            <base-service year="2005">42950252</base-service>
+            <base-service year="1975">16780972</base-service>
+            <base-service year="1990">16780972</base-service>
+            <base-service year="2005">42844049</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.289</income-elasticity>
             <income-elasticity year="2035">0.1515</income-elasticity>
@@ -81743,9 +81743,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">546683</base-service>
-            <base-service year="1990">546683</base-service>
-            <base-service year="2005">511146</base-service>
+            <base-service year="1975">546649</base-service>
+            <base-service year="1990">546649</base-service>
+            <base-service year="2005">511112</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.134</income-elasticity>
             <income-elasticity year="2035">0.074</income-elasticity>
@@ -86500,9 +86500,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">15401952</base-service>
-            <base-service year="1990">15401952</base-service>
-            <base-service year="2005">30122206</base-service>
+            <base-service year="1975">15384565</base-service>
+            <base-service year="1990">15384565</base-service>
+            <base-service year="2005">30072669</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.167</income-elasticity>
             <income-elasticity year="2035">0.097</income-elasticity>
@@ -87403,9 +87403,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">9154753</base-service>
-            <base-service year="1990">9154753</base-service>
-            <base-service year="2005">18681448</base-service>
+            <base-service year="1975">9148164</base-service>
+            <base-service year="1990">9148164</base-service>
+            <base-service year="2005">18659057</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.069</income-elasticity>
             <income-elasticity year="2035">0.0415</income-elasticity>
@@ -88306,9 +88306,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">9496890</base-service>
-            <base-service year="1990">9496890</base-service>
-            <base-service year="2005">19057078</base-service>
+            <base-service year="1975">9490161</base-service>
+            <base-service year="1990">9490161</base-service>
+            <base-service year="2005">19038792</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.289</income-elasticity>
             <income-elasticity year="2035">0.1515</income-elasticity>
@@ -89592,9 +89592,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1044910</base-service>
-            <base-service year="1990">1044910</base-service>
-            <base-service year="2005">1258908</base-service>
+            <base-service year="1975">1044771</base-service>
+            <base-service year="1990">1044771</base-service>
+            <base-service year="2005">1258686</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.134</income-elasticity>
             <income-elasticity year="2035">0.074</income-elasticity>
@@ -94397,9 +94397,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">28583776</base-service>
-            <base-service year="1990">28583776</base-service>
-            <base-service year="2005">26405859</base-service>
+            <base-service year="1975">28478696</base-service>
+            <base-service year="1990">28478696</base-service>
+            <base-service year="2005">26309982</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.022</income-elasticity>
             <income-elasticity year="2035">0.023</income-elasticity>
@@ -95300,9 +95300,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">18529390</base-service>
-            <base-service year="1990">18529390</base-service>
-            <base-service year="2005">14036024</base-service>
+            <base-service year="1975">18420819</base-service>
+            <base-service year="1990">18420819</base-service>
+            <base-service year="2005">13951096</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.014</income-elasticity>
             <income-elasticity year="2035">0.013</income-elasticity>
@@ -96203,9 +96203,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">7001075</base-service>
-            <base-service year="1990">7001075</base-service>
-            <base-service year="2005">8741329</base-service>
+            <base-service year="1975">6959963</base-service>
+            <base-service year="1990">6959963</base-service>
+            <base-service year="2005">8687594</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.261</income-elasticity>
             <income-elasticity year="2035">0.135</income-elasticity>
@@ -97513,9 +97513,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">421802</base-service>
-            <base-service year="1990">421802</base-service>
-            <base-service year="2005">209286</base-service>
+            <base-service year="1975">421528</base-service>
+            <base-service year="1990">421528</base-service>
+            <base-service year="2005">209144</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.01</income-elasticity>
             <income-elasticity year="2035">0.089</income-elasticity>
@@ -102311,9 +102311,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1427155</base-service>
-            <base-service year="1990">1427155</base-service>
-            <base-service year="2005">1801046</base-service>
+            <base-service year="1975">1425272</base-service>
+            <base-service year="1990">1425272</base-service>
+            <base-service year="2005">1796208</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.183</income-elasticity>
             <income-elasticity year="2035">0.1175</income-elasticity>
@@ -103230,9 +103230,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">2483890</base-service>
-            <base-service year="1990">2483890</base-service>
-            <base-service year="2005">3419535</base-service>
+            <base-service year="1975">2477908</base-service>
+            <base-service year="1990">2477908</base-service>
+            <base-service year="2005">3410451</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.069</income-elasticity>
             <income-elasticity year="2035">0.0415</income-elasticity>
@@ -104149,9 +104149,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1610037</base-service>
-            <base-service year="1990">1610037</base-service>
-            <base-service year="2005">2489504</base-service>
+            <base-service year="1975">1606300</base-service>
+            <base-service year="1990">1606300</base-service>
+            <base-service year="2005">2482727</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.289</income-elasticity>
             <income-elasticity year="2035">0.1515</income-elasticity>
@@ -105451,9 +105451,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">7885</base-service>
-            <base-service year="1990">7885</base-service>
-            <base-service year="2005">17994</base-service>
+            <base-service year="1975">7884</base-service>
+            <base-service year="1990">7884</base-service>
+            <base-service year="2005">17993</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.134</income-elasticity>
             <income-elasticity year="2035">0.074</income-elasticity>
@@ -110208,9 +110208,9 @@
          </supplysector>
          <energy-final-demand name="DairyDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">41874588</base-service>
-            <base-service year="1990">41874588</base-service>
-            <base-service year="2005">74444184</base-service>
+            <base-service year="1975">41828909</base-service>
+            <base-service year="1990">41828909</base-service>
+            <base-service year="2005">74318345</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.167</income-elasticity>
             <income-elasticity year="2035">0.097</income-elasticity>
@@ -111111,9 +111111,9 @@
          </supplysector>
          <energy-final-demand name="PorkDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">1344190</base-service>
-            <base-service year="1990">1344190</base-service>
-            <base-service year="2005">1620116</base-service>
+            <base-service year="1975">1343279</base-service>
+            <base-service year="1990">1343279</base-service>
+            <base-service year="2005">1618732</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.069</income-elasticity>
             <income-elasticity year="2035">0.0415</income-elasticity>
@@ -112014,9 +112014,9 @@
          </supplysector>
          <energy-final-demand name="PoultryDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">2890945</base-service>
-            <base-service year="1990">2890945</base-service>
-            <base-service year="2005">8486434</base-service>
+            <base-service year="1975">2889466</base-service>
+            <base-service year="1990">2889466</base-service>
+            <base-service year="2005">8479091</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.289</income-elasticity>
             <income-elasticity year="2035">0.1515</income-elasticity>
@@ -113300,9 +113300,9 @@
          </supplysector>
          <energy-final-demand name="SheepGoatDemand">
             <perCapitaBased>1</perCapitaBased>
-            <base-service year="1975">744246</base-service>
-            <base-service year="1990">744246</base-service>
-            <base-service year="2005">892734</base-service>
+            <base-service year="1975">744150</base-service>
+            <base-service year="1990">744150</base-service>
+            <base-service year="2005">892554</base-service>
             <price-elasticity fillout="1" year="2020">-0.5</price-elasticity>
             <income-elasticity year="2020">0.134</income-elasticity>
             <income-elasticity year="2035">0.074</income-elasticity>
