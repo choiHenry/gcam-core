@@ -90046,7 +90046,7 @@
                      <landType>PastureLand</landType>
                      <agProdChange>0</agProdChange>
                      <CO2 name="CO2"/>
-                     <maxYield>245000</maxYield>
+                     <maxYield>260345.1904</maxYield>
                   </period>
                   <period year="1990">
                      <landType>PastureLand</landType>
@@ -90056,7 +90056,7 @@
                      </CalDataOutput>
                      <agProdChange>0</agProdChange>
                      <CO2 name="CO2"/>
-                     <maxYield>245000</maxYield>
+                     <maxYield>260345.1904</maxYield>
                   </period>
                   <period year="2005">
                      <landType>PastureLand</landType>
@@ -90066,43 +90066,43 @@
                      </CalDataOutput>
                      <agProdChange>0</agProdChange>
                      <CO2 name="CO2"/>
-                     <maxYield>21881.3</maxYield>
+                     <maxYield>159372.8981</maxYield>
                   </period>
                   <period year="2020">
                      <landType>PastureLand</landType>
                      <agProdChange>0</agProdChange>
                      <CO2 name="CO2"/>
-                     <maxYield>9377.7</maxYield>
+                     <maxYield>68302.67061</maxYield>
                   </period>
                   <period year="2035">
                      <landType>PastureLand</landType>
                      <agProdChange>0</agProdChange>
                      <CO2 name="CO2"/>
-                     <maxYield>9377.7</maxYield>
+                     <maxYield>68302.67061</maxYield>
                   </period>
                   <period year="2050">
                      <landType>PastureLand</landType>
                      <agProdChange>0</agProdChange>
                      <CO2 name="CO2"/>
-                     <maxYield>9377.7</maxYield>
+                     <maxYield>68302.67061</maxYield>
                   </period>
                   <period year="2065">
                      <landType>PastureLand</landType>
                      <agProdChange>0</agProdChange>
                      <CO2 name="CO2"/>
-                     <maxYield>9377.7</maxYield>
+                     <maxYield>68302.67061</maxYield>
                   </period>
                   <period year="2080">
                      <landType>PastureLand</landType>
                      <agProdChange>0</agProdChange>
                      <CO2 name="CO2"/>
-                     <maxYield>9377.7</maxYield>
+                     <maxYield>68302.67061</maxYield>
                   </period>
                   <period year="2095">
                      <landType>PastureLand</landType>
                      <agProdChange>0</agProdChange>
                      <CO2 name="CO2"/>
-                     <maxYield>9377.7</maxYield>
+                     <maxYield>68302.67061</maxYield>
                   </period>
                </FoodProductionTechnology>
             </FoodSupplySubsector>
@@ -90566,7 +90566,7 @@
                   </period>
                   <period year="1990">
                      <landType>CropLand</landType>
-                     <calLandUsed>7123</calLandUsed>
+                     <calLandUsed>4600</calLandUsed>
                      <CalDataOutput>
                         <calOutputValue>47234283</calOutputValue>
                      </CalDataOutput>
@@ -90650,7 +90650,7 @@
                   </period>
                   <period year="1990">
                      <landType>CropLand</landType>
-                     <calLandUsed>1106</calLandUsed>
+                     <calLandUsed>600</calLandUsed>
                      <CalDataOutput>
                         <calOutputValue>25959439</calOutputValue>
                      </CalDataOutput>
@@ -90734,7 +90734,7 @@
                   </period>
                   <period year="1990">
                      <landType>CropLand</landType>
-                     <calLandUsed>4831</calLandUsed>
+                     <calLandUsed>2800</calLandUsed>
                      <CalDataOutput>
                         <calOutputValue>101441731</calOutputValue>
                      </CalDataOutput>
@@ -90818,7 +90818,7 @@
                   </period>
                   <period year="1990">
                      <landType>CropLand</landType>
-                     <calLandUsed>102</calLandUsed>
+                     <calLandUsed>30</calLandUsed>
                      <CalDataOutput>
                         <calOutputValue>61672000</calOutputValue>
                      </CalDataOutput>
