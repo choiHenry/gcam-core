@@ -1194,7 +1194,7 @@
                            <fuel-shift-range>43.58747402</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.65</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -15470,7 +15470,7 @@
                            <fuel-shift-range>17.05</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -15946,7 +15946,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.140681638</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.220773868</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.49</reduction>
                   <reduction tax="10">0.67</reduction>
@@ -15964,7 +15964,7 @@
                   <fuel-shift-range>51.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.86</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -15972,7 +15972,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.293687859</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.20825756</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.15</reduction>
                   <reduction tax="10">0.19</reduction>
@@ -15990,19 +15990,19 @@
                   <fuel-shift-range>43.59</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.65</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.028234149</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.020021172</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.020314452</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.029718667</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.00</reduction>
@@ -16020,13 +16020,13 @@
                   <fuel-shift-range>28.97</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.31</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.000836783</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.001224156</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -17630,7 +17630,7 @@
                            <fuel-shift-range>38.59649128</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.638744196</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -31907,7 +31907,7 @@
                            <fuel-shift-range>18.33</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.71</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -32383,7 +32383,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.227746723</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.196970475</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.00</reduction>
@@ -32401,7 +32401,7 @@
                   <fuel-shift-range>0.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.00</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -32409,7 +32409,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.350337278</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.290975047</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.13</reduction>
                   <reduction tax="10">0.15</reduction>
@@ -32427,19 +32427,19 @@
                   <fuel-shift-range>38.60</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.64</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.035568909</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.029542003</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.061355809</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.065288233</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.00</reduction>
@@ -32457,13 +32457,13 @@
                   <fuel-shift-range>0.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.39</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.088019129</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.093660461</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -34067,7 +34067,7 @@
                            <fuel-shift-range>62.46244535</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.635985485</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -48343,7 +48343,7 @@
                            <fuel-shift-range>36.67</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.72</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -48819,7 +48819,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.104127959</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.170366955</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.13</reduction>
                   <reduction tax="10">0.41</reduction>
@@ -48837,7 +48837,7 @@
                   <fuel-shift-range>36.23</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.39</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -48845,7 +48845,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.150059464</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.101317165</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.18</reduction>
                   <reduction tax="10">0.18</reduction>
@@ -48863,19 +48863,19 @@
                   <fuel-shift-range>62.46</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.64</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.006442679</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.004349969</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.053002433</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.031415799</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.06</reduction>
@@ -48893,13 +48893,13 @@
                   <fuel-shift-range>18.80</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.28</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.159355141</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.094453573</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -50503,7 +50503,7 @@
                            <fuel-shift-range>46.98188037</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.699892893</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -64779,7 +64779,7 @@
                            <fuel-shift-range>0.00</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.90</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -65255,7 +65255,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.007658718</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.084012632</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.98</reduction>
                   <reduction tax="10">0.98</reduction>
@@ -65273,7 +65273,7 @@
                   <fuel-shift-range>0.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.98</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -65281,7 +65281,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.014247581</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.048208907</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.28</reduction>
                   <reduction tax="10">0.28</reduction>
@@ -65299,13 +65299,13 @@
                   <fuel-shift-range>46.98</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.052826859</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.178747902</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
@@ -65329,7 +65329,7 @@
                   <fuel-shift-range>34.92</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.16</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -66939,7 +66939,7 @@
                            <fuel-shift-range>50.00042621</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.696745028</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -81216,7 +81216,7 @@
                            <fuel-shift-range>42.64</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.71</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -81692,7 +81692,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.1540631</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.122213971</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.28</reduction>
                   <reduction tax="10">0.83</reduction>
@@ -81710,7 +81710,7 @@
                   <fuel-shift-range>40.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.83</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -81718,7 +81718,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.062462906</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.073100359</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.20</reduction>
                   <reduction tax="10">0.20</reduction>
@@ -81736,19 +81736,19 @@
                   <fuel-shift-range>50.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.022446652</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.026269324</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.412358585</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.172580039</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.12</reduction>
@@ -81766,13 +81766,13 @@
                   <fuel-shift-range>19.96</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.35</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.34282796</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.143480128</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -83376,7 +83376,7 @@
                            <fuel-shift-range>13.44777948</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.6528085</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -97652,7 +97652,7 @@
                            <fuel-shift-range>18.33</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -98128,7 +98128,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.124493674</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.129171158</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.20</reduction>
                   <reduction tax="10">0.39</reduction>
@@ -98146,7 +98146,7 @@
                   <fuel-shift-range>18.69</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.80</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -98154,7 +98154,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.209322826</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.287933752</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.03</reduction>
                   <reduction tax="10">0.21</reduction>
@@ -98172,19 +98172,19 @@
                   <fuel-shift-range>13.45</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.65</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.006681267</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.009190409</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.027960512</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.028000513</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.00</reduction>
@@ -98202,13 +98202,13 @@
                   <fuel-shift-range>13.33</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.43</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.018928215</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.018955294</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -99812,7 +99812,7 @@
                            <fuel-shift-range>33.61269535</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.692004658</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -114088,7 +114088,7 @@
                            <fuel-shift-range>18.80</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -114564,7 +114564,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.394376818</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.348155388</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.42</reduction>
                   <reduction tax="10">0.84</reduction>
@@ -114582,7 +114582,7 @@
                   <fuel-shift-range>22.10</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.84</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -114590,7 +114590,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.388230992</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.255402543</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.31</reduction>
                   <reduction tax="10">0.36</reduction>
@@ -114608,19 +114608,19 @@
                   <fuel-shift-range>33.61</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.69</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.03482538</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.022910305</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.06668219</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.069940423</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.00</reduction>
@@ -114638,13 +114638,13 @@
                   <fuel-shift-range>23.67</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.48</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.11399151</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.119561375</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -116248,7 +116248,7 @@
                            <fuel-shift-range>43.47662581</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.697373364</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -130525,7 +130525,7 @@
                            <fuel-shift-range>39.64</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.59</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -131002,7 +131002,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>8.110314944</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>3.283699303</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.29</reduction>
                   <reduction tax="10">0.86</reduction>
@@ -131020,7 +131020,7 @@
                   <fuel-shift-range>50.82</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.86</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -131028,7 +131028,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.896997874</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.675527048</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.14</reduction>
                   <reduction tax="10">0.20</reduction>
@@ -131046,19 +131046,19 @@
                   <fuel-shift-range>43.48</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.04323498</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.032560165</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.039850782</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.039097576</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.21</reduction>
@@ -131076,13 +131076,13 @@
                   <fuel-shift-range>19.96</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.49</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.219787877</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.215633743</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -132687,7 +132687,7 @@
                            <fuel-shift-range>50.00000094</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.696388316</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -146965,7 +146965,7 @@
                            <fuel-shift-range>26.77</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -147441,7 +147441,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.346130154</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.318034343</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.39</reduction>
                   <reduction tax="10">0.51</reduction>
@@ -147459,7 +147459,7 @@
                   <fuel-shift-range>26.83</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.86</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -147467,7 +147467,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.179935387</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.169766441</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.21</reduction>
                   <reduction tax="10">0.21</reduction>
@@ -147485,19 +147485,19 @@
                   <fuel-shift-range>50.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.036710334</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.03463567</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.126637337</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.114557229</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.33</reduction>
@@ -147515,13 +147515,13 @@
                   <fuel-shift-range>20.80</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.47</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.293564426</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.265560916</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -149125,7 +149125,7 @@
                            <fuel-shift-range>51.16276447</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.69794425</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -163402,7 +163402,7 @@
                            <fuel-shift-range>19.82</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.82</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -163878,7 +163878,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>1.93608218</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.455617065</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.00</reduction>
@@ -163896,7 +163896,7 @@
                   <fuel-shift-range>25.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.21</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -163904,7 +163904,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.30069351</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.271925986</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.17</reduction>
                   <reduction tax="10">0.22</reduction>
@@ -163922,19 +163922,19 @@
                   <fuel-shift-range>51.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.027405617</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.024783706</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.117306255</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.116327754</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.17</reduction>
@@ -163952,13 +163952,13 @@
                   <fuel-shift-range>23.20</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.44</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.158158887</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.156839618</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -165562,7 +165562,7 @@
                            <fuel-shift-range>51.16268429</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.696521348</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -179839,7 +179839,7 @@
                            <fuel-shift-range>28.21</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -180315,7 +180315,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.761225046</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.1682142</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.49</reduction>
                   <reduction tax="10">0.84</reduction>
@@ -180333,7 +180333,7 @@
                   <fuel-shift-range>50.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.84</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -180341,7 +180341,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.312540987</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.413010333</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.12</reduction>
                   <reduction tax="10">0.21</reduction>
@@ -180359,19 +180359,19 @@
                   <fuel-shift-range>51.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.021856951</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.02888308</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.157675044</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.105513009</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.00</reduction>
@@ -180389,13 +180389,13 @@
                   <fuel-shift-range>47.35</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.36</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.414952033</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.277677663</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -181999,7 +181999,7 @@
                            <fuel-shift-range>48.12423481</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.645869514</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -196276,7 +196276,7 @@
                            <fuel-shift-range>26.49</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -196752,7 +196752,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.662131976</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.199180356</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.34</reduction>
                   <reduction tax="10">0.73</reduction>
@@ -196770,7 +196770,7 @@
                   <fuel-shift-range>50.17</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.73</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -196778,7 +196778,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.452689561</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.434512265</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.24</reduction>
                   <reduction tax="10">0.26</reduction>
@@ -196796,19 +196796,19 @@
                   <fuel-shift-range>48.12</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.65</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.036227718</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.03477303</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.07511734</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.11008653</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.12</reduction>
@@ -196826,13 +196826,13 @@
                   <fuel-shift-range>20.78</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.27</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.062943604</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.092245586</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
@@ -198436,7 +198436,7 @@
                            <fuel-shift-range>46.54511113</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.70000186</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -212713,7 +212713,7 @@
                            <fuel-shift-range>22.19</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.90</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -213189,7 +213189,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>2.798475111</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>1.473756166</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.00</reduction>
@@ -213207,7 +213207,7 @@
                   <fuel-shift-range>0.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.00</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -213233,7 +213233,7 @@
                   <fuel-shift-range>46.55</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -213263,7 +213263,7 @@
                   <fuel-shift-range>50.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.18</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -214873,7 +214873,7 @@
                            <fuel-shift-range>34.90408039</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.698689028</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -229150,7 +229150,7 @@
                            <fuel-shift-range>17.45</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
-                           <base-cost-year>1990</base-cost-year>
+                           <base-cost-year>2005</base-cost-year>
                            <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                         </MAC>
                      </generic-ghg>
@@ -229626,7 +229626,7 @@
          <depresource name="coal" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.298770943</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.218294009</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.83</reduction>
                   <reduction tax="10">0.84</reduction>
@@ -229644,7 +229644,7 @@
                   <fuel-shift-range>51.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.84</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
@@ -229652,7 +229652,7 @@
          <depresource name="natural gas" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.559963124</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.713224677</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.20</reduction>
                   <reduction tax="10">0.27</reduction>
@@ -229670,19 +229670,19 @@
                   <fuel-shift-range>34.90</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.095774369</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.121987753</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <depresource name="crude oil" nocreate="1">
             <generic-ghg name="CH4">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.03746256</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.097604653</uncontrolled-emiss-coef>
                <MAC>
                   <reduction tax="0">0.00</reduction>
                   <reduction tax="10">0.00</reduction>
@@ -229700,13 +229700,13 @@
                   <fuel-shift-range>23.66</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.31</final-reduction>
-                  <base-cost-year>1990</base-cost-year>
+                  <base-cost-year>2005</base-cost-year>
                   <curve-shift-fuel-name>regional natural gas</curve-shift-fuel-name>
                </MAC>
             </generic-ghg>
             <generic-ghg name="NMVOC">
                <output-driver/>
-               <uncontrolled-emiss-coef>0.116567848</uncontrolled-emiss-coef>
+               <uncontrolled-emiss-coef>0.303704939</uncontrolled-emiss-coef>
             </generic-ghg>
          </depresource>
          <supplysector name="H2 Forecourt Production" nocreate="1">
