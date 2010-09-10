@@ -3055,6 +3055,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01595</efficiency>
@@ -4397,6 +4400,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.21675</efficiency>
@@ -7649,6 +7655,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01530</efficiency>
@@ -11421,6 +11430,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01358</efficiency>
@@ -12763,6 +12775,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.21385</efficiency>
@@ -16015,6 +16030,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01596</efficiency>
@@ -19745,6 +19763,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00473</efficiency>
@@ -21087,6 +21108,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.17565</efficiency>
@@ -24339,6 +24363,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.04161</efficiency>
@@ -28075,6 +28102,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00500</efficiency>
@@ -29417,6 +29447,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00500</efficiency>
@@ -32669,6 +32702,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00500</efficiency>
@@ -36408,6 +36444,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01947</efficiency>
@@ -37750,6 +37789,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.15993</efficiency>
@@ -41002,6 +41044,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.02964</efficiency>
@@ -44741,6 +44786,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Corn">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Corn">
                         <efficiency>0.01389</efficiency>
@@ -44835,6 +44883,9 @@
                   </period>
                </technology>
                <technology name="FodderCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="FodderCrop">
                         <efficiency>0.01389</efficiency>
@@ -44929,6 +44980,9 @@
                   </period>
                </technology>
                <technology name="MiscCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="MiscCrop">
                         <efficiency>0.01389</efficiency>
@@ -45023,6 +45077,9 @@
                   </period>
                </technology>
                <technology name="OilCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="OilCrop">
                         <efficiency>0.01389</efficiency>
@@ -45117,6 +45174,9 @@
                   </period>
                </technology>
                <technology name="OtherGrain">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="OtherGrain">
                         <efficiency>0.01389</efficiency>
@@ -45211,6 +45271,9 @@
                   </period>
                </technology>
                <technology name="Rice">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Rice">
                         <efficiency>0.01389</efficiency>
@@ -45305,6 +45368,9 @@
                   </period>
                </technology>
                <technology name="SugarCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="SugarCrop">
                         <efficiency>0.01389</efficiency>
@@ -45399,6 +45465,9 @@
                   </period>
                </technology>
                <technology name="Wheat">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Wheat">
                         <efficiency>0.01389</efficiency>
@@ -45493,6 +45562,9 @@
                   </period>
                </technology>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01389</efficiency>
@@ -46835,6 +46907,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Corn">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Corn">
                         <efficiency>0.19725</efficiency>
@@ -46929,6 +47004,9 @@
                   </period>
                </technology>
                <technology name="FodderCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="FodderCrop">
                         <efficiency>0.19725</efficiency>
@@ -47023,6 +47101,9 @@
                   </period>
                </technology>
                <technology name="MiscCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="MiscCrop">
                         <efficiency>0.19725</efficiency>
@@ -47117,6 +47198,9 @@
                   </period>
                </technology>
                <technology name="OilCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="OilCrop">
                         <efficiency>0.19725</efficiency>
@@ -47211,6 +47295,9 @@
                   </period>
                </technology>
                <technology name="OtherGrain">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="OtherGrain">
                         <efficiency>0.19725</efficiency>
@@ -47305,6 +47392,9 @@
                   </period>
                </technology>
                <technology name="Rice">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Rice">
                         <efficiency>0.19725</efficiency>
@@ -47399,6 +47489,9 @@
                   </period>
                </technology>
                <technology name="SugarCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="SugarCrop">
                         <efficiency>0.19725</efficiency>
@@ -47493,6 +47586,9 @@
                   </period>
                </technology>
                <technology name="Wheat">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Wheat">
                         <efficiency>0.19725</efficiency>
@@ -47587,6 +47683,9 @@
                   </period>
                </technology>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.19725</efficiency>
@@ -50839,6 +50938,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01761</efficiency>
@@ -54578,6 +54680,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00343</efficiency>
@@ -55920,6 +56025,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.13191</efficiency>
@@ -59172,6 +59280,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01779</efficiency>
@@ -62902,6 +63013,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00965</efficiency>
@@ -64244,6 +64358,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.17037</efficiency>
@@ -67496,6 +67613,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.03804</efficiency>
@@ -71226,6 +71346,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Corn">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Corn">
                         <efficiency>0.00487</efficiency>
@@ -71320,6 +71443,9 @@
                   </period>
                </technology>
                <technology name="FodderCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="FodderCrop">
                         <efficiency>0.00487</efficiency>
@@ -71414,6 +71540,9 @@
                   </period>
                </technology>
                <technology name="MiscCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="MiscCrop">
                         <efficiency>0.00487</efficiency>
@@ -71508,6 +71637,9 @@
                   </period>
                </technology>
                <technology name="OilCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="OilCrop">
                         <efficiency>0.00487</efficiency>
@@ -71602,6 +71734,9 @@
                   </period>
                </technology>
                <technology name="OtherGrain">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="OtherGrain">
                         <efficiency>0.00487</efficiency>
@@ -71696,6 +71831,9 @@
                   </period>
                </technology>
                <technology name="Rice">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Rice">
                         <efficiency>0.00487</efficiency>
@@ -71790,6 +71928,9 @@
                   </period>
                </technology>
                <technology name="SugarCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="SugarCrop">
                         <efficiency>0.00487</efficiency>
@@ -71884,6 +72025,9 @@
                   </period>
                </technology>
                <technology name="Wheat">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Wheat">
                         <efficiency>0.00487</efficiency>
@@ -71978,6 +72122,9 @@
                   </period>
                </technology>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00487</efficiency>
@@ -73320,6 +73467,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Corn">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Corn">
                         <efficiency>0.06417</efficiency>
@@ -73414,6 +73564,9 @@
                   </period>
                </technology>
                <technology name="FodderCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="FodderCrop">
                         <efficiency>0.06417</efficiency>
@@ -73508,6 +73661,9 @@
                   </period>
                </technology>
                <technology name="MiscCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="MiscCrop">
                         <efficiency>0.06417</efficiency>
@@ -73602,6 +73758,9 @@
                   </period>
                </technology>
                <technology name="OilCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="OilCrop">
                         <efficiency>0.06417</efficiency>
@@ -73696,6 +73855,9 @@
                   </period>
                </technology>
                <technology name="OtherGrain">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="OtherGrain">
                         <efficiency>0.06417</efficiency>
@@ -73790,6 +73952,9 @@
                   </period>
                </technology>
                <technology name="Rice">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Rice">
                         <efficiency>0.06417</efficiency>
@@ -73884,6 +74049,9 @@
                   </period>
                </technology>
                <technology name="SugarCrop">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="SugarCrop">
                         <efficiency>0.06417</efficiency>
@@ -73978,6 +74146,9 @@
                   </period>
                </technology>
                <technology name="Wheat">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Wheat">
                         <efficiency>0.06417</efficiency>
@@ -74072,6 +74243,9 @@
                   </period>
                </technology>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.06417</efficiency>
@@ -77324,6 +77498,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.02267</efficiency>
@@ -81054,6 +81231,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00811</efficiency>
@@ -82396,6 +82576,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.08156</efficiency>
@@ -85648,6 +85831,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00692</efficiency>
@@ -89378,6 +89564,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00378</efficiency>
@@ -90720,6 +90909,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.10383</efficiency>
@@ -93972,6 +94164,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01793</efficiency>
@@ -97702,6 +97897,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00500</efficiency>
@@ -99044,6 +99242,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00500</efficiency>
@@ -102296,6 +102497,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00500</efficiency>
@@ -106035,6 +106239,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01073</efficiency>
@@ -107377,6 +107584,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.32010</efficiency>
@@ -110629,6 +110839,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01127</efficiency>
@@ -114359,6 +114572,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.00361</efficiency>
@@ -115701,6 +115917,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.10448</efficiency>
@@ -118953,6 +119172,9 @@
                </interpolation-rule>
                <logit-exponent fillout="1" year="1975">-6</logit-exponent>
                <technology name="Pasture">
+                  <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2095">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
                   <period year="1975">
                      <minicam-energy-input name="Pasture">
                         <efficiency>0.01788</efficiency>
