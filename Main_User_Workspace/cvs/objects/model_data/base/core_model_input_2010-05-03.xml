@@ -4200,6 +4200,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -4212,6 +4214,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -4224,6 +4228,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -4239,6 +4245,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -4254,6 +4262,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -4269,6 +4279,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -4284,6 +4296,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -4299,6 +4313,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -4314,6 +4330,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -14774,6 +14792,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -14786,6 +14806,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -14798,6 +14820,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -14813,6 +14837,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -14828,6 +14854,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -14843,6 +14871,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -14858,6 +14888,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -14873,6 +14905,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -14888,6 +14922,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -25311,6 +25347,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -25323,6 +25361,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -25335,6 +25375,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -25350,6 +25392,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -25365,6 +25409,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -25380,6 +25426,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -25395,6 +25443,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -25410,6 +25460,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -25425,6 +25477,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -35883,6 +35937,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -35895,6 +35951,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -35907,6 +35965,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -35922,6 +35982,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -35937,6 +35999,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -35952,6 +36016,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -35967,6 +36033,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -35982,6 +36050,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -35997,6 +36067,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -46410,6 +46482,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -46422,6 +46496,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -46434,6 +46510,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -46449,6 +46527,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -46464,6 +46544,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -46479,6 +46561,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -46494,6 +46578,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -46509,6 +46595,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -46524,6 +46612,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -56947,6 +57037,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -56959,6 +57051,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -56971,6 +57065,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -56986,6 +57082,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -57001,6 +57099,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -57016,6 +57116,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -57031,6 +57133,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -57046,6 +57150,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -57061,6 +57167,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -67526,6 +67634,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -67538,6 +67648,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -67550,6 +67662,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -67565,6 +67679,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -67580,6 +67696,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -67595,6 +67713,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -67610,6 +67730,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -67625,6 +67747,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -67640,6 +67764,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -78232,6 +78358,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -78244,6 +78372,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -78256,6 +78386,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -78271,6 +78403,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -78286,6 +78420,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -78301,6 +78437,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -78316,6 +78454,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -78331,6 +78471,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -78346,6 +78488,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -88798,6 +88942,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -88810,6 +88956,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -88822,6 +88970,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -88837,6 +88987,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -88852,6 +89004,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -88867,6 +89021,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -88882,6 +89038,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -88897,6 +89055,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -88912,6 +89072,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -99506,6 +99668,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -99518,6 +99682,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -99530,6 +99696,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -99545,6 +99713,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -99560,6 +99730,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -99575,6 +99747,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -99590,6 +99764,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -99605,6 +99781,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -99620,6 +99798,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -110216,6 +110396,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -110228,6 +110410,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -110240,6 +110424,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -110255,6 +110441,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -110270,6 +110458,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -110285,6 +110475,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -110300,6 +110492,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -110315,6 +110509,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -110330,6 +110526,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -120919,6 +121117,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -120931,6 +121131,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -120943,6 +121145,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -120958,6 +121162,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -120973,6 +121179,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -120988,6 +121196,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -121003,6 +121213,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -121018,6 +121230,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -121033,6 +121247,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -131522,6 +131738,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -131534,6 +131752,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -131546,6 +131766,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -131561,6 +131783,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -131576,6 +131800,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -131591,6 +131817,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -131606,6 +131834,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -131621,6 +131851,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -131636,6 +131868,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -142058,6 +142292,8 @@
 						<period year="1975">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -142070,6 +142306,8 @@
 						<period year="1990">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.025</shutdown-rate>
 							</phased-shutdown-decider>
@@ -142082,6 +142320,8 @@
 						<period year="2005">
 							<share-weight>0</share-weight>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -142097,6 +142337,8 @@
 						<period year="2020"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -142112,6 +142354,8 @@
 						<period year="2035"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -142127,6 +142371,8 @@
 						<period year="2050"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -142142,6 +142388,8 @@
 						<period year="2065"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -142157,6 +142405,8 @@
 						<period year="2080"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
@@ -142172,6 +142422,8 @@
 						<period year="2095"><share-weight>1</share-weight>
 							<lifetime>45</lifetime>
 							
+							<profit-shutdown-decider>
+							</profit-shutdown-decider>
 							<phased-shutdown-decider>
 								<shutdown-rate>0.0075</shutdown-rate>
 							</phased-shutdown-decider>
