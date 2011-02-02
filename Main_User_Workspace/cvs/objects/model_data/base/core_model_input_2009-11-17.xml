@@ -1,25 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v5 rel. 3 U (http://www.xmlspy.com) by Son H. Kim (PNNL) -->
 <scenario name="ccsp_sd_cal" date="2007-17-8T18:25:51-00:00">
 	<modeltime>
+		<!--
 		<startyear>1975</startyear>
 		<interyear1>2005</interyear1>
 		<interyear2>2020</interyear2>
 		<endyear>2095</endyear>
-		<final-calibration-year>2005</final-calibration-year>
 		<timestep1>15</timestep1>
 		<timestep2>15</timestep2>
 		<timestep3>15</timestep3>
+		-->
+		<start-year time-step="15">1975</start-year>
+		<inter-year time-step="5">2005</inter-year>
+		<inter-year time-step="2">2010</inter-year>
+		<inter-year time-step="3">2012</inter-year>
+		<inter-year time-step="5">2015</inter-year>
+		<inter-year time-step="5">2020</inter-year>
+		<end-year>2100</end-year>
+		<final-calibration-year>2005</final-calibration-year>
 	</modeltime>
 	<output-meta-data>
-		<primary-fuel var="crude oil"></primary-fuel>
-		<primary-fuel var="shale oil"></primary-fuel>
-		<primary-fuel var="natural gas"></primary-fuel>
-		<primary-fuel var="coal"></primary-fuel>
-		<primary-fuel var="nuclearFuelGenII"></primary-fuel>
-		<primary-fuel var="nuclearFuelGenIII"></primary-fuel>
-		<primary-fuel var="biomass"></primary-fuel>
-		<primary-fuel var="traditional biomass"></primary-fuel>
-		<primary-fuel var="renewable"></primary-fuel>
+		<primary-fuel var="crude oil"/>
+		<primary-fuel var="shale oil"/>
+		<primary-fuel var="natural gas"/>
+		<primary-fuel var="coal"/>
+		<primary-fuel var="nuclearFuelGenII"/>
+		<primary-fuel var="nuclearFuelGenIII"/>
+		<primary-fuel var="biomass"/>
+		<primary-fuel var="traditional biomass"/>
+		<primary-fuel var="renewable"/>
 		<summary>CCSP Reference Scenario</summary>
 	</output-meta-data>
 	<world>
@@ -2932,7 +2942,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -3595,7 +3605,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -5746,7 +5756,7 @@
 						</period>
 						<period year="1990">
 							<sharewt>0</sharewt>
-							<fixedOutput>2.20172</fixedOutput>
+							<fixedOutput>2.2013028</fixedOutput>
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
@@ -5764,7 +5774,7 @@
 						<period year="2005">
 							<sharewt>0</sharewt>
 							<lifetime>45</lifetime>
-							<fixedOutput>2.92802</fixedOutput>
+							<fixedOutput>2.9186136</fixedOutput>
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
@@ -13819,7 +13829,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -14482,7 +14492,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -24669,7 +24679,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -25332,7 +25342,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -35554,7 +35564,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -36217,7 +36227,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -46394,7 +46404,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -47057,7 +47067,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -57244,7 +57254,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -57907,7 +57917,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -68136,7 +68146,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -68799,7 +68809,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -79155,7 +79165,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -79818,7 +79828,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -90034,7 +90044,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -90697,7 +90707,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -101055,7 +101065,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -101718,7 +101728,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -112078,7 +112088,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -112741,7 +112751,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -123094,7 +123104,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -123757,7 +123767,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -134010,7 +134020,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -134673,7 +134683,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -144859,7 +144869,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.02</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>
@@ -145522,7 +145532,7 @@
 							<profit-shutdown-decider>
 							</profit-shutdown-decider>
 							<phased-shutdown-decider>
-								<shutdown-rate>0.025</shutdown-rate>
+								<shutdown-rate>0.05</shutdown-rate>
 							</phased-shutdown-decider>
 							<CO2 name="CO2">
 							</CO2>

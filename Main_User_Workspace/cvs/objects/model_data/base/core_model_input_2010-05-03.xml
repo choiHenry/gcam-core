@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><scenario name="ccsp_sd_cal" date="2007-17-8T18:25:51-00:00">
 	<modeltime>
-		<startyear>1975</startyear>
-		<interyear1>2005</interyear1>
-		<interyear2>2020</interyear2>
-		<endyear>2095</endyear>
+		<start-year time-step="15">1975</start-year>
+		<inter-year time-step="15">2005</inter-year>
+		<end-year>2095</end-year>
 		<final-calibration-year>2005</final-calibration-year>
-		<timestep1>15</timestep1>
-		<timestep2>15</timestep2>
-		<timestep3>15</timestep3>
 	</modeltime>
 	<output-meta-data>
 		<primary-fuel var="crude oil"/>
@@ -5426,7 +5422,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">1.90297e-005</share-weight>
 					<share-weight year="2005">1.47764</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -5738,9 +5733,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.0921249</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -5827,7 +5822,6 @@
 					<share-weight year="1990">0.00067543</share-weight>
 					<share-weight year="2005">0.00469127</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -16018,7 +16012,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">4.92864e-006</share-weight>
 					<share-weight year="2005">1.20331e-005</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -16330,9 +16323,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.179823</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -16419,7 +16412,6 @@
 					<share-weight year="1990">8.76098e-006</share-weight>
 					<share-weight year="2005">0.00331149</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -26573,7 +26565,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">1.72337e-005</share-weight>
 					<share-weight year="2005">0.593844</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -26885,9 +26876,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.719267</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -26974,7 +26965,6 @@
 					<share-weight year="1990">0.000205677</share-weight>
 					<share-weight year="2005">0.0547544</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -37163,7 +37153,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">5.70135e-005</share-weight>
 					<share-weight year="2005">1.6112e-010</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -37475,9 +37464,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.0533434</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -37560,10 +37549,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.00101916</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -47708,7 +47697,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">0.000482173</share-weight>
 					<share-weight year="2005">1.49608e-011</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -48020,9 +48008,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.1265</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -48105,10 +48093,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.00652749</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -58263,7 +58251,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">0.000233572</share-weight>
 					<share-weight year="2005">1.97169e-010</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -58575,9 +58562,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.00143947</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -58660,10 +58647,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">9.5597e-007</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -68860,7 +68847,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">0.0021001</share-weight>
 					<share-weight year="2005">2.65732e-006</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -69172,8 +69158,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
+					<share-weight year="2005">0</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -69256,9 +69243,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
+					<share-weight year="2005">0</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -79011,8 +78999,8 @@
 					
 					
 					<share-weight year="1975">1</share-weight>
-					<share-weight year="1990" fillout="1">0</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
+					<share-weight year="1990">0</share-weight>
+					<share-weight year="2005">0</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -79583,7 +79571,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">5.65818e-005</share-weight>
 					<share-weight year="2005">2.58384e-013</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -79895,9 +79882,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.000186103</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -79980,10 +79967,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">5.8353e-008</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -90168,7 +90155,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">0.000586853</share-weight>
 					<share-weight year="2005">1.28874e-007</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -90480,9 +90466,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.0755539</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -90565,10 +90551,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.00123456</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -100892,8 +100878,8 @@
 					
 					
 					<share-weight year="1975">1</share-weight>
-					<share-weight year="1990" fillout="1">5.60797e-015</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
+					<share-weight year="1990">5.60797e-015</share-weight>
+					<share-weight year="2005">5.60797e-015</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -101205,9 +101191,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.0125053</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -101290,10 +101276,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">4.09561e-006</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -111622,7 +111608,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">1.39187e-005</share-weight>
 					<share-weight year="2005">2.11777e-008</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -111934,8 +111919,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
+					<share-weight year="2005">0</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -112018,9 +112004,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
+					<share-weight year="2005">0</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -122343,7 +122330,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">0.00153655</share-weight>
 					<share-weight year="2005">1.31656e-011</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -122655,9 +122641,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.0125132</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -122740,10 +122726,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">4.40941e-005</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -132964,7 +132950,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">6.06679e-005</share-weight>
 					<share-weight year="2005">1.05432e-010</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -133276,9 +133261,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.00823048</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -133361,10 +133346,10 @@
 				<subsector name="wind">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">3.94174e-005</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -143518,7 +143503,6 @@
 					<share-weight year="1975">1</share-weight>
 					<share-weight year="1990">2.24196e-005</share-weight>
 					<share-weight year="2005">0.0494571</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -143830,9 +143814,9 @@
 				<subsector name="solar">
 					
 					
-					<share-weight year="1975" fillout="1">0</share-weight>
+					<share-weight year="1975">0</share-weight>
+					<share-weight year="1990">0</share-weight>
 					<share-weight year="2005">0.142808</share-weight>
-					<share-weight year="2020" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>
@@ -143919,7 +143903,6 @@
 					<share-weight year="1990">0.000256805</share-weight>
 					<share-weight year="2005">0.0629526</share-weight>
 					<share-weight year="2020">0.5</share-weight>
-					<share-weight year="2035" fillout="1">1</share-weight>
 					
 					<fuelprefElasticity year="1975" fillout="1">0</fuelprefElasticity>
 					<FixedInvestment year="1975" fillout="1">-1</FixedInvestment>

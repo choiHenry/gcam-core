@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scenario name="ccsp_sd_cal" date="2007-17-8T18:25:51-00:00">
 	<modeltime>
+		<!--
 		<startyear>1975</startyear>
 		<interyear1>2005</interyear1>
 		<interyear2>2020</interyear2>
 		<endyear>2095</endyear>
-		<final-calibration-year>2005</final-calibration-year>
 		<timestep1>15</timestep1>
 		<timestep2>15</timestep2>
 		<timestep3>15</timestep3>
+		-->
+		<start-year time-step="15">1975</start-year>
+		<inter-year time-step="15">2005</inter-year>
+		<inter-year time-step="15">2020</inter-year>
+		<end-year>2095</end-year>
+		<final-calibration-year>2005</final-calibration-year>
 	</modeltime>
 	<output-meta-data>
 		<primary-fuel var="crude oil"></primary-fuel>
