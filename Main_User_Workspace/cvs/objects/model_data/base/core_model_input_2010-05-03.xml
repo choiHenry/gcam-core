@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><scenario name="ccsp_sd_cal" date="2007-17-8T18:25:51-00:00">
 	<modeltime>
 		<start-year time-step="15">1975</start-year>
-		<inter-year time-step="15">2005</inter-year>
+		<inter-year time-step="5">2005</inter-year>
 		<end-year>2095</end-year>
 		<final-calibration-year>2005</final-calibration-year>
 	</modeltime>
