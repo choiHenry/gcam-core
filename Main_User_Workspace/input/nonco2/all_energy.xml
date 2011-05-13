@@ -11,8 +11,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00474</base-service>
+            <base-service year="1990">1.000724</base-service>
+            <base-service year="2005">1.18564</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -1204,12 +1204,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.25018</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.29641</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -1218,12 +1218,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.25018</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.29641</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -1232,12 +1232,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.25018</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.29641</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -1246,12 +1246,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.25018</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00118</calibrated-value>
+                        <calibrated-value>0.29641</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -1287,10 +1287,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>5448.405779</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>21.77785595</uncontrolled-emiss-coef>
                         <gdp-mid-control>41.5</gdp-mid-control>
                         <gdp-control-range>41.5</gdp-control-range>
-                        <final-emiss-coef>5448.405779</final-emiss-coef>
+                        <final-emiss-coef>21.77785595</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.21</reduction>
                            <reduction tax="10">0.31</reduction>
@@ -1304,7 +1304,7 @@
                            <reduction tax="150">0.87</reduction>
                            <reduction tax="175">0.87</reduction>
                            <reduction tax="200">0.87</reduction>
-                           <phase-in>2</phase-in>
+                           <phase-in>3</phase-in>
                            <fuel-shift-range>17.05</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
@@ -1314,58 +1314,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.971270367</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.003882271</uncontrolled-emiss-coef>
                         <gdp-mid-control>20.8</gdp-mid-control>
                         <gdp-control-range>13.8</gdp-control-range>
-                        <final-emiss-coef>0.679889257</final-emiss-coef>
+                        <final-emiss-coef>0.002717589</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>153.4333842</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.613289515</uncontrolled-emiss-coef>
                         <gdp-mid-control>34.6</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>30.68667684</final-emiss-coef>
+                        <final-emiss-coef>0.122657903</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1891.125909</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>7.559030898</uncontrolled-emiss-coef>
                         <gdp-mid-control>34.6</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>378.2251818</final-emiss-coef>
+                        <final-emiss-coef>1.51180618</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_1">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>20.35647696</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.081366998</uncontrolled-emiss-coef>
                         <gdp-mid-control>34.6</gdp-mid-control>
                         <gdp-control-range>20.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>10.17823848</final-emiss-coef>
+                        <final-emiss-coef>0.040683499</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>438.2157939</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>1.751595021</uncontrolled-emiss-coef>
                         <gdp-mid-control>34.6</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>175.2863176</final-emiss-coef>
+                        <final-emiss-coef>0.700638008</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2.829379469</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.01130933</uncontrolled-emiss-coef>
                         <gdp-mid-control>34.6</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.414689734</final-emiss-coef>
+                        <final-emiss-coef>0.005654665</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>5.210411398</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.020826567</uncontrolled-emiss-coef>
                         <gdp-mid-control>34.6</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>2.605205699</final-emiss-coef>
+                        <final-emiss-coef>0.010413284</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -1565,17 +1565,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1414.875343</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>5.655406856</uncontrolled-emiss-coef>
                         <gdp-mid-control>41.5</gdp-mid-control>
                         <gdp-control-range>41.5</gdp-control-range>
-                        <final-emiss-coef>990.4127399</final-emiss-coef>
+                        <final-emiss-coef>3.958784799</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>208.5412539</uncontrolled-emiss-coef>
-                        <gdp-mid-control>20.8</gdp-mid-control>
-                        <gdp-control-range>13.8</gdp-control-range>
-                        <final-emiss-coef>145.9788777</final-emiss-coef>
+                        <uncontrolled-emiss-coef>0.608504962</uncontrolled-emiss-coef>
+                        <gdp-mid-control>35.0</gdp-mid-control>
+                        <gdp-control-range>15.0</gdp-control-range>
+                        <final-emiss-coef>0.608504962</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -2886,7 +2886,7 @@
                            <reduction tax="150">0.37</reduction>
                            <reduction tax="175">0.37</reduction>
                            <reduction tax="200">0.37</reduction>
-                           <phase-in>2</phase-in>
+                           <phase-in>3</phase-in>
                            <fuel-shift-range>43.58747402</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.65</final-reduction>
@@ -17016,7 +17016,7 @@
                   <reduction tax="150">0.86</reduction>
                   <reduction tax="175">0.86</reduction>
                   <reduction tax="200">0.86</reduction>
-                  <phase-in>2</phase-in>
+                  <phase-in>3</phase-in>
                   <fuel-shift-range>51.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.86</final-reduction>
@@ -17042,7 +17042,7 @@
                   <reduction tax="150">0.37</reduction>
                   <reduction tax="175">0.37</reduction>
                   <reduction tax="200">0.37</reduction>
-                  <phase-in>2</phase-in>
+                  <phase-in>3</phase-in>
                   <fuel-shift-range>43.59</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.65</final-reduction>
@@ -17072,7 +17072,7 @@
                   <reduction tax="150">0.18</reduction>
                   <reduction tax="175">0.18</reduction>
                   <reduction tax="200">0.18</reduction>
-                  <phase-in>2</phase-in>
+                  <phase-in>3</phase-in>
                   <fuel-shift-range>28.97</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.31</final-reduction>
@@ -17503,8 +17503,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00466</base-service>
+            <base-service year="1990">0.110792</base-service>
+            <base-service year="2005">0.12908</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -18696,12 +18696,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.02770</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.03227</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -18710,12 +18710,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.02770</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.03227</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -18724,12 +18724,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.02770</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.03227</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -18738,12 +18738,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.02770</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>0.03227</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -18779,10 +18779,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>869.0316093</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>31.37524765</uncontrolled-emiss-coef>
                         <gdp-mid-control>32.1</gdp-mid-control>
                         <gdp-control-range>32.1</gdp-control-range>
-                        <final-emiss-coef>869.0316093</final-emiss-coef>
+                        <final-emiss-coef>31.37524765</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.07</reduction>
                            <reduction tax="10">0.15</reduction>
@@ -18806,58 +18806,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.105755929</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.003818179</uncontrolled-emiss-coef>
                         <gdp-mid-control>16.0</gdp-mid-control>
                         <gdp-control-range>10.7</gdp-control-range>
-                        <final-emiss-coef>0.07402915</final-emiss-coef>
+                        <final-emiss-coef>0.002672725</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>7.225198092</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.260856311</uncontrolled-emiss-coef>
                         <gdp-mid-control>26.7</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.445039618</final-emiss-coef>
+                        <final-emiss-coef>0.052171262</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>8.410114001</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.303636147</uncontrolled-emiss-coef>
                         <gdp-mid-control>26.7</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.6820228</final-emiss-coef>
+                        <final-emiss-coef>0.060727229</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_1">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.1153059</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.004162968</uncontrolled-emiss-coef>
                         <gdp-mid-control>26.7</gdp-mid-control>
                         <gdp-control-range>20.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.05765295</final-emiss-coef>
+                        <final-emiss-coef>0.002081484</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>12.4408918</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.449162098</uncontrolled-emiss-coef>
                         <gdp-mid-control>26.7</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>4.976356722</final-emiss-coef>
+                        <final-emiss-coef>0.179664839</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.287760361</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.010389211</uncontrolled-emiss-coef>
                         <gdp-mid-control>26.7</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.143880181</final-emiss-coef>
+                        <final-emiss-coef>0.005194605</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>0.483167726</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.017444138</uncontrolled-emiss-coef>
                         <gdp-mid-control>26.7</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.241583863</final-emiss-coef>
+                        <final-emiss-coef>0.008722069</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -19057,17 +19057,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>228.550159</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>8.251504045</uncontrolled-emiss-coef>
                         <gdp-mid-control>32.1</gdp-mid-control>
                         <gdp-control-range>32.1</gdp-control-range>
-                        <final-emiss-coef>159.9851113</final-emiss-coef>
+                        <final-emiss-coef>5.776052831</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>3.409994404</uncontrolled-emiss-coef>
-                        <gdp-mid-control>16.0</gdp-mid-control>
-                        <gdp-control-range>10.7</gdp-control-range>
-                        <final-emiss-coef>2.386996083</final-emiss-coef>
+                        <uncontrolled-emiss-coef>0.089873514</uncontrolled-emiss-coef>
+                        <gdp-mid-control>25.0</gdp-mid-control>
+                        <gdp-control-range>16.7</gdp-control-range>
+                        <final-emiss-coef>0.1</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -34995,8 +34995,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00436</base-service>
+            <base-service year="1990">1.737868</base-service>
+            <base-service year="2005">1.89584</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -36188,12 +36188,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.43447</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.47396</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -36202,12 +36202,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.43447</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.47396</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -36216,12 +36216,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.43447</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.47396</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -36230,12 +36230,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.43447</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00109</calibrated-value>
+                        <calibrated-value>0.47396</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -36271,10 +36271,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>5496.379262</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>12.65085556</uncontrolled-emiss-coef>
                         <gdp-mid-control>20.0</gdp-mid-control>
                         <gdp-control-range>20.0</gdp-control-range>
-                        <final-emiss-coef>5496.379262</final-emiss-coef>
+                        <final-emiss-coef>12.65085556</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.32</reduction>
                            <reduction tax="10">0.32</reduction>
@@ -36298,58 +36298,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.112214036</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.00025828</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.078549826</final-emiss-coef>
+                        <final-emiss-coef>0.000180796</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>31.24612693</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.071918297</uncontrolled-emiss-coef>
                         <gdp-mid-control>16.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>6.249225386</final-emiss-coef>
+                        <final-emiss-coef>0.014383659</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>754.4361405</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>1.736463622</uncontrolled-emiss-coef>
                         <gdp-mid-control>16.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>150.8872281</final-emiss-coef>
+                        <final-emiss-coef>0.347292724</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_1">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>8.819110198</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.020298688</uncontrolled-emiss-coef>
                         <gdp-mid-control>16.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>4.409555099</final-emiss-coef>
+                        <final-emiss-coef>0.010149344</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>113.0950436</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.260307558</uncontrolled-emiss-coef>
                         <gdp-mid-control>16.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>45.23801745</final-emiss-coef>
+                        <final-emiss-coef>0.104123023</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>3.227407604</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.00742843</uncontrolled-emiss-coef>
                         <gdp-mid-control>16.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.613703802</final-emiss-coef>
+                        <final-emiss-coef>0.003714215</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>6.807821136</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.015669363</uncontrolled-emiss-coef>
                         <gdp-mid-control>16.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>3.403910568</final-emiss-coef>
+                        <final-emiss-coef>0.007834682</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -36549,17 +36549,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1677.724373</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>3.861569171</uncontrolled-emiss-coef>
                         <gdp-mid-control>20.0</gdp-mid-control>
                         <gdp-control-range>20.0</gdp-control-range>
-                        <final-emiss-coef>1174.407061</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>80.2606464</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.166852999</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>56.18245248</final-emiss-coef>
+                        <final-emiss-coef>0.166852999</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -52487,8 +52487,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00414</base-service>
+            <base-service year="1990">0.493912</base-service>
+            <base-service year="2005">0.51104</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -53680,12 +53680,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.12348</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.12776</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -53694,12 +53694,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.12348</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.12776</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -53708,12 +53708,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.12348</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.12776</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -53722,12 +53722,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.12348</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00103</calibrated-value>
+                        <calibrated-value>0.12776</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -53763,10 +53763,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>305.5010012</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>2.474133054</uncontrolled-emiss-coef>
                         <gdp-mid-control>36.7</gdp-mid-control>
                         <gdp-control-range>36.7</gdp-control-range>
-                        <final-emiss-coef>305.5010012</final-emiss-coef>
+                        <final-emiss-coef>2.474133054</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.59</reduction>
                            <reduction tax="10">0.59</reduction>
@@ -53790,34 +53790,34 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.459426996</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.003720719</uncontrolled-emiss-coef>
                         <gdp-mid-control>18.4</gdp-mid-control>
                         <gdp-control-range>12.2</gdp-control-range>
-                        <final-emiss-coef>0.321598897</final-emiss-coef>
+                        <final-emiss-coef>0.002604504</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>98.85743437</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.800607674</uncontrolled-emiss-coef>
                         <gdp-mid-control>30.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>19.77148687</final-emiss-coef>
+                        <final-emiss-coef>0.160121535</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>97.79356485</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.791991811</uncontrolled-emiss-coef>
                         <gdp-mid-control>30.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>19.55871297</final-emiss-coef>
+                        <final-emiss-coef>0.158398362</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_2">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1.181451106</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.00956811</uncontrolled-emiss-coef>
                         <gdp-mid-control>30.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.590725553</final-emiss-coef>
+                        <final-emiss-coef>0.004784055</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
@@ -53829,19 +53829,19 @@
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.70149059</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.005681098</uncontrolled-emiss-coef>
                         <gdp-mid-control>30.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.350745295</final-emiss-coef>
+                        <final-emiss-coef>0.002840549</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>0.70149059</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.005681098</uncontrolled-emiss-coef>
                         <gdp-mid-control>30.6</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.350745295</final-emiss-coef>
+                        <final-emiss-coef>0.002840549</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -54041,17 +54041,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>111.9155029</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.906359861</uncontrolled-emiss-coef>
                         <gdp-mid-control>36.7</gdp-mid-control>
                         <gdp-control-range>36.7</gdp-control-range>
-                        <final-emiss-coef>78.34085205</final-emiss-coef>
+                        <final-emiss-coef>0.634451903</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>12.81391597</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.0757563</uncontrolled-emiss-coef>
                         <gdp-mid-control>18.4</gdp-mid-control>
                         <gdp-control-range>12.2</gdp-control-range>
-                        <final-emiss-coef>8.969741178</final-emiss-coef>
+                        <final-emiss-coef>0.1</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -69979,8 +69979,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00479</base-service>
+            <base-service year="1990">0.082128</base-service>
+            <base-service year="2005">0.09830</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -71172,12 +71172,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.02053</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.02458</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -71186,12 +71186,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.02053</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.02458</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -71200,12 +71200,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.02053</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.02458</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -71214,12 +71214,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.02053</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00120</calibrated-value>
+                        <calibrated-value>0.02458</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -71255,10 +71255,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>385.8645031</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>18.79332277</uncontrolled-emiss-coef>
                         <gdp-mid-control>23.9</gdp-mid-control>
                         <gdp-control-range>23.9</gdp-control-range>
-                        <final-emiss-coef>385.8645031</final-emiss-coef>
+                        <final-emiss-coef>18.79332277</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.32</reduction>
                            <reduction tax="10">0.32</reduction>
@@ -71282,58 +71282,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.030777057</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.00149898</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.02154394</final-emiss-coef>
+                        <final-emiss-coef>0.001049286</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1.01778E-05</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>4.95703E-07</uncontrolled-emiss-coef>
                         <gdp-mid-control>20.0</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>2.03555E-06</final-emiss-coef>
+                        <final-emiss-coef>9.91405E-08</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.000118706</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>5.78152E-06</uncontrolled-emiss-coef>
                         <gdp-mid-control>20.0</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>2.37412E-05</final-emiss-coef>
+                        <final-emiss-coef>1.1563E-06</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_3">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>5.32308E-06</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>2.59258E-07</uncontrolled-emiss-coef>
                         <gdp-mid-control>20.0</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>2.66154E-06</final-emiss-coef>
+                        <final-emiss-coef>1.29629E-07</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>4.521150329</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.220200191</uncontrolled-emiss-coef>
                         <gdp-mid-control>20.0</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.808460132</final-emiss-coef>
+                        <final-emiss-coef>0.088080077</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.164174641</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.007996037</uncontrolled-emiss-coef>
                         <gdp-mid-control>20.0</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.08208732</final-emiss-coef>
+                        <final-emiss-coef>0.003998019</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>0.164174641</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.007996037</uncontrolled-emiss-coef>
                         <gdp-mid-control>20.0</gdp-mid-control>
                         <gdp-control-range>30.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.08208732</final-emiss-coef>
+                        <final-emiss-coef>0.003998019</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -71533,17 +71533,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>421.578211</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>20.53273967</uncontrolled-emiss-coef>
                         <gdp-mid-control>23.9</gdp-mid-control>
                         <gdp-control-range>23.9</gdp-control-range>
-                        <final-emiss-coef>295.1047477</final-emiss-coef>
+                        <final-emiss-coef>14.37291777</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.01477986</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000589312</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.010345902</final-emiss-coef>
+                        <final-emiss-coef>0.005303811</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -87471,8 +87471,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00394</base-service>
+            <base-service year="1990">1.156364</base-service>
+            <base-service year="2005">1.13963</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -88664,12 +88664,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.28909</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.28491</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -88678,12 +88678,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.28909</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.28491</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -88692,12 +88692,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.28909</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.28491</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -88706,12 +88706,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.28909</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00099</calibrated-value>
+                        <calibrated-value>0.28491</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -88747,10 +88747,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2626.614348</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>9.085770044</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>2626.614348</final-emiss-coef>
+                        <final-emiss-coef>9.085770044</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.10</reduction>
                            <reduction tax="10">0.42</reduction>
@@ -88774,58 +88774,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.119268871</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000412565</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.083488209</final-emiss-coef>
+                        <final-emiss-coef>0.000288796</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>7.295541489</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.025236142</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.459108298</final-emiss-coef>
+                        <final-emiss-coef>0.005047228</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>79.10690477</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.273640151</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>15.82138095</final-emiss-coef>
+                        <final-emiss-coef>0.05472803</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1.036832932</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.003586528</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.518416466</final-emiss-coef>
+                        <final-emiss-coef>0.001793264</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>194.7201774</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.67356015</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>77.88807094</final-emiss-coef>
+                        <final-emiss-coef>0.26942406</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2.397084964</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.008291801</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.198542482</final-emiss-coef>
+                        <final-emiss-coef>0.0041459</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>6.402680356</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.022147629</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>3.201340178</final-emiss-coef>
+                        <final-emiss-coef>0.011073815</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -89025,17 +89025,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1378.051725</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>4.766844092</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>964.6362078</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>4.500260239</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.015544121</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>3.150182168</final-emiss-coef>
+                        <final-emiss-coef>0.1</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -104963,8 +104963,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00466</base-service>
+            <base-service year="1990">4.89316</base-service>
+            <base-service year="2005">5.70612</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -106156,12 +106156,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>1.22329</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>1.42653</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -106170,12 +106170,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>1.22329</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>1.42653</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -106184,12 +106184,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>1.22329</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>1.42653</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -106198,12 +106198,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>1.22329</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00117</calibrated-value>
+                        <calibrated-value>1.42653</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -106239,10 +106239,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>824.1498036</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.673715802</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>824.1498036</final-emiss-coef>
+                        <final-emiss-coef>0.673715802</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.21</reduction>
                            <reduction tax="10">0.42</reduction>
@@ -106266,58 +106266,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.176905316</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000144614</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.123833721</final-emiss-coef>
+                        <final-emiss-coef>0.00010123</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.221091998</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000180736</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.03979656</final-emiss-coef>
+                        <final-emiss-coef>3.25324E-05</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>17.52135712</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.014323143</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>3.504271424</final-emiss-coef>
+                        <final-emiss-coef>0.002864629</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_2">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.22234648</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000181761</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.11117324</final-emiss-coef>
+                        <final-emiss-coef>9.08805E-05</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>251.7464222</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.205794556</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>100.6985689</final-emiss-coef>
+                        <final-emiss-coef>0.082317822</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>7.126173703</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.005825416</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>3.563086852</final-emiss-coef>
+                        <final-emiss-coef>0.002912708</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>7.136711567</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.005834031</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>3.568355784</final-emiss-coef>
+                        <final-emiss-coef>0.002917015</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -106517,17 +106517,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>8037.996301</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>6.570801936</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>5626.59741</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.057674773</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>4.709E-05</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.040372341</final-emiss-coef>
+                        <final-emiss-coef>0.00042381</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -122455,8 +122455,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00570</base-service>
+            <base-service year="1990">0.52598</base-service>
+            <base-service year="2005">0.74948</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -123648,12 +123648,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.13150</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.18737</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -123662,12 +123662,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.13150</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.18737</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -123676,12 +123676,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.13150</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.18737</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -123690,12 +123690,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.13150</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.18737</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -123731,10 +123731,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>315.0344128</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>2.395790051</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>315.0344128</final-emiss-coef>
+                        <final-emiss-coef>2.395790051</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.21</reduction>
                            <reduction tax="10">0.31</reduction>
@@ -123758,58 +123758,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.008023465</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>6.10173E-05</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.005616426</final-emiss-coef>
+                        <final-emiss-coef>4.27121E-05</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2.471122443</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.01879252</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.494224489</final-emiss-coef>
+                        <final-emiss-coef>0.003758504</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>65.73490406</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.49990421</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>13.14698081</final-emiss-coef>
+                        <final-emiss-coef>0.099980842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_3">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.880898046</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.006699099</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.440449023</final-emiss-coef>
+                        <final-emiss-coef>0.00334955</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>38.04579787</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.289332658</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>15.21831915</final-emiss-coef>
+                        <final-emiss-coef>0.115733063</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.780760594</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.005937569</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.390380297</final-emiss-coef>
+                        <final-emiss-coef>0.002968784</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>0.782355747</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.0059497</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.391177874</final-emiss-coef>
+                        <final-emiss-coef>0.00297485</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -124009,17 +124009,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>773.8624925</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>5.885109643</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>541.7037448</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.03520741</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000266925</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.024645187</final-emiss-coef>
+                        <final-emiss-coef>0.002402321</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -139947,8 +139947,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00567</base-service>
+            <base-service year="1990">2.522788</base-service>
+            <base-service year="2005">3.57534</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -141140,12 +141140,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.63070</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.89384</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -141154,12 +141154,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.63070</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.89384</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -141168,12 +141168,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.63070</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.89384</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -141182,12 +141182,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.63070</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00142</calibrated-value>
+                        <calibrated-value>0.89384</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -141223,10 +141223,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>431.2254527</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.683728403</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>431.2254527</final-emiss-coef>
+                        <final-emiss-coef>0.683728403</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.31</reduction>
                            <reduction tax="10">0.31</reduction>
@@ -141250,58 +141250,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.098444371</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000156088</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.06891106</final-emiss-coef>
+                        <final-emiss-coef>0.000109262</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>6.399817521</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.010147214</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.279963504</final-emiss-coef>
+                        <final-emiss-coef>0.002029443</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>160.7491316</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.254875371</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>32.14982632</final-emiss-coef>
+                        <final-emiss-coef>0.050975074</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_3">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2.073792468</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.003288096</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.036896234</final-emiss-coef>
+                        <final-emiss-coef>0.001644048</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>79.62889066</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.126255382</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>31.85155627</final-emiss-coef>
+                        <final-emiss-coef>0.050502153</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>5.12780841</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.008130383</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>2.563904205</final-emiss-coef>
+                        <final-emiss-coef>0.004065192</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>5.12780841</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.008130383</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>2.563904205</final-emiss-coef>
+                        <final-emiss-coef>0.004065192</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -141501,17 +141501,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>3239.986967</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>5.13715297</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>2267.990877</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.961059916</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.001522458</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.672741941</final-emiss-coef>
+                        <final-emiss-coef>0.013702124</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -157439,8 +157439,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00508</base-service>
+            <base-service year="1990">1.746704</base-service>
+            <base-service year="2005">2.21696</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -158632,12 +158632,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.43668</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.55424</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -158646,12 +158646,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.43668</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.55424</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -158660,12 +158660,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.43668</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.55424</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -158674,12 +158674,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.43668</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00127</calibrated-value>
+                        <calibrated-value>0.55424</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -158715,10 +158715,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>3430.854365</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>7.856750462</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>3430.854365</final-emiss-coef>
+                        <final-emiss-coef>7.856750462</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.31</reduction>
                            <reduction tax="10">0.42</reduction>
@@ -158742,58 +158742,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.148896944</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000340978</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.104227861</final-emiss-coef>
+                        <final-emiss-coef>0.000238685</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>7.189005229</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.016463019</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.437801046</final-emiss-coef>
+                        <final-emiss-coef>0.003292604</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>193.3971757</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.442884829</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>38.67943514</final-emiss-coef>
+                        <final-emiss-coef>0.088576966</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_3">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2.652114189</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.006073414</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.326057095</final-emiss-coef>
+                        <final-emiss-coef>0.003036707</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>131.2735166</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.300619949</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>52.50940666</final-emiss-coef>
+                        <final-emiss-coef>0.120247979</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>4.932999789</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.011296705</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>2.466499894</final-emiss-coef>
+                        <final-emiss-coef>0.005648352</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>4.941737368</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.011316714</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>2.470868684</final-emiss-coef>
+                        <final-emiss-coef>0.005658357</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -158993,17 +158993,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>4700.652091</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>10.76462203</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>3290.456464</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>11.84637178</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.02701853</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>8.292460248</final-emiss-coef>
+                        <final-emiss-coef>0.1</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -174931,8 +174931,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00522</base-service>
+            <base-service year="1990">2.664676</base-service>
+            <base-service year="2005">3.47941</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -176124,12 +176124,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.66617</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.86985</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -176138,12 +176138,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.66617</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.86985</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -176152,12 +176152,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.66617</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.86985</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -176166,12 +176166,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.66617</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00131</calibrated-value>
+                        <calibrated-value>0.86985</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -176207,10 +176207,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>416.0753305</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.624579244</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>416.0753305</final-emiss-coef>
+                        <final-emiss-coef>0.624579244</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.21</reduction>
                            <reduction tax="10">0.31</reduction>
@@ -176234,58 +176234,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.079302402</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000119042</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.055511681</final-emiss-coef>
+                        <final-emiss-coef>8.33297E-05</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>4.913102117</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.007375159</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.884358381</final-emiss-coef>
+                        <final-emiss-coef>0.001327529</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>159.6828764</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.239703253</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>31.93657529</final-emiss-coef>
+                        <final-emiss-coef>0.047940651</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_2">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2.056035761</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.003086358</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.028017881</final-emiss-coef>
+                        <final-emiss-coef>0.001543179</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>122.8233682</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.184372687</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>49.1293473</final-emiss-coef>
+                        <final-emiss-coef>0.073749075</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2.370651258</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.003558633</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.185325629</final-emiss-coef>
+                        <final-emiss-coef>0.001779317</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>2.371261093</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.003559549</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.185630546</final-emiss-coef>
+                        <final-emiss-coef>0.001779774</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -176485,17 +176485,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>4749.97461</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>7.130284672</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>3324.982227</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.024273343</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>3.63907E-05</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.01699134</final-emiss-coef>
+                        <final-emiss-coef>0.000327516</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -192423,8 +192423,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00380</base-service>
+            <base-service year="1990">0.491532</base-service>
+            <base-service year="2005">0.46729</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -193616,12 +193616,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.12288</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.11682</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -193630,12 +193630,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.12288</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.11682</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -193644,12 +193644,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.12288</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.11682</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -193658,12 +193658,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.12288</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00095</calibrated-value>
+                        <calibrated-value>0.11682</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -193699,10 +193699,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1055.765338</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>8.591630555</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>1055.765338</final-emiss-coef>
+                        <final-emiss-coef>8.591630555</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.31</reduction>
                            <reduction tax="10">0.42</reduction>
@@ -193726,58 +193726,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.066051068</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000537512</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.046235747</final-emiss-coef>
+                        <final-emiss-coef>0.000376258</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1.566803435</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.012750368</uncontrolled-emiss-coef>
                         <gdp-mid-control>6.0</gdp-mid-control>
                         <gdp-control-range>6.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.313360687</final-emiss-coef>
+                        <final-emiss-coef>0.002550074</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>920.7773063</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>7.493121964</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>6.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>184.1554613</final-emiss-coef>
+                        <final-emiss-coef>1.498624393</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_1">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>12.43094005</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.101160779</uncontrolled-emiss-coef>
                         <gdp-mid-control>7.5</gdp-mid-control>
                         <gdp-control-range>6.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>6.215470027</final-emiss-coef>
+                        <final-emiss-coef>0.05058039</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>16.36450306</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.133171416</uncontrolled-emiss-coef>
                         <gdp-mid-control>6.0</gdp-mid-control>
                         <gdp-control-range>6.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>6.545801224</final-emiss-coef>
+                        <final-emiss-coef>0.053268566</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1.1873519</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.009662459</uncontrolled-emiss-coef>
                         <gdp-mid-control>6.0</gdp-mid-control>
                         <gdp-control-range>6.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.59367595</final-emiss-coef>
+                        <final-emiss-coef>0.004831229</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>3.665020834</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.029825288</uncontrolled-emiss-coef>
                         <gdp-mid-control>6.0</gdp-mid-control>
                         <gdp-control-range>6.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.832510417</final-emiss-coef>
+                        <final-emiss-coef>0.014912644</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -193977,17 +193977,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>690.3603234</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>5.618029536</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>483.2522264</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>4.125541872</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.033422438</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>2.887879311</final-emiss-coef>
+                        <final-emiss-coef>0.1</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -209915,8 +209915,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00451</base-service>
+            <base-service year="1990">0.171476</base-service>
+            <base-service year="2005">0.19318</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -211108,12 +211108,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.04287</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.04829</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -211122,12 +211122,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.04287</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.04829</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -211136,12 +211136,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.04287</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.04829</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -211150,12 +211150,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.04287</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00113</calibrated-value>
+                        <calibrated-value>0.04829</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -211191,10 +211191,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>182.2292764</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>4.250840383</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>182.2292764</final-emiss-coef>
+                        <final-emiss-coef>4.250840383</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.22</reduction>
                            <reduction tax="10">0.32</reduction>
@@ -211218,58 +211218,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.024594629</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000573716</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.01721624</final-emiss-coef>
+                        <final-emiss-coef>0.000401601</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>1.104347562</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.025760983</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.3</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.220869512</final-emiss-coef>
+                        <final-emiss-coef>0.005152197</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>31.96128356</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.745557012</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.3</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>6.392256713</final-emiss-coef>
+                        <final-emiss-coef>0.149111402</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_2">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.447093668</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.0104293</uncontrolled-emiss-coef>
                         <gdp-mid-control>9.8</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.223546834</final-emiss-coef>
+                        <final-emiss-coef>0.00521465</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>25.23033733</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.58854504</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.3</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>10.09213493</final-emiss-coef>
+                        <final-emiss-coef>0.235418016</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.637967864</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.0148818</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.3</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.318983932</final-emiss-coef>
+                        <final-emiss-coef>0.0074409</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>0.637967864</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.0148818</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.3</gdp-mid-control>
                         <gdp-control-range>8.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.318983932</final-emiss-coef>
+                        <final-emiss-coef>0.0074409</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -211469,17 +211469,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>441.6013741</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>10.30118207</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>309.1209618</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.002800415</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>6.34811E-05</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.00196029</final-emiss-coef>
+                        <final-emiss-coef>0.00057133</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -227407,8 +227407,8 @@
          <energy-final-demand name="urban processes">
             <perCapitaBased>1</perCapitaBased>
             <income-elasticity fillout="1" year="2020">0</income-elasticity>
-            <base-service year="1990">0.004</base-service>
-            <base-service year="2005">0.00515</base-service>
+            <base-service year="1990">3.39806</base-service>
+            <base-service year="2005">4.37832</base-service>
             <final-energy-consumer>
                <aeei fillout="1" year="2020">0</aeei>
             </final-energy-consumer>
@@ -228600,12 +228600,12 @@
                <technology name="landfills">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.84952</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>1.09458</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -228614,12 +228614,12 @@
                <technology name="wastewater treatment">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.84952</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>1.09458</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -228628,12 +228628,12 @@
                <technology name="aerosols">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.84952</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>1.09458</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -228642,12 +228642,12 @@
                <technology name="fire_exting">
                   <period year="1990">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.001</calibrated-value>
+                        <calibrated-value>0.84952</calibrated-value>
                      </minicam-energy-input>
                   </period>
                   <period year="2005">
                      <minicam-energy-input name="misc emissions sources">
-                        <calibrated-value>0.00129</calibrated-value>
+                        <calibrated-value>1.09458</calibrated-value>
                      </minicam-energy-input>
                   </period>
                </technology>
@@ -228683,10 +228683,10 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>401.516258</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.472641752</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>401.516258</final-emiss-coef>
+                        <final-emiss-coef>0.472641752</final-emiss-coef>
                         <MAC>
                            <reduction tax="0">0.31</reduction>
                            <reduction tax="10">0.53</reduction>
@@ -228710,58 +228710,58 @@
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.137449903</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.000161798</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.096214932</final-emiss-coef>
+                        <final-emiss-coef>0.000113259</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NOx">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.013894226</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>1.63555E-05</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>0.002500961</final-emiss-coef>
+                        <final-emiss-coef>2.94399E-06</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="CO">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>169.1745323</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.19914249</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>33.83490647</final-emiss-coef>
+                        <final-emiss-coef>0.039828498</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="SO2_2">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2.176639341</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.002562214</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.088319671</final-emiss-coef>
+                        <final-emiss-coef>0.001281107</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="NMVOC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>65.42581987</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.077015497</uncontrolled-emiss-coef>
                         <gdp-mid-control>12.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>26.17032795</final-emiss-coef>
+                        <final-emiss-coef>0.030806199</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="BC">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>2.029024369</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.00238845</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.014512185</final-emiss-coef>
+                        <final-emiss-coef>0.001194225</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="OC">
                         <input-driver/>
-                        <uncontrolled-emiss-coef>2.029024369</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>0.00238845</uncontrolled-emiss-coef>
                         <gdp-mid-control>8.0</gdp-mid-control>
                         <gdp-control-range>12.0</gdp-control-range>
                         <tech-diffusion>0.5</tech-diffusion>
-                        <final-emiss-coef>1.014512185</final-emiss-coef>
+                        <final-emiss-coef>0.001194225</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
@@ -228961,17 +228961,17 @@
                   <period year="1990">
                      <generic-ghg name="CH4">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>5190.419726</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>6.109862364</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>15.0</gdp-control-range>
-                        <final-emiss-coef>3633.293808</final-emiss-coef>
+                        <final-emiss-coef>2.70309842</final-emiss-coef>
                      </generic-ghg>
                      <generic-ghg name="N2O">
                         <output-driver/>
-                        <uncontrolled-emiss-coef>0.035627389</uncontrolled-emiss-coef>
+                        <uncontrolled-emiss-coef>4.19063E-05</uncontrolled-emiss-coef>
                         <gdp-mid-control>15.0</gdp-mid-control>
                         <gdp-control-range>10.0</gdp-control-range>
-                        <final-emiss-coef>0.024939173</final-emiss-coef>
+                        <final-emiss-coef>0.000377157</final-emiss-coef>
                      </generic-ghg>
                   </period>
                   <period year="2005">
