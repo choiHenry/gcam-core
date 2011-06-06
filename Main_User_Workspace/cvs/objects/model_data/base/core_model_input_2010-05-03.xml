@@ -2,7 +2,7 @@
 	<modeltime>
 		<start-year time-step="15">1975</start-year>
 		<inter-year time-step="5">2005</inter-year>
-		<end-year>2095</end-year>
+		<end-year>2100</end-year>
 		<final-calibration-year>2005</final-calibration-year>
 	</modeltime>
 	<output-meta-data>
