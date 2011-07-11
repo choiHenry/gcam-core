@@ -10180,7 +10180,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="1">1</PPPConvert>
@@ -10605,8 +10604,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Canada">
 			<demographics>
@@ -20770,7 +20767,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="1">1.12</PPPConvert>
@@ -21158,8 +21154,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Western Europe">
 			<demographics>
@@ -31331,7 +31325,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="1">0.88</PPPConvert>
@@ -31719,8 +31712,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Japan">
 			<demographics>
@@ -41910,7 +41901,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="1">0.81</PPPConvert>
@@ -42290,8 +42280,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Australia_NZ">
 			<demographics>
@@ -52456,7 +52444,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="1">1</PPPConvert>
@@ -52844,8 +52831,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Former Soviet Union">
 			<demographics>
@@ -63052,7 +63037,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="0">1.86</PPPConvert>
@@ -63440,8 +63424,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="China">
 			<demographics>
@@ -73758,7 +73740,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="0">4.4</PPPConvert>
@@ -74165,8 +74146,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Middle East">
 			<demographics>
@@ -84357,7 +84336,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="0">1.51</PPPConvert>
@@ -84743,8 +84721,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Africa">
 			<demographics>
@@ -95067,7 +95043,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="0">2.8</PPPConvert>
@@ -95474,8 +95449,6 @@
 				<income-elasticity year="2080">0.75</income-elasticity>
 				<income-elasticity year="2095">0.75</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Latin America">
 			<demographics>
@@ -105793,7 +105766,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="0">1.76</PPPConvert>
@@ -106201,8 +106173,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Southeast Asia">
 			<demographics>
@@ -116515,7 +116485,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="0">2.34</PPPConvert>
@@ -116923,8 +116892,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Eastern Europe">
 			<demographics>
@@ -127135,7 +127102,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="0">2</PPPConvert>
@@ -127523,8 +127489,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="Korea">
 			<demographics>
@@ -137728,7 +137692,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="0">1.23</PPPConvert>
@@ -138096,8 +138059,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<region name="India">
 			<demographics>
@@ -148404,7 +148365,6 @@
 			<PrimaryFuelCO2Coef name="shale oil">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="shale oil regional">27.9</PrimaryFuelCO2Coef>
 			<PrimaryFuelCO2Coef name="wholesale gas">14.2</PrimaryFuelCO2Coef>
-			<land-use-co2-emissions year="1975" fillout="1">0</land-use-co2-emissions>
 			<interest-rate>0.05</interest-rate>
 			<GDP>
 				<PPPConvert constRatio="0">4.17</PPPConvert>
@@ -148810,8 +148770,6 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
 		</region>
 		<MagiccModel>
 		</MagiccModel>

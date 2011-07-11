@@ -10917,8 +10917,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+
 		</region>
 		<region name="Canada">
 			<demographics>
@@ -21767,8 +21766,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+
 		</region>
 		<region name="Western Europe">
 			<demographics>
@@ -32625,8 +32623,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<region name="Japan">
 			<demographics>
@@ -43492,8 +43489,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<region name="Australia_NZ">
 			<demographics>
@@ -54342,8 +54338,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<region name="Former Soviet Union">
 			<demographics>
@@ -65234,8 +65229,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+		
 		</region>
 		<region name="China">
 			<demographics>
@@ -76253,8 +76247,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+	
 		</region>
 		<region name="Middle East">
 			<demographics>
@@ -87127,8 +87120,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<region name="Africa">
 			<demographics>
@@ -98154,8 +98146,7 @@
 				<income-elasticity year="2080">0.75</income-elasticity>
 				<income-elasticity year="2095">0.75</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<region name="Latin America">
 			<demographics>
@@ -109176,8 +109167,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<region name="Southeast Asia">
 			<demographics>
@@ -120192,8 +120182,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<region name="Eastern Europe">
 			<demographics>
@@ -131088,8 +131077,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<region name="Korea">
 			<demographics>
@@ -141957,8 +141945,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<region name="India">
 			<demographics>
@@ -152968,8 +152955,7 @@
 				<income-elasticity year="2080">0.1</income-elasticity>
 				<income-elasticity year="2095">0.1</income-elasticity>
 			</energy-final-demand>
-			<agsector>
-			</agsector>
+			
 		</region>
 		<MagiccModel>
 		</MagiccModel>
