@@ -95326,7 +95326,7 @@
 				<price-unit>1975$/GJ</price-unit>
 				<market>global</market>
 				<capacity-factor>0.18</capacity-factor>
-				<price year="1975" fillout="1">18</price>
+				<price year="1975">18</price>
 			</unlimited-resource>
 			<depresource name="uranium">
 				<output-unit>EJ</output-unit>
