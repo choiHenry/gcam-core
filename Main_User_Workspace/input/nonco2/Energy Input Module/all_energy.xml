@@ -1304,7 +1304,7 @@
                            <reduction tax="150">0.87</reduction>
                            <reduction tax="175">0.87</reduction>
                            <reduction tax="200">0.87</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>17.05</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
@@ -2886,7 +2886,7 @@
                            <reduction tax="150">0.37</reduction>
                            <reduction tax="175">0.37</reduction>
                            <reduction tax="200">0.37</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>43.58747402</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.65</final-reduction>
@@ -15664,7 +15664,7 @@
                   <reduction tax="150">0.86</reduction>
                   <reduction tax="175">0.86</reduction>
                   <reduction tax="200">0.86</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>51.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.86</final-reduction>
@@ -15690,7 +15690,7 @@
                   <reduction tax="150">0.37</reduction>
                   <reduction tax="175">0.37</reduction>
                   <reduction tax="200">0.37</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>43.59</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.65</final-reduction>
@@ -15720,7 +15720,7 @@
                   <reduction tax="150">0.18</reduction>
                   <reduction tax="175">0.18</reduction>
                   <reduction tax="200">0.18</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>28.97</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.31</final-reduction>
@@ -17444,7 +17444,7 @@
                            <reduction tax="150">0.61</reduction>
                            <reduction tax="175">0.71</reduction>
                            <reduction tax="200">0.71</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>18.33</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.71</final-reduction>
@@ -19026,7 +19026,7 @@
                            <reduction tax="150">0.35</reduction>
                            <reduction tax="175">0.35</reduction>
                            <reduction tax="200">0.35</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>38.59649128</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.638744196</final-reduction>
@@ -31804,7 +31804,7 @@
                   <reduction tax="150">0.00</reduction>
                   <reduction tax="175">0.00</reduction>
                   <reduction tax="200">0.00</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>0.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.00</final-reduction>
@@ -31830,7 +31830,7 @@
                   <reduction tax="150">0.35</reduction>
                   <reduction tax="175">0.35</reduction>
                   <reduction tax="200">0.35</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>38.60</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.64</final-reduction>
@@ -31860,7 +31860,7 @@
                   <reduction tax="150">0.27</reduction>
                   <reduction tax="175">0.27</reduction>
                   <reduction tax="200">0.27</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>0.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.39</final-reduction>
@@ -33584,7 +33584,7 @@
                            <reduction tax="150">0.71</reduction>
                            <reduction tax="175">0.71</reduction>
                            <reduction tax="200">0.71</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>36.67</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.72</final-reduction>
@@ -35166,7 +35166,7 @@
                            <reduction tax="150">0.32</reduction>
                            <reduction tax="175">0.32</reduction>
                            <reduction tax="200">0.33</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>62.46244535</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.635985485</final-reduction>
@@ -47944,7 +47944,7 @@
                   <reduction tax="150">0.41</reduction>
                   <reduction tax="175">0.41</reduction>
                   <reduction tax="200">0.41</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>36.23</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.39</final-reduction>
@@ -47970,7 +47970,7 @@
                   <reduction tax="150">0.32</reduction>
                   <reduction tax="175">0.32</reduction>
                   <reduction tax="200">0.33</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>62.46</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.64</final-reduction>
@@ -48000,7 +48000,7 @@
                   <reduction tax="150">0.12</reduction>
                   <reduction tax="175">0.12</reduction>
                   <reduction tax="200">0.12</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>18.80</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.28</final-reduction>
@@ -49724,7 +49724,7 @@
                            <reduction tax="150">0.71</reduction>
                            <reduction tax="175">0.71</reduction>
                            <reduction tax="200">0.90</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>0.00</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.90</final-reduction>
@@ -51306,7 +51306,7 @@
                            <reduction tax="150">0.44</reduction>
                            <reduction tax="175">0.46</reduction>
                            <reduction tax="200">0.46</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>46.98188037</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.699892893</final-reduction>
@@ -64084,7 +64084,7 @@
                   <reduction tax="150">0.98</reduction>
                   <reduction tax="175">0.98</reduction>
                   <reduction tax="200">0.98</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>0.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.98</final-reduction>
@@ -64110,7 +64110,7 @@
                   <reduction tax="150">0.44</reduction>
                   <reduction tax="175">0.46</reduction>
                   <reduction tax="200">0.46</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>46.98</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
@@ -64140,7 +64140,7 @@
                   <reduction tax="150">0.00</reduction>
                   <reduction tax="175">0.00</reduction>
                   <reduction tax="200">0.00</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>34.92</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.16</final-reduction>
@@ -65864,7 +65864,7 @@
                            <reduction tax="150">0.71</reduction>
                            <reduction tax="175">0.71</reduction>
                            <reduction tax="200">0.71</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>42.64</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.71</final-reduction>
@@ -67446,7 +67446,7 @@
                            <reduction tax="150">0.39</reduction>
                            <reduction tax="175">0.39</reduction>
                            <reduction tax="200">0.46</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>50.00042621</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.696745028</final-reduction>
@@ -80224,7 +80224,7 @@
                   <reduction tax="150">0.83</reduction>
                   <reduction tax="175">0.83</reduction>
                   <reduction tax="200">0.83</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>40.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.83</final-reduction>
@@ -80250,7 +80250,7 @@
                   <reduction tax="150">0.39</reduction>
                   <reduction tax="175">0.39</reduction>
                   <reduction tax="200">0.46</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>50.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
@@ -80280,7 +80280,7 @@
                   <reduction tax="150">0.22</reduction>
                   <reduction tax="175">0.22</reduction>
                   <reduction tax="200">0.22</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>19.96</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.35</final-reduction>
@@ -82004,7 +82004,7 @@
                            <reduction tax="150">0.87</reduction>
                            <reduction tax="175">0.87</reduction>
                            <reduction tax="200">0.87</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>18.33</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
@@ -83586,7 +83586,7 @@
                            <reduction tax="150">0.38</reduction>
                            <reduction tax="175">0.38</reduction>
                            <reduction tax="200">0.38</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>13.44777948</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.6528085</final-reduction>
@@ -96364,7 +96364,7 @@
                   <reduction tax="150">0.58</reduction>
                   <reduction tax="175">0.58</reduction>
                   <reduction tax="200">0.58</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>18.69</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.80</final-reduction>
@@ -96390,7 +96390,7 @@
                   <reduction tax="150">0.38</reduction>
                   <reduction tax="175">0.38</reduction>
                   <reduction tax="200">0.38</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>13.45</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.65</final-reduction>
@@ -96420,7 +96420,7 @@
                   <reduction tax="150">0.33</reduction>
                   <reduction tax="175">0.33</reduction>
                   <reduction tax="200">0.33</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>13.33</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.43</final-reduction>
@@ -98144,7 +98144,7 @@
                            <reduction tax="150">0.87</reduction>
                            <reduction tax="175">0.87</reduction>
                            <reduction tax="200">0.87</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>18.80</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
@@ -99726,7 +99726,7 @@
                            <reduction tax="150">0.44</reduction>
                            <reduction tax="175">0.44</reduction>
                            <reduction tax="200">0.45</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>33.61269535</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.692004658</final-reduction>
@@ -112504,7 +112504,7 @@
                   <reduction tax="150">0.84</reduction>
                   <reduction tax="175">0.84</reduction>
                   <reduction tax="200">0.84</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>22.10</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.84</final-reduction>
@@ -112530,7 +112530,7 @@
                   <reduction tax="150">0.44</reduction>
                   <reduction tax="175">0.44</reduction>
                   <reduction tax="200">0.45</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>33.61</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.69</final-reduction>
@@ -112560,7 +112560,7 @@
                   <reduction tax="150">0.38</reduction>
                   <reduction tax="175">0.38</reduction>
                   <reduction tax="200">0.38</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>23.67</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.48</final-reduction>
@@ -114284,7 +114284,7 @@
                            <reduction tax="150">0.59</reduction>
                            <reduction tax="175">0.59</reduction>
                            <reduction tax="200">0.59</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>39.64</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.59</final-reduction>
@@ -115866,7 +115866,7 @@
                            <reduction tax="150">0.40</reduction>
                            <reduction tax="175">0.40</reduction>
                            <reduction tax="200">0.46</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>43.47662581</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.697373364</final-reduction>
@@ -128644,7 +128644,7 @@
                   <reduction tax="150">0.86</reduction>
                   <reduction tax="175">0.86</reduction>
                   <reduction tax="200">0.86</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>50.82</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.86</final-reduction>
@@ -128670,7 +128670,7 @@
                   <reduction tax="150">0.40</reduction>
                   <reduction tax="175">0.40</reduction>
                   <reduction tax="200">0.46</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>43.48</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
@@ -128700,7 +128700,7 @@
                   <reduction tax="150">0.39</reduction>
                   <reduction tax="175">0.39</reduction>
                   <reduction tax="200">0.39</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>19.96</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.49</final-reduction>
@@ -130424,7 +130424,7 @@
                            <reduction tax="150">0.59</reduction>
                            <reduction tax="175">0.59</reduction>
                            <reduction tax="200">0.87</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>26.77</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
@@ -132006,7 +132006,7 @@
                            <reduction tax="150">0.46</reduction>
                            <reduction tax="175">0.46</reduction>
                            <reduction tax="200">0.46</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>50.00000094</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.696388316</final-reduction>
@@ -144784,7 +144784,7 @@
                   <reduction tax="150">0.86</reduction>
                   <reduction tax="175">0.86</reduction>
                   <reduction tax="200">0.86</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>26.83</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.86</final-reduction>
@@ -144810,7 +144810,7 @@
                   <reduction tax="150">0.46</reduction>
                   <reduction tax="175">0.46</reduction>
                   <reduction tax="200">0.46</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>50.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
@@ -144840,7 +144840,7 @@
                   <reduction tax="150">0.37</reduction>
                   <reduction tax="175">0.37</reduction>
                   <reduction tax="200">0.37</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>20.80</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.47</final-reduction>
@@ -146564,7 +146564,7 @@
                            <reduction tax="150">0.74</reduction>
                            <reduction tax="175">0.87</reduction>
                            <reduction tax="200">0.87</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>19.82</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.82</final-reduction>
@@ -148146,7 +148146,7 @@
                            <reduction tax="150">0.46</reduction>
                            <reduction tax="175">0.46</reduction>
                            <reduction tax="200">0.46</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>51.16276447</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.69794425</final-reduction>
@@ -160924,7 +160924,7 @@
                   <reduction tax="150">0.00</reduction>
                   <reduction tax="175">0.00</reduction>
                   <reduction tax="200">0.00</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>25.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.21</final-reduction>
@@ -160950,7 +160950,7 @@
                   <reduction tax="150">0.46</reduction>
                   <reduction tax="175">0.46</reduction>
                   <reduction tax="200">0.46</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>51.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
@@ -160980,7 +160980,7 @@
                   <reduction tax="150">0.32</reduction>
                   <reduction tax="175">0.32</reduction>
                   <reduction tax="200">0.32</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>23.20</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.44</final-reduction>
@@ -162704,7 +162704,7 @@
                            <reduction tax="150">0.59</reduction>
                            <reduction tax="175">0.59</reduction>
                            <reduction tax="200">0.87</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>28.21</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
@@ -164286,7 +164286,7 @@
                            <reduction tax="150">0.46</reduction>
                            <reduction tax="175">0.46</reduction>
                            <reduction tax="200">0.46</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>51.16268429</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.696521348</final-reduction>
@@ -177064,7 +177064,7 @@
                   <reduction tax="150">0.84</reduction>
                   <reduction tax="175">0.84</reduction>
                   <reduction tax="200">0.84</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>50.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.84</final-reduction>
@@ -177090,7 +177090,7 @@
                   <reduction tax="150">0.46</reduction>
                   <reduction tax="175">0.46</reduction>
                   <reduction tax="200">0.46</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>51.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
@@ -177120,7 +177120,7 @@
                   <reduction tax="150">0.24</reduction>
                   <reduction tax="175">0.24</reduction>
                   <reduction tax="200">0.24</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>47.35</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.36</final-reduction>
@@ -178844,7 +178844,7 @@
                            <reduction tax="150">0.87</reduction>
                            <reduction tax="175">0.87</reduction>
                            <reduction tax="200">0.87</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>26.49</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
@@ -180426,7 +180426,7 @@
                            <reduction tax="150">0.36</reduction>
                            <reduction tax="175">0.36</reduction>
                            <reduction tax="200">0.36</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>48.12423481</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.645869514</final-reduction>
@@ -193204,7 +193204,7 @@
                   <reduction tax="150">0.73</reduction>
                   <reduction tax="175">0.73</reduction>
                   <reduction tax="200">0.73</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>50.17</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.73</final-reduction>
@@ -193230,7 +193230,7 @@
                   <reduction tax="150">0.36</reduction>
                   <reduction tax="175">0.36</reduction>
                   <reduction tax="200">0.36</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>48.12</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.65</final-reduction>
@@ -193260,7 +193260,7 @@
                   <reduction tax="150">0.13</reduction>
                   <reduction tax="175">0.13</reduction>
                   <reduction tax="200">0.13</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>20.78</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.27</final-reduction>
@@ -194984,7 +194984,7 @@
                            <reduction tax="150">0.71</reduction>
                            <reduction tax="175">0.80</reduction>
                            <reduction tax="200">0.90</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>22.19</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.90</final-reduction>
@@ -196566,7 +196566,7 @@
                            <reduction tax="150">0.46</reduction>
                            <reduction tax="175">0.46</reduction>
                            <reduction tax="200">0.46</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>46.54511113</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.70000186</final-reduction>
@@ -209344,7 +209344,7 @@
                   <reduction tax="150">0.00</reduction>
                   <reduction tax="175">0.00</reduction>
                   <reduction tax="200">0.00</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>0.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.00</final-reduction>
@@ -209370,7 +209370,7 @@
                   <reduction tax="150">0.46</reduction>
                   <reduction tax="175">0.46</reduction>
                   <reduction tax="200">0.46</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>46.55</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
@@ -209400,7 +209400,7 @@
                   <reduction tax="150">0.02</reduction>
                   <reduction tax="175">0.02</reduction>
                   <reduction tax="200">0.02</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>50.00</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.18</final-reduction>
@@ -211124,7 +211124,7 @@
                            <reduction tax="150">0.74</reduction>
                            <reduction tax="175">0.87</reduction>
                            <reduction tax="200">0.87</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>17.45</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.87</final-reduction>
@@ -212706,7 +212706,7 @@
                            <reduction tax="150">0.46</reduction>
                            <reduction tax="175">0.46</reduction>
                            <reduction tax="200">0.46</reduction>
-                           <phase-in>3</phase-in>
+                           <phase-in-year>2020</phase-in-year>
                            <fuel-shift-range>34.90408039</fuel-shift-range>
                            <cost-reduction>0</cost-reduction>
                            <final-reduction>0.698689028</final-reduction>
@@ -225484,7 +225484,7 @@
                   <reduction tax="150">0.84</reduction>
                   <reduction tax="175">0.84</reduction>
                   <reduction tax="200">0.84</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>51.16</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.84</final-reduction>
@@ -225510,7 +225510,7 @@
                   <reduction tax="150">0.46</reduction>
                   <reduction tax="175">0.46</reduction>
                   <reduction tax="200">0.46</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>34.90</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.70</final-reduction>
@@ -225540,7 +225540,7 @@
                   <reduction tax="150">0.18</reduction>
                   <reduction tax="175">0.18</reduction>
                   <reduction tax="200">0.18</reduction>
-                  <phase-in>3</phase-in>
+                  <phase-in-year>2020</phase-in-year>
                   <fuel-shift-range>23.66</fuel-shift-range>
                   <cost-reduction>0</cost-reduction>
                   <final-reduction>0.31</final-reduction>
