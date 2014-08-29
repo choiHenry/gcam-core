@@ -99523,7 +99523,7 @@
                   <period year="2010">
                      <share-weight>1</share-weight>
                      <CalDataOutput>
-                        <calOutputValue>0.035097</calOutputValue>
+                        <calOutputValue>0.0350971</calOutputValue>
                      </CalDataOutput>
                      <minicam-energy-input name="Pasture_FodderGrass">
                         <coefficient>25.8872352</coefficient>
