@@ -49246,28 +49246,28 @@
             <AgSupplySubsector name="CornAEZ04">
                <AgProductionTechnology name="CornAEZ04">
                   <period year="2015">
-                     <agProdChange>0.00795</agProdChange>
+                     <agProdChange>0.00825</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00735</agProdChange>
+                     <agProdChange>0.0076</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00685</agProdChange>
+                     <agProdChange>0.00705</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0064</agProdChange>
+                     <agProdChange>0.0066</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00815</agProdChange>
+                     <agProdChange>0.00825</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00755</agProdChange>
+                     <agProdChange>0.00765</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.007</agProdChange>
+                     <agProdChange>0.0071</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00655</agProdChange>
+                     <agProdChange>0.0066</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.00125</agProdChange>
@@ -49304,28 +49304,28 @@
             <AgSupplySubsector name="CornAEZ05">
                <AgProductionTechnology name="CornAEZ05">
                   <period year="2015">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.0075</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00585</agProdChange>
+                     <agProdChange>0.007</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0055</agProdChange>
+                     <agProdChange>0.00655</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0052</agProdChange>
+                     <agProdChange>0.00615</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0071</agProdChange>
+                     <agProdChange>0.0076</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00665</agProdChange>
+                     <agProdChange>0.00705</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.0066</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00585</agProdChange>
+                     <agProdChange>0.0062</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.00125</agProdChange>
@@ -49362,28 +49362,28 @@
             <AgSupplySubsector name="CornAEZ06">
                <AgProductionTechnology name="CornAEZ06">
                   <period year="2015">
-                     <agProdChange>0.0029</agProdChange>
+                     <agProdChange>0.0033</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0028</agProdChange>
+                     <agProdChange>0.0032</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00275</agProdChange>
+                     <agProdChange>0.0031</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00265</agProdChange>
+                     <agProdChange>0.003</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00345</agProdChange>
+                     <agProdChange>0.0033</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00335</agProdChange>
+                     <agProdChange>0.0032</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00325</agProdChange>
+                     <agProdChange>0.0031</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00315</agProdChange>
+                     <agProdChange>0.003</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.00125</agProdChange>
@@ -49594,25 +49594,25 @@
             <AgSupplySubsector name="CornAEZ10">
                <AgProductionTechnology name="CornAEZ10">
                   <period year="2015">
-                     <agProdChange>0.0083</agProdChange>
+                     <agProdChange>0.0084</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00765</agProdChange>
+                     <agProdChange>0.00775</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0071</agProdChange>
+                     <agProdChange>0.0072</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00665</agProdChange>
+                     <agProdChange>0.0067</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00835</agProdChange>
+                     <agProdChange>0.0084</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0077</agProdChange>
+                     <agProdChange>0.00775</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00715</agProdChange>
+                     <agProdChange>0.0072</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.0067</agProdChange>
@@ -49652,28 +49652,28 @@
             <AgSupplySubsector name="CornAEZ11">
                <AgProductionTechnology name="CornAEZ11">
                   <period year="2015">
-                     <agProdChange>0.00755</agProdChange>
+                     <agProdChange>0.00845</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.007</agProdChange>
+                     <agProdChange>0.0078</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00655</agProdChange>
+                     <agProdChange>0.0072</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00615</agProdChange>
+                     <agProdChange>0.00675</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0081</agProdChange>
+                     <agProdChange>0.00845</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0075</agProdChange>
+                     <agProdChange>0.0078</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00695</agProdChange>
+                     <agProdChange>0.00725</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0065</agProdChange>
+                     <agProdChange>0.00675</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.00125</agProdChange>
@@ -49710,28 +49710,28 @@
             <AgSupplySubsector name="CornAEZ12">
                <AgProductionTechnology name="CornAEZ12">
                   <period year="2015">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.00845</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00585</agProdChange>
+                     <agProdChange>0.0078</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00555</agProdChange>
+                     <agProdChange>0.0072</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00525</agProdChange>
+                     <agProdChange>0.00675</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0075</agProdChange>
+                     <agProdChange>0.00845</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.007</agProdChange>
+                     <agProdChange>0.0078</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00655</agProdChange>
+                     <agProdChange>0.00725</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00615</agProdChange>
+                     <agProdChange>0.00675</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.00125</agProdChange>
@@ -50176,28 +50176,28 @@
             <AgSupplySubsector name="FiberCropAEZ06">
                <AgProductionTechnology name="FiberCropAEZ06">
                   <period year="2015">
-                     <agProdChange>0.0057</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0054</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0051</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00485</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00275</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00265</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0026</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00255</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0</agProdChange>
@@ -50408,25 +50408,25 @@
             <AgSupplySubsector name="FiberCropAEZ10">
                <AgProductionTechnology name="FiberCropAEZ10">
                   <period year="2015">
-                     <agProdChange>0.00335</agProdChange>
-                  </period>
-                  <period year="2020">
-                     <agProdChange>0.00325</agProdChange>
-                  </period>
-                  <period year="2025">
-                     <agProdChange>0.00315</agProdChange>
-                  </period>
-                  <period year="2030">
                      <agProdChange>0.00305</agProdChange>
                   </period>
+                  <period year="2020">
+                     <agProdChange>0.00295</agProdChange>
+                  </period>
+                  <period year="2025">
+                     <agProdChange>0.00285</agProdChange>
+                  </period>
+                  <period year="2030">
+                     <agProdChange>0.0028</agProdChange>
+                  </period>
                   <period year="2035">
-                     <agProdChange>0.0029</agProdChange>
+                     <agProdChange>0.00295</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.00285</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00275</agProdChange>
+                     <agProdChange>0.0028</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.0027</agProdChange>
@@ -50466,28 +50466,28 @@
             <AgSupplySubsector name="FiberCropAEZ11">
                <AgProductionTechnology name="FiberCropAEZ11">
                   <period year="2015">
-                     <agProdChange>0.0039</agProdChange>
+                     <agProdChange>0.00305</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00375</agProdChange>
+                     <agProdChange>0.00295</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0036</agProdChange>
+                     <agProdChange>0.00285</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0035</agProdChange>
-                  </period>
-                  <period year="2035">
-                     <agProdChange>0.0029</agProdChange>
-                  </period>
-                  <period year="2040">
                      <agProdChange>0.0028</agProdChange>
                   </period>
+                  <period year="2035">
+                     <agProdChange>0.00295</agProdChange>
+                  </period>
+                  <period year="2040">
+                     <agProdChange>0.00285</agProdChange>
+                  </period>
                   <period year="2045">
-                     <agProdChange>0.0027</agProdChange>
+                     <agProdChange>0.0028</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00265</agProdChange>
+                     <agProdChange>0.0027</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0</agProdChange>
@@ -50524,16 +50524,16 @@
             <AgSupplySubsector name="FiberCropAEZ12">
                <AgProductionTechnology name="FiberCropAEZ12">
                   <period year="2015">
-                     <agProdChange>0.0031</agProdChange>
+                     <agProdChange>0.00305</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.003</agProdChange>
+                     <agProdChange>0.00295</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0029</agProdChange>
+                     <agProdChange>0.00285</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00285</agProdChange>
+                     <agProdChange>0.0028</agProdChange>
                   </period>
                   <period year="2035">
                      <agProdChange>0.00295</agProdChange>
@@ -52502,25 +52502,25 @@
             <AgSupplySubsector name="MiscCropAEZ04">
                <AgProductionTechnology name="MiscCropAEZ04">
                   <period year="2015">
-                     <agProdChange>0.00765</agProdChange>
+                     <agProdChange>0.00775</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0071</agProdChange>
+                     <agProdChange>0.0072</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00665</agProdChange>
+                     <agProdChange>0.0067</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.0063</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0058</agProdChange>
+                     <agProdChange>0.00585</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.0055</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0052</agProdChange>
+                     <agProdChange>0.00525</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.00495</agProdChange>
@@ -52560,19 +52560,19 @@
             <AgSupplySubsector name="MiscCropAEZ05">
                <AgProductionTechnology name="MiscCropAEZ05">
                   <period year="2015">
-                     <agProdChange>0.0078</agProdChange>
+                     <agProdChange>0.00795</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0072</agProdChange>
+                     <agProdChange>0.0074</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00675</agProdChange>
+                     <agProdChange>0.00685</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0063</agProdChange>
+                     <agProdChange>0.00645</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00535</agProdChange>
+                     <agProdChange>0.0054</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.0051</agProdChange>
@@ -52581,7 +52581,7 @@
                      <agProdChange>0.00485</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0046</agProdChange>
+                     <agProdChange>0.00465</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0015</agProdChange>
@@ -52618,28 +52618,28 @@
             <AgSupplySubsector name="MiscCropAEZ06">
                <AgProductionTechnology name="MiscCropAEZ06">
                   <period year="2015">
-                     <agProdChange>0.007</agProdChange>
+                     <agProdChange>0.00735</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00655</agProdChange>
+                     <agProdChange>0.00685</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00615</agProdChange>
+                     <agProdChange>0.0064</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0058</agProdChange>
+                     <agProdChange>0.006</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00105</agProdChange>
+                     <agProdChange>7e-04</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00105</agProdChange>
+                     <agProdChange>7e-04</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.001</agProdChange>
+                     <agProdChange>7e-04</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.001</agProdChange>
+                     <agProdChange>7e-04</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0015</agProdChange>
@@ -52850,7 +52850,7 @@
             <AgSupplySubsector name="MiscCropAEZ10">
                <AgProductionTechnology name="MiscCropAEZ10">
                   <period year="2015">
-                     <agProdChange>0.00585</agProdChange>
+                     <agProdChange>0.0059</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.00555</agProdChange>
@@ -52862,13 +52862,13 @@
                      <agProdChange>0.005</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0067</agProdChange>
+                     <agProdChange>0.00675</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.0063</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0059</agProdChange>
+                     <agProdChange>0.00595</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.0056</agProdChange>
@@ -52908,28 +52908,28 @@
             <AgSupplySubsector name="MiscCropAEZ11">
                <AgProductionTechnology name="MiscCropAEZ11">
                   <period year="2015">
-                     <agProdChange>0.0051</agProdChange>
-                  </period>
-                  <period year="2020">
-                     <agProdChange>0.00485</agProdChange>
-                  </period>
-                  <period year="2025">
-                     <agProdChange>0.0046</agProdChange>
-                  </period>
-                  <period year="2030">
-                     <agProdChange>0.0044</agProdChange>
-                  </period>
-                  <period year="2035">
-                     <agProdChange>0.00635</agProdChange>
-                  </period>
-                  <period year="2040">
-                     <agProdChange>0.00595</agProdChange>
-                  </period>
-                  <period year="2045">
                      <agProdChange>0.00565</agProdChange>
                   </period>
-                  <period year="2050">
+                  <period year="2020">
                      <agProdChange>0.00535</agProdChange>
+                  </period>
+                  <period year="2025">
+                     <agProdChange>0.00505</agProdChange>
+                  </period>
+                  <period year="2030">
+                     <agProdChange>0.00485</agProdChange>
+                  </period>
+                  <period year="2035">
+                     <agProdChange>0.00685</agProdChange>
+                  </period>
+                  <period year="2040">
+                     <agProdChange>0.0064</agProdChange>
+                  </period>
+                  <period year="2045">
+                     <agProdChange>0.006</agProdChange>
+                  </period>
+                  <period year="2050">
+                     <agProdChange>0.00565</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0015</agProdChange>
@@ -52966,28 +52966,28 @@
             <AgSupplySubsector name="MiscCropAEZ12">
                <AgProductionTechnology name="MiscCropAEZ12">
                   <period year="2015">
-                     <agProdChange>0.0048</agProdChange>
+                     <agProdChange>0.00565</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00455</agProdChange>
+                     <agProdChange>0.00535</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00435</agProdChange>
+                     <agProdChange>0.00505</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0042</agProdChange>
+                     <agProdChange>0.00485</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0063</agProdChange>
+                     <agProdChange>0.0068</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0059</agProdChange>
+                     <agProdChange>0.0064</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0056</agProdChange>
+                     <agProdChange>0.006</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0053</agProdChange>
+                     <agProdChange>0.00565</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0015</agProdChange>
@@ -53316,16 +53316,16 @@
             <AgSupplySubsector name="OilCropAEZ04">
                <AgProductionTechnology name="OilCropAEZ04">
                   <period year="2015">
-                     <agProdChange>0.00665</agProdChange>
+                     <agProdChange>0.0067</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00625</agProdChange>
+                     <agProdChange>0.0063</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0059</agProdChange>
+                     <agProdChange>0.00595</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00555</agProdChange>
+                     <agProdChange>0.0056</agProdChange>
                   </period>
                   <period year="2035">
                      <agProdChange>0.00375</agProdChange>
@@ -53374,25 +53374,25 @@
             <AgSupplySubsector name="OilCropAEZ05">
                <AgProductionTechnology name="OilCropAEZ05">
                   <period year="2015">
-                     <agProdChange>0.0077</agProdChange>
+                     <agProdChange>0.0078</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00715</agProdChange>
+                     <agProdChange>0.00725</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00665</agProdChange>
+                     <agProdChange>0.00675</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00625</agProdChange>
+                     <agProdChange>0.0063</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0022</agProdChange>
-                  </period>
-                  <period year="2040">
                      <agProdChange>0.00215</agProdChange>
                   </period>
-                  <period year="2045">
+                  <period year="2040">
                      <agProdChange>0.0021</agProdChange>
+                  </period>
+                  <period year="2045">
+                     <agProdChange>0.00205</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.00205</agProdChange>
@@ -53432,28 +53432,28 @@
             <AgSupplySubsector name="OilCropAEZ06">
                <AgProductionTechnology name="OilCropAEZ06">
                   <period year="2015">
-                     <agProdChange>0.0151</agProdChange>
+                     <agProdChange>0.01735</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0131</agProdChange>
+                     <agProdChange>0.0148</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0116</agProdChange>
+                     <agProdChange>0.0129</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0104</agProdChange>
+                     <agProdChange>0.0114</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>-0.0062</agProdChange>
+                     <agProdChange>-0.0072</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>-0.0066</agProdChange>
+                     <agProdChange>-0.00775</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>-0.00705</agProdChange>
+                     <agProdChange>-0.0084</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>-0.0076</agProdChange>
+                     <agProdChange>-0.00915</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0025</agProdChange>
@@ -53667,25 +53667,25 @@
                      <agProdChange>0.0028</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0027</agProdChange>
+                     <agProdChange>0.00275</agProdChange>
                   </period>
                   <period year="2025">
                      <agProdChange>0.00265</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00255</agProdChange>
+                     <agProdChange>0.0026</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0141</agProdChange>
+                     <agProdChange>0.0144</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.01235</agProdChange>
+                     <agProdChange>0.0126</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.011</agProdChange>
+                     <agProdChange>0.01115</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0099</agProdChange>
+                     <agProdChange>0.01005</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0025</agProdChange>
@@ -53722,28 +53722,28 @@
             <AgSupplySubsector name="OilCropAEZ11">
                <AgProductionTechnology name="OilCropAEZ11">
                   <period year="2015">
-                     <agProdChange>0.0026</agProdChange>
+                     <agProdChange>0.00275</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00255</agProdChange>
+                     <agProdChange>0.00265</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0025</agProdChange>
+                     <agProdChange>0.0026</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00245</agProdChange>
+                     <agProdChange>0.0025</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0135</agProdChange>
+                     <agProdChange>0.015</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0119</agProdChange>
+                     <agProdChange>0.01305</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0106</agProdChange>
+                     <agProdChange>0.01155</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0096</agProdChange>
+                     <agProdChange>0.01035</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0025</agProdChange>
@@ -53783,25 +53783,25 @@
                      <agProdChange>0.0027</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00265</agProdChange>
+                     <agProdChange>0.0026</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0026</agProdChange>
+                     <agProdChange>0.00255</agProdChange>
                   </period>
                   <period year="2030">
                      <agProdChange>0.0025</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.01175</agProdChange>
+                     <agProdChange>0.01515</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0105</agProdChange>
+                     <agProdChange>0.01315</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0095</agProdChange>
+                     <agProdChange>0.0116</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0087</agProdChange>
+                     <agProdChange>0.0104</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0025</agProdChange>
@@ -55316,34 +55316,34 @@
                      <agProdChange>0</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2060">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2065">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2070">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2075">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2085">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2095">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2100">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                </AgProductionTechnology>
             </AgSupplySubsector>
@@ -55432,34 +55432,34 @@
                      <agProdChange>0</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2060">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2065">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2070">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2075">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2085">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2095">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2100">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                </AgProductionTechnology>
             </AgSupplySubsector>
@@ -55758,28 +55758,28 @@
             <AgSupplySubsector name="RiceAEZ04">
                <AgProductionTechnology name="RiceAEZ04">
                   <period year="2015">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.00635</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00585</agProdChange>
+                     <agProdChange>0.00595</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0055</agProdChange>
+                     <agProdChange>0.0056</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00525</agProdChange>
+                     <agProdChange>0.0053</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00355</agProdChange>
+                     <agProdChange>0.00345</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0034</agProdChange>
+                     <agProdChange>0.00335</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0033</agProdChange>
+                     <agProdChange>0.00325</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0032</agProdChange>
+                     <agProdChange>0.00315</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>5e-04</agProdChange>
@@ -55816,28 +55816,28 @@
             <AgSupplySubsector name="RiceAEZ05">
                <AgProductionTechnology name="RiceAEZ05">
                   <period year="2015">
-                     <agProdChange>0.0051</agProdChange>
+                     <agProdChange>0.00515</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00485</agProdChange>
+                     <agProdChange>0.0049</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0046</agProdChange>
+                     <agProdChange>0.00465</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0044</agProdChange>
+                     <agProdChange>0.00445</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00275</agProdChange>
-                  </period>
-                  <period year="2040">
                      <agProdChange>0.0027</agProdChange>
                   </period>
-                  <period year="2045">
+                  <period year="2040">
                      <agProdChange>0.00265</agProdChange>
                   </period>
+                  <period year="2045">
+                     <agProdChange>0.0026</agProdChange>
+                  </period>
                   <period year="2050">
-                     <agProdChange>0.00255</agProdChange>
+                     <agProdChange>0.0025</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>5e-04</agProdChange>
@@ -55874,28 +55874,28 @@
             <AgSupplySubsector name="RiceAEZ06">
                <AgProductionTechnology name="RiceAEZ06">
                   <period year="2015">
-                     <agProdChange>0.00535</agProdChange>
+                     <agProdChange>0.0058</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0051</agProdChange>
+                     <agProdChange>0.0055</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00485</agProdChange>
+                     <agProdChange>0.0052</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0046</agProdChange>
+                     <agProdChange>0.00495</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0024</agProdChange>
+                     <agProdChange>0.00175</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0023</agProdChange>
+                     <agProdChange>0.0017</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00225</agProdChange>
+                     <agProdChange>0.0017</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0022</agProdChange>
+                     <agProdChange>0.00165</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>5e-04</agProdChange>
@@ -56106,22 +56106,22 @@
             <AgSupplySubsector name="RiceAEZ10">
                <AgProductionTechnology name="RiceAEZ10">
                   <period year="2015">
-                     <agProdChange>0.0133</agProdChange>
+                     <agProdChange>0.0136</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.01175</agProdChange>
+                     <agProdChange>0.01195</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0105</agProdChange>
+                     <agProdChange>0.0107</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0095</agProdChange>
+                     <agProdChange>0.00965</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0075</agProdChange>
+                     <agProdChange>0.00755</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.007</agProdChange>
+                     <agProdChange>0.00705</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>0.00655</agProdChange>
@@ -56164,28 +56164,28 @@
             <AgSupplySubsector name="RiceAEZ11">
                <AgProductionTechnology name="RiceAEZ11">
                   <period year="2015">
-                     <agProdChange>0.0104</agProdChange>
+                     <agProdChange>0.0136</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00945</agProdChange>
+                     <agProdChange>0.01195</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0086</agProdChange>
+                     <agProdChange>0.0107</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00795</agProdChange>
+                     <agProdChange>0.00965</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00695</agProdChange>
+                     <agProdChange>0.00755</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0065</agProdChange>
+                     <agProdChange>0.00705</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0061</agProdChange>
+                     <agProdChange>0.00655</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00575</agProdChange>
+                     <agProdChange>0.00615</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>5e-04</agProdChange>
@@ -56222,28 +56222,28 @@
             <AgSupplySubsector name="RiceAEZ12">
                <AgProductionTechnology name="RiceAEZ12">
                   <period year="2015">
-                     <agProdChange>0.011</agProdChange>
+                     <agProdChange>0.0136</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0099</agProdChange>
+                     <agProdChange>0.01195</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.009</agProdChange>
+                     <agProdChange>0.0107</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00825</agProdChange>
+                     <agProdChange>0.00965</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0071</agProdChange>
+                     <agProdChange>0.00755</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0066</agProdChange>
+                     <agProdChange>0.00705</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.00655</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00585</agProdChange>
+                     <agProdChange>0.00615</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>5e-04</agProdChange>
@@ -56572,28 +56572,28 @@
             <AgSupplySubsector name="Root_TuberAEZ04">
                <AgProductionTechnology name="Root_TuberAEZ04">
                   <period year="2015">
-                     <agProdChange>0.00555</agProdChange>
-                  </period>
-                  <period year="2020">
-                     <agProdChange>0.00525</agProdChange>
-                  </period>
-                  <period year="2025">
-                     <agProdChange>0.005</agProdChange>
-                  </period>
-                  <period year="2030">
-                     <agProdChange>0.00475</agProdChange>
-                  </period>
-                  <period year="2035">
                      <agProdChange>0.0056</agProdChange>
                   </period>
-                  <period year="2040">
+                  <period year="2020">
                      <agProdChange>0.0053</agProdChange>
                   </period>
-                  <period year="2045">
+                  <period year="2025">
                      <agProdChange>0.00505</agProdChange>
                   </period>
-                  <period year="2050">
+                  <period year="2030">
                      <agProdChange>0.0048</agProdChange>
+                  </period>
+                  <period year="2035">
+                     <agProdChange>0.0057</agProdChange>
+                  </period>
+                  <period year="2040">
+                     <agProdChange>0.00535</agProdChange>
+                  </period>
+                  <period year="2045">
+                     <agProdChange>0.0051</agProdChange>
+                  </period>
+                  <period year="2050">
+                     <agProdChange>0.00485</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -56630,25 +56630,25 @@
             <AgSupplySubsector name="Root_TuberAEZ05">
                <AgProductionTechnology name="Root_TuberAEZ05">
                   <period year="2015">
-                     <agProdChange>0.0058</agProdChange>
+                     <agProdChange>0.00585</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0055</agProdChange>
+                     <agProdChange>0.00555</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0052</agProdChange>
+                     <agProdChange>0.00525</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00495</agProdChange>
+                     <agProdChange>0.005</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0055</agProdChange>
+                     <agProdChange>0.00555</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.00525</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00495</agProdChange>
+                     <agProdChange>0.005</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.00475</agProdChange>
@@ -56688,28 +56688,28 @@
             <AgSupplySubsector name="Root_TuberAEZ06">
                <AgProductionTechnology name="Root_TuberAEZ06">
                   <period year="2015">
-                     <agProdChange>0.0018</agProdChange>
+                     <agProdChange>0.00165</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00175</agProdChange>
+                     <agProdChange>0.0016</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00175</agProdChange>
+                     <agProdChange>0.0016</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0017</agProdChange>
+                     <agProdChange>0.00155</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00065</agProdChange>
+                     <agProdChange>0.00045</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00065</agProdChange>
+                     <agProdChange>0.00045</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00065</agProdChange>
+                     <agProdChange>0.00045</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00065</agProdChange>
+                     <agProdChange>0.00045</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -56923,7 +56923,7 @@
                      <agProdChange>0.0044</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0042</agProdChange>
+                     <agProdChange>0.00425</agProdChange>
                   </period>
                   <period year="2025">
                      <agProdChange>0.00405</agProdChange>
@@ -56932,13 +56932,13 @@
                      <agProdChange>0.0039</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00585</agProdChange>
+                     <agProdChange>0.0059</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.00555</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00525</agProdChange>
+                     <agProdChange>0.0053</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.005</agProdChange>
@@ -56978,28 +56978,28 @@
             <AgSupplySubsector name="Root_TuberAEZ11">
                <AgProductionTechnology name="Root_TuberAEZ11">
                   <period year="2015">
-                     <agProdChange>0.0042</agProdChange>
+                     <agProdChange>0.00435</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00405</agProdChange>
+                     <agProdChange>0.00415</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0039</agProdChange>
+                     <agProdChange>0.004</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00375</agProdChange>
+                     <agProdChange>0.00385</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0056</agProdChange>
+                     <agProdChange>0.00595</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0053</agProdChange>
+                     <agProdChange>0.00565</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.005</agProdChange>
+                     <agProdChange>0.00535</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0048</agProdChange>
+                     <agProdChange>0.00505</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -57036,28 +57036,28 @@
             <AgSupplySubsector name="Root_TuberAEZ12">
                <AgProductionTechnology name="Root_TuberAEZ12">
                   <period year="2015">
-                     <agProdChange>0.00415</agProdChange>
+                     <agProdChange>0.00435</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.004</agProdChange>
+                     <agProdChange>0.0042</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00385</agProdChange>
+                     <agProdChange>0.004</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0037</agProdChange>
+                     <agProdChange>0.00385</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00525</agProdChange>
+                     <agProdChange>0.006</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00495</agProdChange>
+                     <agProdChange>0.00565</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00475</agProdChange>
+                     <agProdChange>0.00535</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0045</agProdChange>
+                     <agProdChange>0.00505</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -57386,7 +57386,7 @@
             <AgSupplySubsector name="SugarCropAEZ04">
                <AgProductionTechnology name="SugarCropAEZ04">
                   <period year="2015">
-                     <agProdChange>0.00615</agProdChange>
+                     <agProdChange>0.0062</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.0058</agProdChange>
@@ -57401,13 +57401,13 @@
                      <agProdChange>0.00555</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00525</agProdChange>
+                     <agProdChange>0.0053</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>0.005</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00475</agProdChange>
+                     <agProdChange>0.0048</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -57444,28 +57444,28 @@
             <AgSupplySubsector name="SugarCropAEZ05">
                <AgProductionTechnology name="SugarCropAEZ05">
                   <period year="2015">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.00625</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.00585</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0055</agProdChange>
+                     <agProdChange>0.00555</agProdChange>
                   </period>
                   <period year="2030">
                      <agProdChange>0.00525</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00755</agProdChange>
+                     <agProdChange>0.00765</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00705</agProdChange>
+                     <agProdChange>0.0071</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00655</agProdChange>
+                     <agProdChange>0.00665</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00615</agProdChange>
+                     <agProdChange>0.00625</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -57520,10 +57520,10 @@
                      <agProdChange>8e-04</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>8e-04</agProdChange>
+                     <agProdChange>0.00075</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>8e-04</agProdChange>
+                     <agProdChange>0.00075</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -57740,7 +57740,7 @@
                      <agProdChange>0.0057</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00535</agProdChange>
+                     <agProdChange>0.0054</agProdChange>
                   </period>
                   <period year="2030">
                      <agProdChange>0.0051</agProdChange>
@@ -57749,7 +57749,7 @@
                      <agProdChange>0.00365</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00355</agProdChange>
+                     <agProdChange>0.0035</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>0.0034</agProdChange>
@@ -57792,28 +57792,28 @@
             <AgSupplySubsector name="SugarCropAEZ11">
                <AgProductionTechnology name="SugarCropAEZ11">
                   <period year="2015">
-                     <agProdChange>0.00595</agProdChange>
+                     <agProdChange>0.0061</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00565</agProdChange>
+                     <agProdChange>0.00575</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00535</agProdChange>
+                     <agProdChange>0.00545</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00505</agProdChange>
+                     <agProdChange>0.00515</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0037</agProdChange>
+                     <agProdChange>0.0035</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00355</agProdChange>
+                     <agProdChange>0.00335</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00345</agProdChange>
+                     <agProdChange>0.00325</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00335</agProdChange>
+                     <agProdChange>0.00315</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -57850,28 +57850,28 @@
             <AgSupplySubsector name="SugarCropAEZ12">
                <AgProductionTechnology name="SugarCropAEZ12">
                   <period year="2015">
-                     <agProdChange>0.00595</agProdChange>
+                     <agProdChange>0.0061</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0056</agProdChange>
+                     <agProdChange>0.00575</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0053</agProdChange>
+                     <agProdChange>0.00545</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00505</agProdChange>
+                     <agProdChange>0.00515</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00375</agProdChange>
-                  </period>
-                  <period year="2040">
-                     <agProdChange>0.0036</agProdChange>
-                  </period>
-                  <period year="2045">
                      <agProdChange>0.0035</agProdChange>
                   </period>
-                  <period year="2050">
+                  <period year="2040">
                      <agProdChange>0.00335</agProdChange>
+                  </period>
+                  <period year="2045">
+                     <agProdChange>0.00325</agProdChange>
+                  </period>
+                  <period year="2050">
+                     <agProdChange>0.00315</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -59014,28 +59014,28 @@
             <AgSupplySubsector name="biomassAEZ04">
                <AgProductionTechnology name="biomassAEZ04">
                   <period year="2015">
-                     <agProdChange>0.00665</agProdChange>
+                     <agProdChange>0.0067</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00625</agProdChange>
+                     <agProdChange>0.0063</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0059</agProdChange>
+                     <agProdChange>0.00595</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00555</agProdChange>
+                     <agProdChange>0.0056</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00385</agProdChange>
+                     <agProdChange>0.00375</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00525</agProdChange>
+                     <agProdChange>0.0053</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>0.005</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00475</agProdChange>
+                     <agProdChange>0.0048</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -59047,13 +59047,13 @@
                      <agProdChange>0.001</agProdChange>
                   </period>
                   <period year="2070">
-                     <agProdChange>0.00215</agProdChange>
+                     <agProdChange>0.0022</agProdChange>
                   </period>
                   <period year="2075">
                      <agProdChange>0.00195</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>0.00105</agProdChange>
+                     <agProdChange>0.00085</agProdChange>
                   </period>
                   <period year="2085">
                      <agProdChange>5e-04</agProdChange>
@@ -59072,31 +59072,31 @@
             <AgSupplySubsector name="biomassAEZ05">
                <AgProductionTechnology name="biomassAEZ05">
                   <period year="2015">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.0075</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00585</agProdChange>
+                     <agProdChange>0.007</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0055</agProdChange>
-                  </period>
-                  <period year="2030">
-                     <agProdChange>0.00525</agProdChange>
-                  </period>
-                  <period year="2035">
-                     <agProdChange>0.0071</agProdChange>
-                  </period>
-                  <period year="2040">
                      <agProdChange>0.00655</agProdChange>
                   </period>
+                  <period year="2030">
+                     <agProdChange>0.00615</agProdChange>
+                  </period>
+                  <period year="2035">
+                     <agProdChange>0.00335</agProdChange>
+                  </period>
+                  <period year="2040">
+                     <agProdChange>0.0071</agProdChange>
+                  </period>
                   <period year="2045">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.0064</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0053</agProdChange>
+                     <agProdChange>0.00405</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>6e-04</agProdChange>
+                     <agProdChange>5e-04</agProdChange>
                   </period>
                   <period year="2060">
                      <agProdChange>5e-04</agProdChange>
@@ -59117,7 +59117,7 @@
                      <agProdChange>5e-04</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>7e-04</agProdChange>
+                     <agProdChange>0.001</agProdChange>
                   </period>
                   <period year="2095">
                      <agProdChange>0.00105</agProdChange>
@@ -59130,52 +59130,52 @@
             <AgSupplySubsector name="biomassAEZ06">
                <AgProductionTechnology name="biomassAEZ06">
                   <period year="2015">
-                     <agProdChange>0.00535</agProdChange>
-                  </period>
-                  <period year="2020">
                      <agProdChange>0.0051</agProdChange>
                   </period>
-                  <period year="2025">
+                  <period year="2020">
                      <agProdChange>0.00485</agProdChange>
                   </period>
+                  <period year="2025">
+                     <agProdChange>0.00465</agProdChange>
+                  </period>
                   <period year="2030">
-                     <agProdChange>0.0046</agProdChange>
+                     <agProdChange>0.0044</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0024</agProdChange>
+                     <agProdChange>-3e-04</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0023</agProdChange>
+                     <agProdChange>0.00045</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00225</agProdChange>
+                     <agProdChange>0.0031</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>-0.00245</agProdChange>
+                     <agProdChange>7e-04</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>0.00125</agProdChange>
-                  </period>
-                  <period year="2060">
-                     <agProdChange>0.00145</agProdChange>
-                  </period>
-                  <period year="2065">
                      <agProdChange>0.0025</agProdChange>
                   </period>
+                  <period year="2060">
+                     <agProdChange>0.0023</agProdChange>
+                  </period>
+                  <period year="2065">
+                     <agProdChange>0.00125</agProdChange>
+                  </period>
                   <period year="2070">
-                     <agProdChange>0.0015</agProdChange>
+                     <agProdChange>0.0012</agProdChange>
                   </period>
                   <period year="2075">
                      <agProdChange>5e-04</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>5e-05</agProdChange>
+                     <agProdChange>5e-04</agProdChange>
                   </period>
                   <period year="2085">
-                     <agProdChange>8e-04</agProdChange>
+                     <agProdChange>5e-04</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>6e-04</agProdChange>
+                     <agProdChange>5e-04</agProdChange>
                   </period>
                   <period year="2095">
                      <agProdChange>5e-04</agProdChange>
@@ -59362,7 +59362,7 @@
             <AgSupplySubsector name="biomassAEZ10">
                <AgProductionTechnology name="biomassAEZ10">
                   <period year="2015">
-                     <agProdChange>0.00585</agProdChange>
+                     <agProdChange>0.0059</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.00555</agProdChange>
@@ -59374,7 +59374,7 @@
                      <agProdChange>0.005</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00425</agProdChange>
+                     <agProdChange>0.00415</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.00685</agProdChange>
@@ -59420,28 +59420,28 @@
             <AgSupplySubsector name="biomassAEZ11">
                <AgProductionTechnology name="biomassAEZ11">
                   <period year="2015">
-                     <agProdChange>0.0051</agProdChange>
-                  </period>
-                  <period year="2020">
-                     <agProdChange>0.00485</agProdChange>
-                  </period>
-                  <period year="2025">
-                     <agProdChange>0.0046</agProdChange>
-                  </period>
-                  <period year="2030">
-                     <agProdChange>0.0044</agProdChange>
-                  </period>
-                  <period year="2035">
-                     <agProdChange>0.00635</agProdChange>
-                  </period>
-                  <period year="2040">
-                     <agProdChange>0.00595</agProdChange>
-                  </period>
-                  <period year="2045">
                      <agProdChange>0.00565</agProdChange>
                   </period>
+                  <period year="2020">
+                     <agProdChange>0.00535</agProdChange>
+                  </period>
+                  <period year="2025">
+                     <agProdChange>0.00505</agProdChange>
+                  </period>
+                  <period year="2030">
+                     <agProdChange>0.00485</agProdChange>
+                  </period>
+                  <period year="2035">
+                     <agProdChange>0.005</agProdChange>
+                  </period>
+                  <period year="2040">
+                     <agProdChange>0.00695</agProdChange>
+                  </period>
+                  <period year="2045">
+                     <agProdChange>0.0043</agProdChange>
+                  </period>
                   <period year="2050">
-                     <agProdChange>0.00435</agProdChange>
+                     <agProdChange>0.0041</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.00075</agProdChange>
@@ -59478,31 +59478,31 @@
             <AgSupplySubsector name="biomassAEZ12">
                <AgProductionTechnology name="biomassAEZ12">
                   <period year="2015">
-                     <agProdChange>0.0048</agProdChange>
+                     <agProdChange>0.00565</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00455</agProdChange>
+                     <agProdChange>0.00535</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00435</agProdChange>
+                     <agProdChange>0.00505</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0042</agProdChange>
+                     <agProdChange>0.00485</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0063</agProdChange>
+                     <agProdChange>0.00505</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0059</agProdChange>
+                     <agProdChange>0.00695</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0056</agProdChange>
+                     <agProdChange>0.0043</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0053</agProdChange>
+                     <agProdChange>0.0041</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>0.00105</agProdChange>
+                     <agProdChange>0.00075</agProdChange>
                   </period>
                   <period year="2060">
                      <agProdChange>0.00075</agProdChange>
@@ -62065,7 +62065,7 @@
                      <agProdChange>0.00365</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00355</agProdChange>
+                     <agProdChange>0.0035</agProdChange>
                   </period>
                   <period year="2025">
                      <agProdChange>0.0034</agProdChange>
@@ -62080,10 +62080,10 @@
                      <agProdChange>0.0024</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0023</agProdChange>
+                     <agProdChange>0.00235</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00225</agProdChange>
+                     <agProdChange>0.0023</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.00125</agProdChange>
@@ -62120,7 +62120,7 @@
             <AgSupplySubsector name="CornAEZ05">
                <AgProductionTechnology name="CornAEZ05">
                   <period year="2015">
-                     <agProdChange>0.0035</agProdChange>
+                     <agProdChange>0.00345</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.00335</agProdChange>
@@ -62306,13 +62306,13 @@
                      <agProdChange>0.00185</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0015</agProdChange>
+                     <agProdChange>0.00155</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.0015</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00145</agProdChange>
+                     <agProdChange>0.0015</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.00145</agProdChange>
@@ -62352,28 +62352,28 @@
             <AgSupplySubsector name="CornAEZ11">
                <AgProductionTechnology name="CornAEZ11">
                   <period year="2015">
-                     <agProdChange>0.0018</agProdChange>
+                     <agProdChange>0.0015</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00175</agProdChange>
+                     <agProdChange>0.00145</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00175</agProdChange>
+                     <agProdChange>0.00145</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0017</agProdChange>
+                     <agProdChange>0.00145</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00215</agProdChange>
+                     <agProdChange>0.00275</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0021</agProdChange>
+                     <agProdChange>0.00265</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00205</agProdChange>
+                     <agProdChange>0.0026</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.002</agProdChange>
+                     <agProdChange>0.00255</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.00125</agProdChange>
@@ -62410,28 +62410,28 @@
             <AgSupplySubsector name="CornAEZ12">
                <AgProductionTechnology name="CornAEZ12">
                   <period year="2015">
-                     <agProdChange>0.00265</agProdChange>
+                     <agProdChange>0.0018</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00255</agProdChange>
+                     <agProdChange>0.0018</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0025</agProdChange>
+                     <agProdChange>0.00175</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00245</agProdChange>
+                     <agProdChange>0.0017</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00365</agProdChange>
+                     <agProdChange>0.004</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0035</agProdChange>
+                     <agProdChange>0.00385</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0034</agProdChange>
+                     <agProdChange>0.0037</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0033</agProdChange>
+                     <agProdChange>0.00355</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.00125</agProdChange>
@@ -62586,7 +62586,7 @@
             <AgSupplySubsector name="FiberCropAEZ04">
                <AgProductionTechnology name="FiberCropAEZ04">
                   <period year="2015">
-                     <agProdChange>0.0043</agProdChange>
+                     <agProdChange>0.00435</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.00415</agProdChange>
@@ -62595,16 +62595,16 @@
                      <agProdChange>0.004</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0038</agProdChange>
+                     <agProdChange>0.00385</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00655</agProdChange>
+                     <agProdChange>0.0065</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00615</agProdChange>
+                     <agProdChange>0.0061</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0058</agProdChange>
+                     <agProdChange>0.00575</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.00545</agProdChange>
@@ -62656,7 +62656,7 @@
                      <agProdChange>0.00385</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00625</agProdChange>
+                     <agProdChange>0.0062</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.00585</agProdChange>
@@ -62702,7 +62702,7 @@
             <AgSupplySubsector name="FiberCropAEZ06">
                <AgProductionTechnology name="FiberCropAEZ06">
                   <period year="2015">
-                     <agProdChange>0.00445</agProdChange>
+                     <agProdChange>0.0045</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.0043</agProdChange>
@@ -62717,7 +62717,7 @@
                      <agProdChange>0.002</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00195</agProdChange>
+                     <agProdChange>0.002</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>0.00195</agProdChange>
@@ -62833,7 +62833,7 @@
                      <agProdChange>0.00205</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.002</agProdChange>
+                     <agProdChange>0.00205</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>0.002</agProdChange>
@@ -62876,28 +62876,28 @@
             <AgSupplySubsector name="FiberCropAEZ11">
                <AgProductionTechnology name="FiberCropAEZ11">
                   <period year="2015">
-                     <agProdChange>0.00425</agProdChange>
+                     <agProdChange>0.0044</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00405</agProdChange>
+                     <agProdChange>0.0042</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0039</agProdChange>
+                     <agProdChange>0.004</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00375</agProdChange>
+                     <agProdChange>0.00385</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00615</agProdChange>
-                  </period>
-                  <period year="2040">
                      <agProdChange>0.0058</agProdChange>
                   </period>
+                  <period year="2040">
+                     <agProdChange>0.0055</agProdChange>
+                  </period>
                   <period year="2045">
-                     <agProdChange>0.00545</agProdChange>
+                     <agProdChange>0.0052</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0052</agProdChange>
+                     <agProdChange>0.00495</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0</agProdChange>
@@ -62952,7 +62952,7 @@
                      <agProdChange>0.00715</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0067</agProdChange>
+                     <agProdChange>0.00665</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.00625</agProdChange>
@@ -64158,16 +64158,16 @@
             <AgSupplySubsector name="MiscCropAEZ04">
                <AgProductionTechnology name="MiscCropAEZ04">
                   <period year="2015">
-                     <agProdChange>0.0059</agProdChange>
+                     <agProdChange>0.00585</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00555</agProdChange>
+                     <agProdChange>0.0055</agProdChange>
                   </period>
                   <period year="2025">
                      <agProdChange>0.00525</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.005</agProdChange>
+                     <agProdChange>0.00495</agProdChange>
                   </period>
                   <period year="2035">
                      <agProdChange>0.00335</agProdChange>
@@ -64216,7 +64216,7 @@
             <AgSupplySubsector name="MiscCropAEZ05">
                <AgProductionTechnology name="MiscCropAEZ05">
                   <period year="2015">
-                     <agProdChange>0.00485</agProdChange>
+                     <agProdChange>0.0048</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.0046</agProdChange>
@@ -64399,7 +64399,7 @@
                      <agProdChange>0.0058</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0055</agProdChange>
+                     <agProdChange>0.00545</agProdChange>
                   </period>
                   <period year="2035">
                      <agProdChange>0.0023</agProdChange>
@@ -64448,28 +64448,28 @@
             <AgSupplySubsector name="MiscCropAEZ11">
                <AgProductionTechnology name="MiscCropAEZ11">
                   <period year="2015">
-                     <agProdChange>0.00585</agProdChange>
-                  </period>
-                  <period year="2020">
                      <agProdChange>0.00555</agProdChange>
                   </period>
-                  <period year="2025">
+                  <period year="2020">
                      <agProdChange>0.00525</agProdChange>
                   </period>
-                  <period year="2030">
+                  <period year="2025">
                      <agProdChange>0.005</agProdChange>
                   </period>
+                  <period year="2030">
+                     <agProdChange>0.00475</agProdChange>
+                  </period>
                   <period year="2035">
-                     <agProdChange>0.00285</agProdChange>
+                     <agProdChange>0.003</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0028</agProdChange>
+                     <agProdChange>0.0029</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0027</agProdChange>
+                     <agProdChange>0.0028</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00265</agProdChange>
+                     <agProdChange>0.00275</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0015</agProdChange>
@@ -64506,28 +64506,28 @@
             <AgSupplySubsector name="MiscCropAEZ12">
                <AgProductionTechnology name="MiscCropAEZ12">
                   <period year="2015">
-                     <agProdChange>0.0049</agProdChange>
+                     <agProdChange>0.00455</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0047</agProdChange>
+                     <agProdChange>0.00435</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00445</agProdChange>
+                     <agProdChange>0.0042</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0043</agProdChange>
+                     <agProdChange>0.004</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00285</agProdChange>
+                     <agProdChange>0.0036</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00275</agProdChange>
+                     <agProdChange>0.00345</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0027</agProdChange>
+                     <agProdChange>0.00335</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0026</agProdChange>
+                     <agProdChange>0.00325</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0015</agProdChange>
@@ -64752,7 +64752,7 @@
                      <agProdChange>0.00415</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00705</agProdChange>
+                     <agProdChange>0.007</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.00655</agProdChange>
@@ -64804,7 +64804,7 @@
                      <agProdChange>0.00295</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0029</agProdChange>
+                     <agProdChange>0.00285</agProdChange>
                   </period>
                   <period year="2030">
                      <agProdChange>0.0028</agProdChange>
@@ -64972,28 +64972,28 @@
             <AgSupplySubsector name="OilCropAEZ11">
                <AgProductionTechnology name="OilCropAEZ11">
                   <period year="2015">
-                     <agProdChange>0.0066</agProdChange>
+                     <agProdChange>0.00635</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0062</agProdChange>
+                     <agProdChange>0.006</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0058</agProdChange>
+                     <agProdChange>0.00565</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0055</agProdChange>
+                     <agProdChange>0.00535</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0077</agProdChange>
+                     <agProdChange>0.00755</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00715</agProdChange>
+                     <agProdChange>0.007</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0067</agProdChange>
+                     <agProdChange>0.00655</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00625</agProdChange>
+                     <agProdChange>0.00615</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0025</agProdChange>
@@ -65030,28 +65030,28 @@
             <AgSupplySubsector name="OilCropAEZ12">
                <AgProductionTechnology name="OilCropAEZ12">
                   <period year="2015">
-                     <agProdChange>0.0053</agProdChange>
+                     <agProdChange>0.0049</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00505</agProdChange>
+                     <agProdChange>0.0047</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0048</agProdChange>
+                     <agProdChange>0.00445</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0046</agProdChange>
+                     <agProdChange>0.0043</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00795</agProdChange>
+                     <agProdChange>0.0072</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00735</agProdChange>
+                     <agProdChange>0.00675</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00685</agProdChange>
+                     <agProdChange>0.0063</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0064</agProdChange>
+                     <agProdChange>0.00595</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.0025</agProdChange>
@@ -66254,13 +66254,13 @@
             <AgSupplySubsector name="RiceAEZ04">
                <AgProductionTechnology name="RiceAEZ04">
                   <period year="2015">
-                     <agProdChange>0.0054</agProdChange>
+                     <agProdChange>0.00535</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00515</agProdChange>
+                     <agProdChange>0.0051</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0049</agProdChange>
+                     <agProdChange>0.00485</agProdChange>
                   </period>
                   <period year="2030">
                      <agProdChange>0.00465</agProdChange>
@@ -66312,7 +66312,7 @@
             <AgSupplySubsector name="RiceAEZ05">
                <AgProductionTechnology name="RiceAEZ05">
                   <period year="2015">
-                     <agProdChange>0.00535</agProdChange>
+                     <agProdChange>0.0053</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.00505</agProdChange>
@@ -66327,10 +66327,10 @@
                      <agProdChange>0.00415</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00395</agProdChange>
+                     <agProdChange>0.004</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0038</agProdChange>
+                     <agProdChange>0.00385</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.0037</agProdChange>
@@ -66373,13 +66373,13 @@
                      <agProdChange>0.00525</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.005</agProdChange>
+                     <agProdChange>0.00495</agProdChange>
                   </period>
                   <period year="2025">
                      <agProdChange>0.00475</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00455</agProdChange>
+                     <agProdChange>0.0045</agProdChange>
                   </period>
                   <period year="2035">
                      <agProdChange>0.00485</agProdChange>
@@ -66486,7 +66486,7 @@
             <AgSupplySubsector name="RiceAEZ10">
                <AgProductionTechnology name="RiceAEZ10">
                   <period year="2015">
-                     <agProdChange>0.00365</agProdChange>
+                     <agProdChange>0.0036</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.0035</agProdChange>
@@ -66498,10 +66498,10 @@
                      <agProdChange>0.00325</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00385</agProdChange>
+                     <agProdChange>0.0039</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0037</agProdChange>
+                     <agProdChange>0.00375</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>0.0036</agProdChange>
@@ -66544,28 +66544,28 @@
             <AgSupplySubsector name="RiceAEZ11">
                <AgProductionTechnology name="RiceAEZ11">
                   <period year="2015">
-                     <agProdChange>0.00365</agProdChange>
+                     <agProdChange>0.00355</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0035</agProdChange>
+                     <agProdChange>0.00345</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0034</agProdChange>
+                     <agProdChange>0.00335</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0033</agProdChange>
+                     <agProdChange>0.00325</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0029</agProdChange>
+                     <agProdChange>0.00355</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0028</agProdChange>
+                     <agProdChange>0.0034</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00275</agProdChange>
+                     <agProdChange>0.0033</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00265</agProdChange>
+                     <agProdChange>0.0032</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>5e-04</agProdChange>
@@ -66602,28 +66602,28 @@
             <AgSupplySubsector name="RiceAEZ12">
                <AgProductionTechnology name="RiceAEZ12">
                   <period year="2015">
-                     <agProdChange>0.00595</agProdChange>
+                     <agProdChange>0.00555</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0056</agProdChange>
+                     <agProdChange>0.00525</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0053</agProdChange>
+                     <agProdChange>0.005</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00505</agProdChange>
+                     <agProdChange>0.00475</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0041</agProdChange>
+                     <agProdChange>0.00425</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00395</agProdChange>
+                     <agProdChange>0.0041</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0038</agProdChange>
+                     <agProdChange>0.00395</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00365</agProdChange>
+                     <agProdChange>0.0038</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>5e-04</agProdChange>
@@ -66778,7 +66778,7 @@
             <AgSupplySubsector name="Root_TuberAEZ04">
                <AgProductionTechnology name="Root_TuberAEZ04">
                   <period year="2015">
-                     <agProdChange>0.0095</agProdChange>
+                     <agProdChange>0.00945</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.00865</agProdChange>
@@ -66787,10 +66787,10 @@
                      <agProdChange>0.00795</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0074</agProdChange>
+                     <agProdChange>0.00735</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>-0.002</agProdChange>
+                     <agProdChange>-0.00195</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>-0.002</agProdChange>
@@ -66848,7 +66848,7 @@
                      <agProdChange>0.0057</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>-6e-04</agProdChange>
+                     <agProdChange>-0.00055</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>-6e-04</agProdChange>
@@ -66909,7 +66909,7 @@
                      <agProdChange>-0.00125</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>-0.0013</agProdChange>
+                     <agProdChange>-0.00125</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>-0.0013</agProdChange>
@@ -67028,10 +67028,10 @@
                      <agProdChange>-0.00055</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>-6e-04</agProdChange>
+                     <agProdChange>-0.00055</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>-6e-04</agProdChange>
+                     <agProdChange>-0.00055</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -67068,28 +67068,28 @@
             <AgSupplySubsector name="Root_TuberAEZ11">
                <AgProductionTechnology name="Root_TuberAEZ11">
                   <period year="2015">
-                     <agProdChange>0.00795</agProdChange>
+                     <agProdChange>0.00705</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00735</agProdChange>
+                     <agProdChange>0.0066</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00685</agProdChange>
+                     <agProdChange>0.0062</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0064</agProdChange>
+                     <agProdChange>0.0058</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>-2e-04</agProdChange>
+                     <agProdChange>2e-04</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>-2e-04</agProdChange>
+                     <agProdChange>2e-04</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>-2e-04</agProdChange>
+                     <agProdChange>2e-04</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>-2e-04</agProdChange>
+                     <agProdChange>2e-04</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -67126,28 +67126,28 @@
             <AgSupplySubsector name="Root_TuberAEZ12">
                <AgProductionTechnology name="Root_TuberAEZ12">
                   <period year="2015">
-                     <agProdChange>0.0027</agProdChange>
+                     <agProdChange>0.00285</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0026</agProdChange>
+                     <agProdChange>0.00275</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00255</agProdChange>
+                     <agProdChange>0.0027</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0025</agProdChange>
+                     <agProdChange>0.0026</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0023</agProdChange>
+                     <agProdChange>0.0024</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00225</agProdChange>
+                     <agProdChange>0.00235</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0022</agProdChange>
+                     <agProdChange>0.0023</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00215</agProdChange>
+                     <agProdChange>0.00225</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -67311,7 +67311,7 @@
                      <agProdChange>0.0083</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0077</agProdChange>
+                     <agProdChange>0.00765</agProdChange>
                   </period>
                   <period year="2035">
                      <agProdChange>0.00365</agProdChange>
@@ -67375,7 +67375,7 @@
                      <agProdChange>0.0027</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0026</agProdChange>
+                     <agProdChange>0.00265</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>0.00255</agProdChange>
@@ -67534,19 +67534,19 @@
             <AgSupplySubsector name="SugarCropAEZ10">
                <AgProductionTechnology name="SugarCropAEZ10">
                   <period year="2015">
-                     <agProdChange>0.0104</agProdChange>
+                     <agProdChange>0.01015</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0094</agProdChange>
+                     <agProdChange>0.00925</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0086</agProdChange>
+                     <agProdChange>0.00845</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0079</agProdChange>
+                     <agProdChange>0.0078</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0037</agProdChange>
+                     <agProdChange>0.00375</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.0036</agProdChange>
@@ -67592,28 +67592,28 @@
             <AgSupplySubsector name="SugarCropAEZ11">
                <AgProductionTechnology name="SugarCropAEZ11">
                   <period year="2015">
-                     <agProdChange>0.00295</agProdChange>
+                     <agProdChange>0.00325</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00285</agProdChange>
+                     <agProdChange>0.00315</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0028</agProdChange>
+                     <agProdChange>0.00305</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0027</agProdChange>
+                     <agProdChange>0.00295</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00185</agProdChange>
+                     <agProdChange>0.00215</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00185</agProdChange>
+                     <agProdChange>0.0021</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0018</agProdChange>
+                     <agProdChange>0.00205</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00175</agProdChange>
+                     <agProdChange>0.00205</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -67650,28 +67650,28 @@
             <AgSupplySubsector name="SugarCropAEZ12">
                <AgProductionTechnology name="SugarCropAEZ12">
                   <period year="2015">
-                     <agProdChange>0.0035</agProdChange>
+                     <agProdChange>0.00395</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0034</agProdChange>
+                     <agProdChange>0.0038</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00325</agProdChange>
+                     <agProdChange>0.0037</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00315</agProdChange>
+                     <agProdChange>0.00355</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0017</agProdChange>
+                     <agProdChange>0.0023</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0017</agProdChange>
+                     <agProdChange>0.00225</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00165</agProdChange>
+                     <agProdChange>0.0022</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00165</agProdChange>
+                     <agProdChange>0.00215</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.001</agProdChange>
@@ -68362,22 +68362,22 @@
                      <agProdChange>0.00405</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0048</agProdChange>
+                     <agProdChange>0.00475</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0052</agProdChange>
+                     <agProdChange>0.00515</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0019</agProdChange>
+                     <agProdChange>0.00195</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00325</agProdChange>
+                     <agProdChange>0.0032</agProdChange>
                   </period>
                   <period year="2055">
                      <agProdChange>0.002</agProdChange>
                   </period>
                   <period year="2060">
-                     <agProdChange>0.0016</agProdChange>
+                     <agProdChange>0.00165</agProdChange>
                   </period>
                   <period year="2065">
                      <agProdChange>0.0015</agProdChange>
@@ -68389,7 +68389,7 @@
                      <agProdChange>5e-04</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>3e-04</agProdChange>
+                     <agProdChange>0.00035</agProdChange>
                   </period>
                   <period year="2085">
                      <agProdChange>0.00025</agProdChange>
@@ -68408,7 +68408,7 @@
             <AgSupplySubsector name="biomassAEZ05">
                <AgProductionTechnology name="biomassAEZ05">
                   <period year="2015">
-                     <agProdChange>0.0048</agProdChange>
+                     <agProdChange>0.00475</agProdChange>
                   </period>
                   <period year="2020">
                      <agProdChange>0.00455</agProdChange>
@@ -68417,10 +68417,10 @@
                      <agProdChange>0.00435</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0042</agProdChange>
+                     <agProdChange>0.00415</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.00515</agProdChange>
+                     <agProdChange>0.0052</agProdChange>
                   </period>
                   <period year="2040">
                      <agProdChange>0.00255</agProdChange>
@@ -68481,7 +68481,7 @@
                      <agProdChange>0.0037</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00075</agProdChange>
+                     <agProdChange>8e-04</agProdChange>
                   </period>
                   <period year="2045">
                      <agProdChange>0.0024</agProdChange>
@@ -68517,7 +68517,7 @@
                      <agProdChange>8e-04</agProdChange>
                   </period>
                   <period year="2100">
-                     <agProdChange>6e-04</agProdChange>
+                     <agProdChange>0.00055</agProdChange>
                   </period>
                </AgProductionTechnology>
             </AgSupplySubsector>
@@ -68652,13 +68652,13 @@
                      <agProdChange>0.0035</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0034</agProdChange>
+                     <agProdChange>0.0036</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0032</agProdChange>
+                     <agProdChange>0.0035</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0031</agProdChange>
+                     <agProdChange>0.00305</agProdChange>
                   </period>
                   <period year="2050">
                      <agProdChange>0.0017</agProdChange>
@@ -68679,13 +68679,13 @@
                      <agProdChange>7e-04</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>6e-04</agProdChange>
+                     <agProdChange>0.00065</agProdChange>
                   </period>
                   <period year="2085">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>6e-04</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>5e-04</agProdChange>
+                     <agProdChange>0.00055</agProdChange>
                   </period>
                   <period year="2095">
                      <agProdChange>5e-04</agProdChange>
@@ -68698,52 +68698,52 @@
             <AgSupplySubsector name="biomassAEZ12">
                <AgProductionTechnology name="biomassAEZ12">
                   <period year="2015">
-                     <agProdChange>0.0036</agProdChange>
+                     <agProdChange>0.00385</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.00345</agProdChange>
+                     <agProdChange>0.0037</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.00335</agProdChange>
+                     <agProdChange>0.00355</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.00325</agProdChange>
+                     <agProdChange>0.00345</agProdChange>
                   </period>
                   <period year="2035">
                      <agProdChange>0.0045</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.00255</agProdChange>
+                     <agProdChange>0.00285</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.00305</agProdChange>
+                     <agProdChange>0.0028</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.00295</agProdChange>
+                     <agProdChange>0.0027</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>0.0014</agProdChange>
-                  </period>
-                  <period year="2060">
-                     <agProdChange>0.0014</agProdChange>
-                  </period>
-                  <period year="2065">
-                     <agProdChange>0.0014</agProdChange>
-                  </period>
-                  <period year="2070">
-                     <agProdChange>0.00135</agProdChange>
-                  </period>
-                  <period year="2075">
                      <agProdChange>0.00125</agProdChange>
                   </period>
-                  <period year="2080">
+                  <period year="2060">
+                     <agProdChange>0.00125</agProdChange>
+                  </period>
+                  <period year="2065">
+                     <agProdChange>0.00125</agProdChange>
+                  </period>
+                  <period year="2070">
+                     <agProdChange>0.0012</agProdChange>
+                  </period>
+                  <period year="2075">
                      <agProdChange>0.00115</agProdChange>
                   </period>
+                  <period year="2080">
+                     <agProdChange>0.00085</agProdChange>
+                  </period>
                   <period year="2085">
-                     <agProdChange>0.0011</agProdChange>
+                     <agProdChange>6e-04</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>9e-04</agProdChange>
+                     <agProdChange>7e-04</agProdChange>
                   </period>
                   <period year="2095">
                      <agProdChange>0.00065</agProdChange>

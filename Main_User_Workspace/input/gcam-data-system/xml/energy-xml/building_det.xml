@@ -124142,40 +124142,40 @@
                   <price-exponent fillout="1" year="1975">-0.1</price-exponent>
                   <internal-gains-market-name>resid-internal-gains-trial-market</internal-gains-market-name>
                   <internal-gains-unit>EJ</internal-gains-unit>
-                  <base-building-size year="1975">0.713</base-building-size>
-                  <base-building-size year="1990">1.161</base-building-size>
-                  <base-building-size year="2005">1.892</base-building-size>
-                  <base-building-size year="2010">2.03</base-building-size>
+                  <base-building-size year="1975">0.694</base-building-size>
+                  <base-building-size year="1990">1.13</base-building-size>
+                  <base-building-size year="2005">1.843</base-building-size>
+                  <base-building-size year="2010">1.976</base-building-size>
                   <prodDmdFnType>building-service-function</prodDmdFnType>
                   <satiation-demand-function>
                      <satiation-level>3.5e-05</satiation-level>
-                     <satiation-adder>7.723e-06</satiation-adder>
+                     <satiation-adder>7.721e-06</satiation-adder>
                   </satiation-demand-function>
                   <thermal-building-service-input name="resid cooling">
-                     <base-service year="1975">0.0024268</base-service>
-                     <base-service year="1990">0.0150458</base-service>
-                     <base-service year="2005">0.0758043</base-service>
-                     <base-service year="2010">0.1119373</base-service>
+                     <base-service year="1975">0.0023271</base-service>
+                     <base-service year="1990">0.0138599</base-service>
+                     <base-service year="2005">0.0734453</base-service>
+                     <base-service year="2010">0.1089291</base-service>
                      <satiation-demand-function>
-                        <satiation-level>0.4784851</satiation-level>
+                        <satiation-level>0.47918</satiation-level>
                      </satiation-demand-function>
-                     <internal-gains-scalar>1029</internal-gains-scalar>
+                     <internal-gains-scalar>1031</internal-gains-scalar>
                   </thermal-building-service-input>
                   <thermal-building-service-input name="resid heating">
-                     <base-service year="1975">0.006093</base-service>
-                     <base-service year="1990">0.010486</base-service>
-                     <base-service year="2005">0.0172083</base-service>
-                     <base-service year="2010">0.0163801</base-service>
+                     <base-service year="1975">0.0061118</base-service>
+                     <base-service year="1990">0.0102859</base-service>
+                     <base-service year="2005">0.0171493</base-service>
+                     <base-service year="2010">0.0162106</base-service>
                      <satiation-demand-function>
-                        <satiation-level>0.0429292</satiation-level>
+                        <satiation-level>0.0438673</satiation-level>
                      </satiation-demand-function>
-                     <internal-gains-scalar>-174</internal-gains-scalar>
+                     <internal-gains-scalar>-178</internal-gains-scalar>
                   </thermal-building-service-input>
                   <building-service-input name="resid others">
-                     <base-service year="1975">0.0591682</base-service>
-                     <base-service year="1990">0.0957545</base-service>
-                     <base-service year="2005">0.1587448</base-service>
-                     <base-service year="2010">0.1851123</base-service>
+                     <base-service year="1975">0.0582558</base-service>
+                     <base-service year="1990">0.092726</base-service>
+                     <base-service year="2005">0.155271</base-service>
+                     <base-service year="2010">0.1812552</base-service>
                      <satiation-demand-function>
                         <satiation-level>0.3504618</satiation-level>
                      </satiation-demand-function>
@@ -124236,40 +124236,40 @@
                   <price-exponent fillout="1" year="1975">-0.1</price-exponent>
                   <internal-gains-market-name>comm-internal-gains-trial-market</internal-gains-market-name>
                   <internal-gains-unit>EJ</internal-gains-unit>
-                  <base-building-size year="1975">0.484</base-building-size>
-                  <base-building-size year="1990">0.731</base-building-size>
-                  <base-building-size year="2005">1.11</base-building-size>
-                  <base-building-size year="2010">1.191</base-building-size>
+                  <base-building-size year="1975">0.471</base-building-size>
+                  <base-building-size year="1990">0.711</base-building-size>
+                  <base-building-size year="2005">1.081</base-building-size>
+                  <base-building-size year="2010">1.16</base-building-size>
                   <prodDmdFnType>building-service-function</prodDmdFnType>
                   <satiation-demand-function>
                      <satiation-level>1.7e-05</satiation-level>
-                     <satiation-adder>4.638e-06</satiation-adder>
+                     <satiation-adder>4.64e-06</satiation-adder>
                   </satiation-demand-function>
                   <thermal-building-service-input name="comm cooling">
-                     <base-service year="1975">0.0023704</base-service>
-                     <base-service year="1990">0.0058094</base-service>
-                     <base-service year="2005">0.013001</base-service>
-                     <base-service year="2010">0.0226577</base-service>
+                     <base-service year="1975">0.0019489</base-service>
+                     <base-service year="1990">0.0049702</base-service>
+                     <base-service year="2005">0.0115781</base-service>
+                     <base-service year="2010">0.0203078</base-service>
                      <satiation-demand-function>
-                        <satiation-level>0.8252948</satiation-level>
+                        <satiation-level>0.8264934</satiation-level>
                      </satiation-demand-function>
-                     <internal-gains-scalar>1029</internal-gains-scalar>
+                     <internal-gains-scalar>1031</internal-gains-scalar>
                   </thermal-building-service-input>
                   <thermal-building-service-input name="comm heating">
-                     <base-service year="1975">0.011086</base-service>
-                     <base-service year="1990">0.0108208</base-service>
-                     <base-service year="2005">0.0087255</base-service>
-                     <base-service year="2010">0.0119332</base-service>
+                     <base-service year="1975">0.0107487</base-service>
+                     <base-service year="1990">0.0101401</base-service>
+                     <base-service year="2005">0.0092986</base-service>
+                     <base-service year="2010">0.0123731</base-service>
                      <satiation-demand-function>
-                        <satiation-level>0.0465879</satiation-level>
+                        <satiation-level>0.047606</satiation-level>
                      </satiation-demand-function>
-                     <internal-gains-scalar>-174</internal-gains-scalar>
+                     <internal-gains-scalar>-178</internal-gains-scalar>
                   </thermal-building-service-input>
                   <building-service-input name="comm others">
-                     <base-service year="1975">0.0145337</base-service>
-                     <base-service year="1990">0.017713</base-service>
-                     <base-service year="2005">0.0247914</base-service>
-                     <base-service year="2010">0.0388431</base-service>
+                     <base-service year="1975">0.0115642</base-service>
+                     <base-service year="1990">0.0143658</base-service>
+                     <base-service year="2005">0.0224025</base-service>
+                     <base-service year="2010">0.0350794</base-service>
                      <satiation-demand-function>
                         <satiation-level>1.0178495</satiation-level>
                      </satiation-demand-function>
@@ -124956,7 +124956,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.5795409</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0046487</calibrated-value>
+                        <calibrated-value>0.0046377</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -124964,7 +124964,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.603845</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0085688</calibrated-value>
+                        <calibrated-value>0.0083037</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -124972,7 +124972,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.628751</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0142471</calibrated-value>
+                        <calibrated-value>0.0141827</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -124980,7 +124980,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.6446102</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0099735</calibrated-value>
+                        <calibrated-value>0.0097241</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -125110,7 +125110,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1086639</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.031213</calibrated-value>
+                        <calibrated-value>0.031445</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -125118,7 +125118,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1132209</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0443629</calibrated-value>
+                        <calibrated-value>0.0440095</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -125126,7 +125126,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1178908</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0555011</calibrated-value>
+                        <calibrated-value>0.0553444</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -125134,7 +125134,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1208644</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0595678</calibrated-value>
+                        <calibrated-value>0.0594957</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -125271,7 +125271,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>1.6821018</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0014427</calibrated-value>
+                        <calibrated-value>0.0013834</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -125279,7 +125279,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>1.888653</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0079664</calibrated-value>
+                        <calibrated-value>0.0073385</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -125287,7 +125287,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>2.1191611</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0357709</calibrated-value>
+                        <calibrated-value>0.0346577</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -125295,7 +125295,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>2.2274194</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0502543</calibrated-value>
+                        <calibrated-value>0.0489037</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -125598,7 +125598,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2264419</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0004529</calibrated-value>
+                        <calibrated-value>0.0003474</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -125610,7 +125610,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2357816</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.003132</calibrated-value>
+                        <calibrated-value>0.002607</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -125622,7 +125622,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2417288</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0043496</calibrated-value>
+                        <calibrated-value>0.0036518</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -125828,7 +125828,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.2897705</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0010996</calibrated-value>
+                        <calibrated-value>0.0009034</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -126070,7 +126070,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.654706</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0007373</calibrated-value>
+                        <calibrated-value>0.0007031</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126078,7 +126078,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7028951</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0040711</calibrated-value>
+                        <calibrated-value>0.0037295</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126086,7 +126086,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7541306</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0182802</calibrated-value>
+                        <calibrated-value>0.0176135</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126094,7 +126094,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7809071</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0256817</calibrated-value>
+                        <calibrated-value>0.0248536</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126466,7 +126466,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4346557</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0126791</calibrated-value>
+                        <calibrated-value>0.0123843</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126474,7 +126474,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4528837</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0233711</calibrated-value>
+                        <calibrated-value>0.0221738</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126482,7 +126482,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4715633</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0388584</calibrated-value>
+                        <calibrated-value>0.0378728</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126490,7 +126490,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4834577</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0272023</calibrated-value>
+                        <calibrated-value>0.0259669</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126620,7 +126620,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1086639</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.4854849</calibrated-value>
+                        <calibrated-value>0.4789973</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126628,7 +126628,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1132209</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.6900186</calibrated-value>
+                        <calibrated-value>0.6703904</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126636,7 +126636,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1178908</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.8632618</calibrated-value>
+                        <calibrated-value>0.8430525</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -126644,7 +126644,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1208644</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.9265151</calibrated-value>
+                        <calibrated-value>0.9062895</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127243,7 +127243,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.5581875</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0027938</calibrated-value>
+                        <calibrated-value>0.0026328</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127251,7 +127251,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.5903725</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0041875</calibrated-value>
+                        <calibrated-value>0.0039779</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127259,7 +127259,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.6239992</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0032885</calibrated-value>
+                        <calibrated-value>0.0034754</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127267,7 +127267,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.6429404</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.005089</calibrated-value>
+                        <calibrated-value>0.0054679</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127397,7 +127397,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.5940294</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0160372</calibrated-value>
+                        <calibrated-value>0.0156206</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127405,7 +127405,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.6189411</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0134886</calibrated-value>
+                        <calibrated-value>0.0125888</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127413,7 +127413,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.6444698</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.010355</calibrated-value>
+                        <calibrated-value>0.0110634</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127421,7 +127421,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.6607255</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0131088</calibrated-value>
+                        <calibrated-value>0.0134058</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127558,7 +127558,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>1.7460601</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0013576</calibrated-value>
+                        <calibrated-value>0.0011162</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127566,7 +127566,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>1.9604649</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0029633</calibrated-value>
+                        <calibrated-value>0.0025352</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127574,7 +127574,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>2.1997376</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0059103</calibrated-value>
+                        <calibrated-value>0.0052634</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127582,7 +127582,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>2.3121121</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0097996</calibrated-value>
+                        <calibrated-value>0.0087832</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -127885,7 +127885,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2264419</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0029487</calibrated-value>
+                        <calibrated-value>0.0029347</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -127897,7 +127897,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2357816</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0078561</calibrated-value>
+                        <calibrated-value>0.0078233</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -127909,7 +127909,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2417288</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0086755</calibrated-value>
+                        <calibrated-value>0.0086335</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -128115,7 +128115,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.2897705</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0055073</calibrated-value>
+                        <calibrated-value>0.0045321</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -128127,7 +128127,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3019225</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.000785</calibrated-value>
+                        <calibrated-value>0.0006022</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -128357,7 +128357,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.654706</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0045798</calibrated-value>
+                        <calibrated-value>0.0038991</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -128365,7 +128365,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7028951</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0099967</calibrated-value>
+                        <calibrated-value>0.008856</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -128373,7 +128373,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7541306</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0199384</calibrated-value>
+                        <calibrated-value>0.0183862</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -128381,7 +128381,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7809071</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.033059</calibrated-value>
+                        <calibrated-value>0.0306817</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -128511,7 +128511,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.4239399</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0040681</calibrated-value>
+                        <calibrated-value>0.0030345</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -128523,7 +128523,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.4483842</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0060976</calibrated-value>
+                        <calibrated-value>0.0045847</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -128535,7 +128535,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.4739234</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0047885</calibrated-value>
+                        <calibrated-value>0.0040056</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -128547,7 +128547,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.4883092</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0074102</calibrated-value>
+                        <calibrated-value>0.0063021</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -128753,7 +128753,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4346557</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0185018</calibrated-value>
+                        <calibrated-value>0.0143538</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -128761,7 +128761,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4528837</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0155615</calibrated-value>
+                        <calibrated-value>0.0115678</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -128769,7 +128769,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4715633</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0119464</calibrated-value>
+                        <calibrated-value>0.0101661</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -128777,7 +128777,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4834577</efficiency>
                         <market-name>South Asia</market-name>
-                        <calibrated-value>0.0151233</calibrated-value>
+                        <calibrated-value>0.0123186</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -133362,40 +133362,40 @@
                   <price-exponent fillout="1" year="1975">-0.1</price-exponent>
                   <internal-gains-market-name>resid-internal-gains-trial-market</internal-gains-market-name>
                   <internal-gains-unit>EJ</internal-gains-unit>
-                  <base-building-size year="1975">2.769</base-building-size>
-                  <base-building-size year="1990">3.963</base-building-size>
-                  <base-building-size year="2005">5.426</base-building-size>
-                  <base-building-size year="2010">5.733</base-building-size>
+                  <base-building-size year="1975">2.788</base-building-size>
+                  <base-building-size year="1990">3.993</base-building-size>
+                  <base-building-size year="2005">5.475</base-building-size>
+                  <base-building-size year="2010">5.787</base-building-size>
                   <prodDmdFnType>building-service-function</prodDmdFnType>
                   <satiation-demand-function>
                      <satiation-level>3.5e-05</satiation-level>
-                     <satiation-adder>1.2762e-05</satiation-adder>
+                     <satiation-adder>1.2675e-05</satiation-adder>
                   </satiation-demand-function>
                   <thermal-building-service-input name="resid cooling">
-                     <base-service year="1975">0.0166505</base-service>
-                     <base-service year="1990">0.113898</base-service>
-                     <base-service year="2005">0.4536941</base-service>
-                     <base-service year="2010">0.6585368</base-service>
+                     <base-service year="1975">0.0167514</base-service>
+                     <base-service year="1990">0.1150759</base-service>
+                     <base-service year="2005">0.4559615</base-service>
+                     <base-service year="2010">0.6614871</base-service>
                      <satiation-demand-function>
-                        <satiation-level>0.5365554</satiation-level>
+                        <satiation-level>0.5353037</satiation-level>
                      </satiation-demand-function>
-                     <internal-gains-scalar>1154</internal-gains-scalar>
+                     <internal-gains-scalar>1152</internal-gains-scalar>
                   </thermal-building-service-input>
                   <thermal-building-service-input name="resid heating">
-                     <base-service year="1975">0.0019688</base-service>
-                     <base-service year="1990">0.0029751</base-service>
-                     <base-service year="2005">0.0041908</base-service>
-                     <base-service year="2010">0.0047353</base-service>
+                     <base-service year="1975">0.0019977</base-service>
+                     <base-service year="1990">0.0030357</base-service>
+                     <base-service year="2005">0.0042791</base-service>
+                     <base-service year="2010">0.0048346</base-service>
                      <satiation-demand-function>
-                        <satiation-level>0.0302294</satiation-level>
+                        <satiation-level>0.0299004</satiation-level>
                      </satiation-demand-function>
-                     <internal-gains-scalar>-122</internal-gains-scalar>
+                     <internal-gains-scalar>-121</internal-gains-scalar>
                   </thermal-building-service-input>
                   <building-service-input name="resid others">
-                     <base-service year="1975">0.1615868</base-service>
-                     <base-service year="1990">0.2433622</base-service>
-                     <base-service year="2005">0.3533935</base-service>
-                     <base-service year="2010">0.4133868</base-service>
+                     <base-service year="1975">0.1624547</base-service>
+                     <base-service year="1990">0.2464759</base-service>
+                     <base-service year="2005">0.3568035</base-service>
+                     <base-service year="2010">0.4172568</base-service>
                      <satiation-demand-function>
                         <satiation-level>0.3504618</satiation-level>
                      </satiation-demand-function>
@@ -133456,40 +133456,40 @@
                   <price-exponent fillout="1" year="1975">-0.1</price-exponent>
                   <internal-gains-market-name>comm-internal-gains-trial-market</internal-gains-market-name>
                   <internal-gains-unit>EJ</internal-gains-unit>
-                  <base-building-size year="1975">1.172</base-building-size>
-                  <base-building-size year="1990">1.679</base-building-size>
-                  <base-building-size year="2005">2.287</base-building-size>
-                  <base-building-size year="2010">2.422</base-building-size>
+                  <base-building-size year="1975">1.185</base-building-size>
+                  <base-building-size year="1990">1.698</base-building-size>
+                  <base-building-size year="2005">2.316</base-building-size>
+                  <base-building-size year="2010">2.453</base-building-size>
                   <prodDmdFnType>building-service-function</prodDmdFnType>
                   <satiation-demand-function>
                      <satiation-level>1.7e-05</satiation-level>
-                     <satiation-adder>5.142e-06</satiation-adder>
+                     <satiation-adder>5.132e-06</satiation-adder>
                   </satiation-demand-function>
                   <thermal-building-service-input name="comm cooling">
-                     <base-service year="1975">0.0361016</base-service>
-                     <base-service year="1990">0.09227</base-service>
-                     <base-service year="2005">0.2520006</base-service>
-                     <base-service year="2010">0.3623263</base-service>
+                     <base-service year="1975">0.0365804</base-service>
+                     <base-service year="1990">0.0932055</base-service>
+                     <base-service year="2005">0.2534587</base-service>
+                     <base-service year="2010">0.3646508</base-service>
                      <satiation-demand-function>
-                        <satiation-level>0.925455</satiation-level>
+                        <satiation-level>0.9232961</satiation-level>
                      </satiation-demand-function>
-                     <internal-gains-scalar>1154</internal-gains-scalar>
+                     <internal-gains-scalar>1152</internal-gains-scalar>
                   </thermal-building-service-input>
                   <thermal-building-service-input name="comm heating">
-                     <base-service year="1975">0.06407</base-service>
-                     <base-service year="1990">0.0541526</base-service>
-                     <base-service year="2005">0.0561568</base-service>
-                     <base-service year="2010">0.0526622</base-service>
+                     <base-service year="1975">0.0643681</base-service>
+                     <base-service year="1990">0.054229</base-service>
+                     <base-service year="2005">0.0561903</base-service>
+                     <base-service year="2010">0.0527585</base-service>
                      <satiation-demand-function>
-                        <satiation-level>0.0328058</satiation-level>
+                        <satiation-level>0.0324488</satiation-level>
                      </satiation-demand-function>
-                     <internal-gains-scalar>-122</internal-gains-scalar>
+                     <internal-gains-scalar>-121</internal-gains-scalar>
                   </thermal-building-service-input>
                   <building-service-input name="comm others">
-                     <base-service year="1975">0.0898626</base-service>
-                     <base-service year="1990">0.1185721</base-service>
-                     <base-service year="2005">0.2711231</base-service>
-                     <base-service year="2010">0.3786783</base-service>
+                     <base-service year="1975">0.092828</base-service>
+                     <base-service year="1990">0.122372</base-service>
+                     <base-service year="2005">0.2731784</base-service>
+                     <base-service year="2010">0.3821734</base-service>
                      <satiation-demand-function>
                         <satiation-level>1.0178495</satiation-level>
                      </satiation-demand-function>
@@ -133560,7 +133560,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2897705</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0018298</calibrated-value>
+                        <calibrated-value>0.0018273</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -133568,7 +133568,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.3019225</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0030953</calibrated-value>
+                        <calibrated-value>0.0030925</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -133576,7 +133576,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.3143755</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0026854</calibrated-value>
+                        <calibrated-value>0.002689</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -133584,7 +133584,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.3223051</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0032375</calibrated-value>
+                        <calibrated-value>0.0032428</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -133714,7 +133714,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3622131</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>7e-06</calibrated-value>
+                        <calibrated-value>1.15e-05</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -133722,7 +133722,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3774031</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0001977</calibrated-value>
+                        <calibrated-value>0.0001974</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -133730,7 +133730,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3929694</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0009094</calibrated-value>
+                        <calibrated-value>0.0009078</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -133738,7 +133738,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.4028814</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0011501</calibrated-value>
+                        <calibrated-value>0.001148</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134176,7 +134176,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.5795409</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0010456</calibrated-value>
+                        <calibrated-value>0.0010842</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134184,7 +134184,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.603845</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0014718</calibrated-value>
+                        <calibrated-value>0.0015435</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134192,7 +134192,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.628751</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0028469</calibrated-value>
+                        <calibrated-value>0.0029557</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134200,7 +134200,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.6446102</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0030308</calibrated-value>
+                        <calibrated-value>0.0031528</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134330,7 +134330,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1086639</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.007634</calibrated-value>
+                        <calibrated-value>0.0076854</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134338,7 +134338,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1132209</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0094974</calibrated-value>
+                        <calibrated-value>0.0096591</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134346,7 +134346,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1178908</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0101179</calibrated-value>
+                        <calibrated-value>0.0102828</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134354,7 +134354,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1208644</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.010471</calibrated-value>
+                        <calibrated-value>0.0106354</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134491,7 +134491,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>1.6821018</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0098986</calibrated-value>
+                        <calibrated-value>0.0099586</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134499,7 +134499,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>1.888653</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0603065</calibrated-value>
+                        <calibrated-value>0.0609301</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134507,7 +134507,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>2.1191611</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.2140914</calibrated-value>
+                        <calibrated-value>0.2151613</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134515,7 +134515,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>2.2274194</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.2956501</calibrated-value>
+                        <calibrated-value>0.2969747</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -134806,7 +134806,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2173278</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1283665</calibrated-value>
+                        <calibrated-value>0.128369</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -134818,7 +134818,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2264419</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.2171423</calibrated-value>
+                        <calibrated-value>0.2172505</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -134830,7 +134830,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2357816</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1883849</calibrated-value>
+                        <calibrated-value>0.1889063</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -134842,7 +134842,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2417288</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.227119</calibrated-value>
+                        <calibrated-value>0.2278115</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -135048,7 +135048,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.2897705</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0003006</calibrated-value>
+                        <calibrated-value>0.0004924</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -135060,7 +135060,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3019225</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0084675</calibrated-value>
+                        <calibrated-value>0.0084679</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -135072,7 +135072,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3143755</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0389413</calibrated-value>
+                        <calibrated-value>0.038943</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -135084,7 +135084,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3223051</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0492493</calibrated-value>
+                        <calibrated-value>0.0492514</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -135290,7 +135290,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.654706</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0041085</calibrated-value>
+                        <calibrated-value>0.0041411</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135298,7 +135298,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7028951</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0250305</calibrated-value>
+                        <calibrated-value>0.0253367</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135306,7 +135306,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7541306</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0888596</calibrated-value>
+                        <calibrated-value>0.0894711</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135314,7 +135314,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7809071</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1227109</calibrated-value>
+                        <calibrated-value>0.1234917</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135686,7 +135686,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4346557</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0631062</calibrated-value>
+                        <calibrated-value>0.0633734</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135694,7 +135694,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4528837</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0888288</calibrated-value>
+                        <calibrated-value>0.0902195</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135702,7 +135702,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4715633</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1718161</calibrated-value>
+                        <calibrated-value>0.1727573</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135710,7 +135710,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4834577</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1829178</calibrated-value>
+                        <calibrated-value>0.1842805</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135840,7 +135840,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1086639</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.9454626</calibrated-value>
+                        <calibrated-value>0.9516667</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135848,7 +135848,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1132209</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>1.176237</calibrated-value>
+                        <calibrated-value>1.1960569</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135856,7 +135856,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1178908</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>1.253091</calibrated-value>
+                        <calibrated-value>1.2732922</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -135864,7 +135864,7 @@
                      <minicam-energy-input name="traditional biomass">
                         <efficiency>0.1208644</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>1.2968176</calibrated-value>
+                        <calibrated-value>1.3169509</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136001,7 +136001,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2897705</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0004707</calibrated-value>
+                        <calibrated-value>0.0004705</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136009,7 +136009,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.3019225</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0005893</calibrated-value>
+                        <calibrated-value>0.0005892</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136017,7 +136017,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.3143755</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0006339</calibrated-value>
+                        <calibrated-value>0.0006341</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136025,7 +136025,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.3223051</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.000652</calibrated-value>
+                        <calibrated-value>0.0006523</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136155,7 +136155,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3622131</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1735807</calibrated-value>
+                        <calibrated-value>0.1741387</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136163,7 +136163,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3774031</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.138997</calibrated-value>
+                        <calibrated-value>0.1389683</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136171,7 +136171,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3929694</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.132603</calibrated-value>
+                        <calibrated-value>0.1324369</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136179,7 +136179,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.4028814</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1165733</calibrated-value>
+                        <calibrated-value>0.1164273</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136309,7 +136309,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.6882048</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.000726</calibrated-value>
+                        <calibrated-value>0.0007308</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136317,7 +136317,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7170659</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0016526</calibrated-value>
+                        <calibrated-value>0.0016585</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136325,7 +136325,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7466418</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0040225</calibrated-value>
+                        <calibrated-value>0.0040195</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136333,7 +136333,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7654747</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0055025</calibrated-value>
+                        <calibrated-value>0.0055018</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136463,7 +136463,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.5581875</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>3.3e-06</calibrated-value>
+                        <calibrated-value>2.13e-05</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136471,7 +136471,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.5903725</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>6e-06</calibrated-value>
+                        <calibrated-value>3.59e-05</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136479,7 +136479,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.6239992</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>7.1e-06</calibrated-value>
+                        <calibrated-value>3.36e-05</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136487,7 +136487,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.6429404</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>8.7e-06</calibrated-value>
+                        <calibrated-value>4.13e-05</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136617,7 +136617,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.5940294</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.000941</calibrated-value>
+                        <calibrated-value>0.0010801</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136625,7 +136625,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.6189411</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0005302</calibrated-value>
+                        <calibrated-value>0.000636</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136633,7 +136633,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.6444698</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0013046</calibrated-value>
+                        <calibrated-value>0.0014356</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136641,7 +136641,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.6607255</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0019209</calibrated-value>
+                        <calibrated-value>0.0021247</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136778,7 +136778,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>1.7460601</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.020676</calibrated-value>
+                        <calibrated-value>0.0209503</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136786,7 +136786,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>1.9604649</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0470654</calibrated-value>
+                        <calibrated-value>0.0475426</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136794,7 +136794,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>2.1997376</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1145594</calibrated-value>
+                        <calibrated-value>0.1152223</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -136802,7 +136802,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>2.3121121</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1567079</calibrated-value>
+                        <calibrated-value>0.1577133</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -137093,7 +137093,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2173278</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0413178</calibrated-value>
+                        <calibrated-value>0.0413179</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137105,7 +137105,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2264419</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0517301</calibrated-value>
+                        <calibrated-value>0.0517441</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137117,7 +137117,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2357816</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0556512</calibrated-value>
+                        <calibrated-value>0.0556838</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137129,7 +137129,7 @@
                      <minicam-energy-input name="delivered biomass">
                         <efficiency>0.2417288</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0572412</calibrated-value>
+                        <calibrated-value>0.0572829</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137335,7 +137335,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.2897705</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0444526</calibrated-value>
+                        <calibrated-value>0.0448698</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137347,7 +137347,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3019225</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.035596</calibrated-value>
+                        <calibrated-value>0.0358076</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137359,7 +137359,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3143755</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0339586</calibrated-value>
+                        <calibrated-value>0.0341247</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137371,7 +137371,7 @@
                      <minicam-energy-input name="delivered coal">
                         <efficiency>0.3223051</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0298535</calibrated-value>
+                        <calibrated-value>0.0299995</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137577,7 +137577,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.654706</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0451439</calibrated-value>
+                        <calibrated-value>0.0457886</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -137585,7 +137585,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7028951</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1027622</calibrated-value>
+                        <calibrated-value>0.1039083</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -137593,7 +137593,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7541306</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.2501282</calibrated-value>
+                        <calibrated-value>0.2518279</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -137601,7 +137601,7 @@
                      <minicam-energy-input name="elect_td_bld">
                         <efficiency>0.7809071</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.3421551</calibrated-value>
+                        <calibrated-value>0.3446957</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -137731,7 +137731,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.4239399</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0023303</calibrated-value>
+                        <calibrated-value>0.0035069</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137743,7 +137743,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.4483842</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.004212</calibrated-value>
+                        <calibrated-value>0.0059048</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137755,7 +137755,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.4739234</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0049681</calibrated-value>
+                        <calibrated-value>0.0055377</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137767,7 +137767,7 @@
                      <minicam-energy-input name="delivered gas">
                         <efficiency>0.4883092</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0060977</calibrated-value>
+                        <calibrated-value>0.0067944</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                      <internal-gains>
@@ -137973,7 +137973,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4346557</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0861788</calibrated-value>
+                        <calibrated-value>0.0906044</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -137981,7 +137981,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4528837</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.0485584</calibrated-value>
+                        <calibrated-value>0.0533462</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -137989,7 +137989,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4715633</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.119479</calibrated-value>
+                        <calibrated-value>0.12042</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
@@ -137997,7 +137997,7 @@
                      <minicam-energy-input name="refined liquids enduse">
                         <efficiency>0.4834577</efficiency>
                         <market-name>Southeast Asia</market-name>
-                        <calibrated-value>0.1759215</calibrated-value>
+                        <calibrated-value>0.1782254</calibrated-value>
                      </minicam-energy-input>
                      <share-weight>1</share-weight>
                   </period>
