@@ -15440,58 +15440,58 @@
             <AgSupplySubsector name="PalmFruitAEZ11">
                <AgProductionTechnology name="PalmFruitAEZ11">
                   <period year="2015">
-                     <agProdChange>-0.0052</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>-6e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0135</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>-3e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0138</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>-0.0234</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>-0.0251</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>-0.0223</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>0.0203</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2060">
-                     <agProdChange>0.043</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2065">
-                     <agProdChange>0.0017</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2070">
-                     <agProdChange>-0.0257</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2075">
-                     <agProdChange>0.0068</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>-0.0036</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2085">
-                     <agProdChange>-0.0214</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>0.0203</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2095">
-                     <agProdChange>0.0134</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2100">
-                     <agProdChange>-0.0021</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                </AgProductionTechnology>
             </AgSupplySubsector>
@@ -87112,58 +87112,58 @@
             <AgSupplySubsector name="SugarCropAEZ14">
                <AgProductionTechnology name="SugarCropAEZ14">
                   <period year="2015">
-                     <agProdChange>-0.3613</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0115</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0109</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0103</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.9169</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0067</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.0065</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0063</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>0.002</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2060">
-                     <agProdChange>0.002</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2065">
-                     <agProdChange>0.002</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2070">
-                     <agProdChange>0.0019</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2075">
-                     <agProdChange>6e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>0.0016</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2085">
-                     <agProdChange>0.0014</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>0.0012</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2095">
-                     <agProdChange>0.0011</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2100">
-                     <agProdChange>0.001</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                </AgProductionTechnology>
             </AgSupplySubsector>
@@ -103016,116 +103016,116 @@
             <AgSupplySubsector name="OilCropAEZ13">
                <AgProductionTechnology name="OilCropAEZ13">
                   <period year="2015">
-                     <agProdChange>0.2079</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0055</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0053</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0052</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.0111</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>0.0105</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>0.01</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0095</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>0.005</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2060">
-                     <agProdChange>0.005</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2065">
-                     <agProdChange>0.005</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2070">
-                     <agProdChange>0.0046</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2075">
-                     <agProdChange>0.0013</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>0.0033</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2085">
-                     <agProdChange>0.0028</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>0.0025</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2095">
-                     <agProdChange>0.0021</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2100">
-                     <agProdChange>0.0018</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                </AgProductionTechnology>
             </AgSupplySubsector>
             <AgSupplySubsector name="OilCropAEZ14">
                <AgProductionTechnology name="OilCropAEZ14">
                   <period year="2015">
-                     <agProdChange>0.0611</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2020">
-                     <agProdChange>0.0013</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2025">
-                     <agProdChange>0.0182</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2030">
-                     <agProdChange>0.0068</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2035">
-                     <agProdChange>0.001</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2040">
-                     <agProdChange>-0.0011</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2045">
-                     <agProdChange>-0.001</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2050">
-                     <agProdChange>0.0024</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2055">
-                     <agProdChange>0.011</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2060">
-                     <agProdChange>0.003</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2065">
-                     <agProdChange>0.0034</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2070">
-                     <agProdChange>0.0035</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2075">
-                     <agProdChange>0.0034</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2080">
-                     <agProdChange>-1e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2085">
-                     <agProdChange>-0.0021</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2090">
-                     <agProdChange>0.005</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2095">
-                     <agProdChange>-7e-04</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                   <period year="2100">
-                     <agProdChange>0.0025</agProdChange>
+                     <agProdChange>0</agProdChange>
                   </period>
                </AgProductionTechnology>
             </AgSupplySubsector>
