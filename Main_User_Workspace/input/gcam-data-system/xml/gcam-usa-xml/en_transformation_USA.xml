@@ -132914,10 +132914,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional biomass">
@@ -132929,10 +132929,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional biomass">
@@ -132944,10 +132944,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional biomass">
@@ -132959,10 +132959,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional biomass">
@@ -132974,10 +132974,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional biomass">
@@ -132989,10 +132989,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional biomass">
@@ -133004,10 +133004,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional biomass">
@@ -133019,10 +133019,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional biomass">
@@ -133034,10 +133034,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional biomass">
@@ -133049,10 +133049,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional biomass">
@@ -133064,10 +133064,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional biomass">
@@ -133079,10 +133079,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional biomass">
@@ -133094,10 +133094,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional biomass">
@@ -133109,10 +133109,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional biomass">
@@ -133124,10 +133124,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional biomass">
@@ -133139,10 +133139,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional biomass">
@@ -133154,10 +133154,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional biomass">
@@ -133169,10 +133169,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional biomass">
@@ -133184,10 +133184,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="FT biofuels">
@@ -133234,10 +133234,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional biomass">
@@ -133249,10 +133249,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional biomass">
@@ -133264,10 +133264,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional biomass">
@@ -133279,10 +133279,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional biomass">
@@ -133294,10 +133294,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional biomass">
@@ -133309,10 +133309,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional biomass">
@@ -133324,10 +133324,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional biomass">
@@ -133339,10 +133339,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional biomass">
@@ -133354,10 +133354,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional biomass">
@@ -133369,10 +133369,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional biomass">
@@ -133384,10 +133384,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional biomass">
@@ -133399,10 +133399,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional biomass">
@@ -133414,10 +133414,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional biomass">
@@ -133429,10 +133429,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional biomass">
@@ -133444,10 +133444,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional biomass">
@@ -133459,10 +133459,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional biomass">
@@ -133474,10 +133474,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional biomass">
@@ -133489,10 +133489,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional biomass">
@@ -133504,10 +133504,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="corn ethanol">
@@ -133578,10 +133578,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0.886363636363636</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133599,10 +133599,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133620,10 +133620,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133641,10 +133641,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133662,10 +133662,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133683,10 +133683,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133704,10 +133704,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133725,10 +133725,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133746,10 +133746,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133767,10 +133767,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133788,10 +133788,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133809,10 +133809,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133830,10 +133830,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133851,10 +133851,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133872,10 +133872,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133893,10 +133893,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133914,10 +133914,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133935,10 +133935,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional corn for ethanol">
@@ -133956,10 +133956,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="sugar cane ethanol">
@@ -134006,10 +134006,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0.886363636363636</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134021,10 +134021,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134036,10 +134036,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134051,10 +134051,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134066,10 +134066,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134081,10 +134081,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134096,10 +134096,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134111,10 +134111,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134126,10 +134126,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134141,10 +134141,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134156,10 +134156,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134171,10 +134171,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134186,10 +134186,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134201,10 +134201,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134216,10 +134216,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134231,10 +134231,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134246,10 +134246,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134261,10 +134261,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional sugar for ethanol">
@@ -134276,10 +134276,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="biodiesel">
@@ -134338,10 +134338,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0.886363636363636</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional biomassOil">
@@ -134356,10 +134356,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional biomassOil">
@@ -134374,10 +134374,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional biomassOil">
@@ -134392,10 +134392,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional biomassOil">
@@ -134410,10 +134410,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional biomassOil">
@@ -134428,10 +134428,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional biomassOil">
@@ -134446,10 +134446,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional biomassOil">
@@ -134464,10 +134464,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional biomassOil">
@@ -134482,10 +134482,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional biomassOil">
@@ -134500,10 +134500,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional biomassOil">
@@ -134518,10 +134518,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional biomassOil">
@@ -134536,10 +134536,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional biomassOil">
@@ -134554,10 +134554,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional biomassOil">
@@ -134572,10 +134572,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional biomassOil">
@@ -134590,10 +134590,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional biomassOil">
@@ -134608,10 +134608,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional biomassOil">
@@ -134626,10 +134626,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional biomassOil">
@@ -134644,10 +134644,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional biomassOil">
@@ -134662,10 +134662,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="cellulosic ethanol CCS level 1">
@@ -134675,7 +134675,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.99</input-cost>
+                     <input-cost>2.89</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                </period>
@@ -134685,7 +134685,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.99</input-cost>
+                     <input-cost>2.89</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                </period>
@@ -134695,7 +134695,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.99</input-cost>
+                     <input-cost>2.89</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                </period>
@@ -134705,14 +134705,14 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.99</input-cost>
+                     <input-cost>2.89</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional biomass">
@@ -134720,7 +134720,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.9739</input-cost>
+                     <input-cost>2.8783</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <standard-capture-component>
@@ -134728,10 +134728,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional biomass">
@@ -134739,7 +134739,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.9578</input-cost>
+                     <input-cost>2.8667</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>0.333</share-weight>
                   <standard-capture-component>
@@ -134747,10 +134747,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional biomass">
@@ -134758,7 +134758,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.9417</input-cost>
+                     <input-cost>2.855</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>0.555333333333333</share-weight>
                   <standard-capture-component>
@@ -134766,10 +134766,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional biomass">
@@ -134777,7 +134777,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.9256</input-cost>
+                     <input-cost>2.8433</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>0.777666666666667</share-weight>
                   <standard-capture-component>
@@ -134785,10 +134785,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional biomass">
@@ -134796,7 +134796,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.9094</input-cost>
+                     <input-cost>2.8317</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134804,10 +134804,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional biomass">
@@ -134815,7 +134815,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.8933</input-cost>
+                     <input-cost>2.82</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134823,10 +134823,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional biomass">
@@ -134834,7 +134834,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.8772</input-cost>
+                     <input-cost>2.8083</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134842,10 +134842,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional biomass">
@@ -134853,7 +134853,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.8611</input-cost>
+                     <input-cost>2.7967</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134861,10 +134861,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional biomass">
@@ -134872,7 +134872,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.845</input-cost>
+                     <input-cost>2.785</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134880,10 +134880,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional biomass">
@@ -134891,7 +134891,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.8289</input-cost>
+                     <input-cost>2.7733</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134899,10 +134899,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional biomass">
@@ -134910,7 +134910,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.8128</input-cost>
+                     <input-cost>2.7617</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134918,10 +134918,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional biomass">
@@ -134929,7 +134929,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.7967</input-cost>
+                     <input-cost>2.75</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134937,10 +134937,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional biomass">
@@ -134948,7 +134948,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.7806</input-cost>
+                     <input-cost>2.7383</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134956,10 +134956,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional biomass">
@@ -134967,7 +134967,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.7644</input-cost>
+                     <input-cost>2.7267</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134975,10 +134975,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional biomass">
@@ -134986,7 +134986,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.7483</input-cost>
+                     <input-cost>2.715</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -134994,10 +134994,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional biomass">
@@ -135005,7 +135005,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.7322</input-cost>
+                     <input-cost>2.7033</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -135013,10 +135013,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional biomass">
@@ -135024,7 +135024,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.7161</input-cost>
+                     <input-cost>2.6917</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -135032,10 +135032,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional biomass">
@@ -135043,7 +135043,7 @@
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
                   <minicam-non-energy-input name="non-energy">
-                     <input-cost>3.7</input-cost>
+                     <input-cost>2.68</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <standard-capture-component>
@@ -135051,10 +135051,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="cellulosic ethanol CCS level 2">
@@ -135098,10 +135098,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional biomass">
@@ -135117,10 +135117,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional biomass">
@@ -135136,10 +135136,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional biomass">
@@ -135155,10 +135155,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional biomass">
@@ -135174,10 +135174,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional biomass">
@@ -135193,10 +135193,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional biomass">
@@ -135212,10 +135212,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional biomass">
@@ -135231,10 +135231,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional biomass">
@@ -135250,10 +135250,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional biomass">
@@ -135269,10 +135269,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional biomass">
@@ -135288,10 +135288,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional biomass">
@@ -135307,10 +135307,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional biomass">
@@ -135326,10 +135326,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional biomass">
@@ -135345,10 +135345,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional biomass">
@@ -135364,10 +135364,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional biomass">
@@ -135383,10 +135383,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional biomass">
@@ -135402,10 +135402,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional biomass">
@@ -135421,10 +135421,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional biomass">
@@ -135440,10 +135440,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="FT biofuels CCS level 1">
@@ -135487,10 +135487,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional biomass">
@@ -135506,10 +135506,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional biomass">
@@ -135525,10 +135525,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional biomass">
@@ -135544,10 +135544,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional biomass">
@@ -135563,10 +135563,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional biomass">
@@ -135582,10 +135582,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional biomass">
@@ -135601,10 +135601,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional biomass">
@@ -135620,10 +135620,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional biomass">
@@ -135639,10 +135639,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional biomass">
@@ -135658,10 +135658,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional biomass">
@@ -135677,10 +135677,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional biomass">
@@ -135696,10 +135696,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional biomass">
@@ -135715,10 +135715,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional biomass">
@@ -135734,10 +135734,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional biomass">
@@ -135753,10 +135753,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional biomass">
@@ -135772,10 +135772,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional biomass">
@@ -135791,10 +135791,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional biomass">
@@ -135810,10 +135810,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional biomass">
@@ -135829,10 +135829,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="FT biofuels CCS level 2">
@@ -135876,10 +135876,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional biomass">
@@ -135895,10 +135895,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional biomass">
@@ -135914,10 +135914,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional biomass">
@@ -135933,10 +135933,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional biomass">
@@ -135952,10 +135952,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional biomass">
@@ -135971,10 +135971,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional biomass">
@@ -135990,10 +135990,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional biomass">
@@ -136009,10 +136009,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional biomass">
@@ -136028,10 +136028,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional biomass">
@@ -136047,10 +136047,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional biomass">
@@ -136066,10 +136066,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional biomass">
@@ -136085,10 +136085,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional biomass">
@@ -136104,10 +136104,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional biomass">
@@ -136123,10 +136123,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional biomass">
@@ -136142,10 +136142,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional biomass">
@@ -136161,10 +136161,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional biomass">
@@ -136180,10 +136180,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional biomass">
@@ -136199,10 +136199,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional biomass">
@@ -136218,10 +136218,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
          </location-info>
@@ -136290,11 +136290,11 @@
                      <input-cost>0.84</input-cost>
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
-                  <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <lifetime>50</lifetime>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional oil">
@@ -136312,10 +136312,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional oil">
@@ -136333,10 +136333,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional oil">
@@ -136354,10 +136354,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional oil">
@@ -136375,10 +136375,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional oil">
@@ -136396,10 +136396,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional oil">
@@ -136417,10 +136417,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional oil">
@@ -136438,10 +136438,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional oil">
@@ -136459,10 +136459,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional oil">
@@ -136480,10 +136480,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional oil">
@@ -136501,10 +136501,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional oil">
@@ -136522,10 +136522,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional oil">
@@ -136543,10 +136543,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional oil">
@@ -136564,10 +136564,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional oil">
@@ -136585,10 +136585,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional oil">
@@ -136606,10 +136606,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional oil">
@@ -136627,10 +136627,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional oil">
@@ -136648,10 +136648,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional oil">
@@ -136669,10 +136669,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
          </location-info>
@@ -136718,10 +136718,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional coal">
@@ -136733,10 +136733,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional coal">
@@ -136748,10 +136748,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional coal">
@@ -136763,10 +136763,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional coal">
@@ -136778,10 +136778,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional coal">
@@ -136793,10 +136793,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional coal">
@@ -136808,10 +136808,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional coal">
@@ -136823,10 +136823,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional coal">
@@ -136838,10 +136838,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional coal">
@@ -136853,10 +136853,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional coal">
@@ -136868,10 +136868,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional coal">
@@ -136883,10 +136883,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional coal">
@@ -136898,10 +136898,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional coal">
@@ -136913,10 +136913,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional coal">
@@ -136928,10 +136928,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional coal">
@@ -136943,10 +136943,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional coal">
@@ -136958,10 +136958,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional coal">
@@ -136973,10 +136973,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional coal">
@@ -136988,10 +136988,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="coal to liquids CCS level 1">
@@ -137035,10 +137035,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional coal">
@@ -137054,10 +137054,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional coal">
@@ -137073,10 +137073,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional coal">
@@ -137092,10 +137092,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional coal">
@@ -137111,10 +137111,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional coal">
@@ -137130,10 +137130,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional coal">
@@ -137149,10 +137149,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional coal">
@@ -137168,10 +137168,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional coal">
@@ -137187,10 +137187,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional coal">
@@ -137206,10 +137206,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional coal">
@@ -137225,10 +137225,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional coal">
@@ -137244,10 +137244,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional coal">
@@ -137263,10 +137263,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional coal">
@@ -137282,10 +137282,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional coal">
@@ -137301,10 +137301,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional coal">
@@ -137320,10 +137320,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional coal">
@@ -137339,10 +137339,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional coal">
@@ -137358,10 +137358,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional coal">
@@ -137377,10 +137377,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
             <technology name="coal to liquids CCS level 2">
@@ -137424,10 +137424,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional coal">
@@ -137443,10 +137443,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional coal">
@@ -137462,10 +137462,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional coal">
@@ -137481,10 +137481,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional coal">
@@ -137500,10 +137500,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional coal">
@@ -137519,10 +137519,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional coal">
@@ -137538,10 +137538,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional coal">
@@ -137557,10 +137557,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional coal">
@@ -137576,10 +137576,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional coal">
@@ -137595,10 +137595,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional coal">
@@ -137614,10 +137614,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional coal">
@@ -137633,10 +137633,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional coal">
@@ -137652,10 +137652,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional coal">
@@ -137671,10 +137671,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional coal">
@@ -137690,10 +137690,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional coal">
@@ -137709,10 +137709,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional coal">
@@ -137728,10 +137728,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional coal">
@@ -137747,10 +137747,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional coal">
@@ -137766,10 +137766,10 @@
                      <storage-market>carbon-storage</storage-market>
                   </standard-capture-component>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
          </location-info>
@@ -137815,10 +137815,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.05</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.2</steepness>
+                     <half-life>25</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2015">
                   <minicam-energy-input name="regional natural gas">
@@ -137830,10 +137830,10 @@
                   </minicam-non-energy-input>
                   <share-weight>0</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2020">
                   <minicam-energy-input name="regional natural gas">
@@ -137845,10 +137845,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2025">
                   <minicam-energy-input name="regional natural gas">
@@ -137860,10 +137860,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2030">
                   <minicam-energy-input name="regional natural gas">
@@ -137875,10 +137875,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2035">
                   <minicam-energy-input name="regional natural gas">
@@ -137890,10 +137890,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2040">
                   <minicam-energy-input name="regional natural gas">
@@ -137905,10 +137905,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2045">
                   <minicam-energy-input name="regional natural gas">
@@ -137920,10 +137920,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2050">
                   <minicam-energy-input name="regional natural gas">
@@ -137935,10 +137935,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2055">
                   <minicam-energy-input name="regional natural gas">
@@ -137950,10 +137950,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2060">
                   <minicam-energy-input name="regional natural gas">
@@ -137965,10 +137965,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2065">
                   <minicam-energy-input name="regional natural gas">
@@ -137980,10 +137980,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2070">
                   <minicam-energy-input name="regional natural gas">
@@ -137995,10 +137995,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2075">
                   <minicam-energy-input name="regional natural gas">
@@ -138010,10 +138010,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2080">
                   <minicam-energy-input name="regional natural gas">
@@ -138025,10 +138025,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2085">
                   <minicam-energy-input name="regional natural gas">
@@ -138040,10 +138040,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2090">
                   <minicam-energy-input name="regional natural gas">
@@ -138055,10 +138055,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2095">
                   <minicam-energy-input name="regional natural gas">
@@ -138070,10 +138070,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
                <period year="2100">
                   <minicam-energy-input name="regional natural gas">
@@ -138085,10 +138085,10 @@
                   </minicam-non-energy-input>
                   <share-weight>1</share-weight>
                   <lifetime>45</lifetime>
-                  <phased-shutdown-decider>
-                     <shutdown-rate>0.03</shutdown-rate>
-                  </phased-shutdown-decider>
-                  <profit-shutdown-decider/>
+                  <s-curve-shutdown-decider>
+                     <steepness>0.3</steepness>
+                     <half-life>30</half-life>
+                  </s-curve-shutdown-decider>
                </period>
             </technology>
          </location-info>
