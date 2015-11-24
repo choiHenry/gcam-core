@@ -14,20 +14,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -40,15 +32,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -61,15 +53,15 @@
                <maxSubResource>0.3419803</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -6394,20 +6386,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -6420,15 +6404,15 @@
                <maxSubResource>8.7605672</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -6441,15 +6425,15 @@
                <maxSubResource>12.1801732</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -12774,20 +12758,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -12800,15 +12776,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -12821,15 +12797,15 @@
                <maxSubResource>3.0087811</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -19154,20 +19130,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -19180,15 +19148,15 @@
                <maxSubResource>2.3640648</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -19201,15 +19169,15 @@
                <maxSubResource>3.6885204</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -25534,20 +25502,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -25560,15 +25520,15 @@
                <maxSubResource>9.2563531</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -25581,15 +25541,15 @@
                <maxSubResource>8.6347871</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -31914,20 +31874,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -31940,15 +31892,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -31961,15 +31913,15 @@
                <maxSubResource>4.6138891</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -38294,20 +38246,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -38320,15 +38264,15 @@
                <maxSubResource>45.300618</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -38341,15 +38285,15 @@
                <maxSubResource>29.0054848</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -44674,20 +44618,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -44700,15 +44636,15 @@
                <maxSubResource>0.29937</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -44721,15 +44657,15 @@
                <maxSubResource>0.0566162</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -51054,20 +50990,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -51080,15 +51008,15 @@
                <maxSubResource>5.5815622</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -51101,15 +51029,15 @@
                <maxSubResource>2.4988682</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -57434,20 +57362,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -57460,15 +57380,15 @@
                <maxSubResource>8.7012367</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -57481,15 +57401,15 @@
                <maxSubResource>4.6756748</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -63814,20 +63734,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -63840,15 +63752,15 @@
                <maxSubResource>182.5312947</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -63861,15 +63773,15 @@
                <maxSubResource>22.2079865</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -70194,20 +70106,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -70220,15 +70124,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -70241,15 +70145,15 @@
                <maxSubResource>5.4000931</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -76574,20 +76478,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -76600,15 +76496,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -76621,15 +76517,15 @@
                <maxSubResource>2.1630243</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -82954,20 +82850,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -82980,15 +82868,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -83001,15 +82889,15 @@
                <maxSubResource>0.6508552</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -89334,20 +89222,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -89360,15 +89240,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -89381,15 +89261,15 @@
                <maxSubResource>3.2402944</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -95714,20 +95594,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -95740,15 +95612,15 @@
                <maxSubResource>1.5871151</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -95761,15 +95633,15 @@
                <maxSubResource>0.0615605</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -102094,20 +101966,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -102120,15 +101984,15 @@
                <maxSubResource>48.9653246</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -102141,15 +102005,15 @@
                <maxSubResource>243.3179145</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -108474,20 +108338,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -108500,15 +108356,15 @@
                <maxSubResource>8.4907878</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -108521,15 +108377,15 @@
                <maxSubResource>6.4315405</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -114854,20 +114710,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -114880,15 +114728,15 @@
                <maxSubResource>3.9355707</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -114901,15 +114749,15 @@
                <maxSubResource>0.1902684</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -121234,20 +121082,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -121260,15 +121100,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -121281,15 +121121,15 @@
                <maxSubResource>5.0682927</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -127614,20 +127454,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -127640,15 +127472,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -127661,15 +127493,15 @@
                <maxSubResource>3.6446958</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -133994,20 +133826,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -134020,15 +133844,15 @@
                <maxSubResource>18.3188822</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -134041,15 +133865,15 @@
                <maxSubResource>111.8306415</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -140374,20 +140198,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -140400,15 +140216,15 @@
                <maxSubResource>2.6817402</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -140421,15 +140237,15 @@
                <maxSubResource>1.3130462</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -146754,20 +146570,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -146780,15 +146588,15 @@
                <maxSubResource>0.9932755</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -146801,15 +146609,15 @@
                <maxSubResource>4.0974466</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -153134,20 +152942,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -153160,15 +152960,15 @@
                <maxSubResource>3.0347841</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -153181,15 +152981,15 @@
                <maxSubResource>1.6291569</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -159514,20 +159314,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -159540,15 +159332,15 @@
                <maxSubResource>7.0759396</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -159561,15 +159353,15 @@
                <maxSubResource>6.4329886</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -165894,20 +165686,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -165920,15 +165704,15 @@
                <maxSubResource>4.2898062</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -165941,15 +165725,15 @@
                <maxSubResource>29.5201187</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -172274,20 +172058,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -172300,15 +172076,15 @@
                <maxSubResource>1.3535787</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -172321,15 +172097,15 @@
                <maxSubResource>0.4866784</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -178654,20 +178430,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -178680,15 +178448,15 @@
                <maxSubResource>29.6931571</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -178701,15 +178469,15 @@
                <maxSubResource>16.6296872</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -185034,20 +184802,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -185060,15 +184820,15 @@
                <maxSubResource>0</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -185081,15 +184841,15 @@
                <maxSubResource>10.4918555</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -191414,20 +191174,12 @@
                   <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
-                  <available>0.99</available>
-                  <extractioncost>0.99</extractioncost>
-               </grade>
-               <grade name="grade 3">
                   <available>1</available>
                   <extractioncost>1</extractioncost>
                </grade>
-               <grade name="grade 4">
-                  <available>1.5</available>
-                  <extractioncost>1.01</extractioncost>
-               </grade>
-               <grade name="grade 5">
-                  <available>10</available>
-                  <extractioncost>1.02</extractioncost>
+               <grade name="grade 3">
+                  <available>1.1</available>
+                  <extractioncost>5</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -191440,15 +191192,15 @@
                <maxSubResource>6.1228123</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
@@ -191461,15 +191213,15 @@
                <maxSubResource>3.4260554</maxSubResource>
                <grade name="grade 1">
                   <available>0</available>
-                  <extractioncost>0.001</extractioncost>
+                  <extractioncost>0</extractioncost>
                </grade>
                <grade name="grade 2">
                   <available>1</available>
                   <extractioncost>0.002</extractioncost>
                </grade>
                <grade name="grade 3">
-                  <available>1.5</available>
-                  <extractioncost>0.01</extractioncost>
+                  <available>1.1</available>
+                  <extractioncost>1</extractioncost>
                </grade>
             </sub-renewable-resource>
          </renewresource>
