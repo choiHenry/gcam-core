@@ -676,6 +676,48 @@
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
             </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
             <relative-cost-logit>
@@ -32536,6 +32578,48 @@
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
             </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
             <relative-cost-logit>
@@ -38907,6 +38991,48 @@
                <share-weight year="1990">0</share-weight>
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
+            </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
             </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
@@ -45280,6 +45406,48 @@
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
             </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
             <relative-cost-logit>
@@ -51651,6 +51819,48 @@
                <share-weight year="1990">1</share-weight>
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
+            </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
             </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
@@ -64396,6 +64606,48 @@
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
             </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
             <relative-cost-logit>
@@ -70767,6 +71019,48 @@
                <share-weight year="1990">1</share-weight>
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
+            </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
             </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
@@ -77140,6 +77434,48 @@
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
             </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
             <relative-cost-logit>
@@ -83511,6 +83847,48 @@
                <share-weight year="1990">1</share-weight>
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
+            </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
             </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
@@ -89884,6 +90262,48 @@
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
             </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
             <relative-cost-logit>
@@ -96255,6 +96675,48 @@
                <share-weight year="1990">1</share-weight>
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
+            </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
             </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
@@ -121743,6 +122205,48 @@
                <share-weight year="1990">1</share-weight>
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
+            </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
             </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
@@ -153604,6 +154108,48 @@
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
             </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
             <relative-cost-logit>
@@ -159975,6 +160521,48 @@
                <share-weight year="1990">1</share-weight>
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
+            </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
             </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
@@ -172720,6 +173308,48 @@
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
             </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
             <relative-cost-logit>
@@ -185464,6 +186094,48 @@
                <share-weight year="2005">1</share-weight>
                <share-weight year="2010">1</share-weight>
             </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
          </supplysector>
          <supplysector name="Scavenging_Other">
             <relative-cost-logit>
@@ -191804,6 +192476,48 @@
                </interpolation-rule>
                <stub-technology name="Wheat">
                   <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2100">
+                     <interpolation-function name="fixed"/>
+                  </interpolation-rule>
+                  <period year="1975">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="1990">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2005">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+                  <period year="2010">
+                     <share-weight>0</share-weight>
+                     <CalDataOutput>
+                        <calOutputValue>0</calOutputValue>
+                     </CalDataOutput>
+                  </period>
+               </stub-technology>
+               <share-weight year="1975">0</share-weight>
+               <share-weight year="1990">0</share-weight>
+               <share-weight year="2005">0</share-weight>
+               <share-weight year="2010">0</share-weight>
+            </subsector>
+            <subsector name="DDGS and feedcakes">
+               <relative-cost-logit>
+                  <logit-exponent fillout="1" year="1975">-6</logit-exponent>
+               </relative-cost-logit>
+               <share-weight fillout="1" year="2015">1</share-weight>
+               <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
+                  <interpolation-function name="fixed"/>
+               </interpolation-rule>
+               <stub-technology name="DDGS and feedcakes">
+                  <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2100">
                      <interpolation-function name="fixed"/>
                   </interpolation-rule>
                   <period year="1975">
@@ -199435,6 +200149,164 @@
                      <coefficient>1</coefficient>
                   </minicam-energy-input>
                   <CO2 name="CO2"/>
+               </period>
+            </technology>
+         </location-info>
+         <location-info sector-name="FeedCrops" subsector-name="DDGS and feedcakes">
+            <technology name="DDGS and feedcakes">
+               <period year="1975">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>0</share-weight>
+               </period>
+               <period year="1990">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>0</share-weight>
+               </period>
+               <period year="2005">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>0</share-weight>
+               </period>
+               <period year="2010">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>0</share-weight>
+               </period>
+               <period year="2015">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2020">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2025">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2030">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2035">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2040">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2045">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2050">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2055">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2060">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2065">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2070">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2075">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2080">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2085">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2090">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2095">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
+               </period>
+               <period year="2100">
+                  <minicam-energy-input name="DDGS and feedcakes">
+                     <coefficient>1</coefficient>
+                  </minicam-energy-input>
+                  <CO2 name="CO2"/>
+                  <share-weight>1</share-weight>
                </period>
             </technology>
          </location-info>
