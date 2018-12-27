@@ -2,6 +2,8 @@
 # Title: Pre-built L101.en_bal_EJ_R_Si_Fi_Yh_full.csv
 # Units: NA
 # L101.en_bal_EJ_R_Si_Fi_Yh_full includes energy balances and assumptions for total primary energy supply (TPES)
+# Column types: iccin 
+# ----------
 GCAM_region_ID,sector,fuel,year,value
 1,in_bld_comm,biomass,1971,0.39951184
 1,in_bld_comm,biomass,1972,0.39733512000000004
