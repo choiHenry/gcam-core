@@ -5,6 +5,7 @@
 # Description: area (ha) for sage land cells in country X glu X land type X protected category X year
 # Original source: hyde areas; reference veg; country raster; new glu raster; hyde land area
 # Source: https://github.com/JGCRI/moirai
+# Column types: ciiii 
 # ----------
 iso,glu_code,land_type,year,value
 abw,143,2,1700,7672
