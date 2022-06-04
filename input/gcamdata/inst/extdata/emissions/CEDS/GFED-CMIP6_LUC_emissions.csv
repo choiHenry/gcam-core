@@ -1,7 +1,7 @@
 # File: GFED-CMIP6_LUC_emissions.csv
 # Title: GFED-CMIP6 LUC Emissions
 # Units: kt
-# Source: GFED-CMIP6
+# Source: Historic global biomass burning emissions for CMIP6 (BB4CMIP)based on merging satellite observations with proxies and fire models (1750-2015) (van Marle etal 2017 https://doi.org/10.5194/gmd-10-3329-2017)
 # Description: CMIP6 emissions data for agr fires processed by in-house processing code to match GCAM country-sector breakdown
 # Column types: ccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 # ----------
