@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BatchRunner xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="batch_runner.xsd">
+
+	<ComponentSet name="Policy">
+
+		<FileSet name="-Current">
+			<Value name="carbon-budget">../input/policy/ndc/power/carbon_cap_CurPol.xml</Value>
+		</FileSet>
+
+		<FileSet name="-CoalOut-HighRE">
+			<Value name="carbon-budget">../input/policy/ndc/power/carbon_cap_CoalOut-HighRE.xml</Value>
+		</FileSet>
+
+	</ComponentSet>
+
+</BatchRunner>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <ghgpolicy name="CO2_ELEC">
+        <market>South Korea</market>
+        <constraint year="2020">66.29</constraint>
+        <constraint year="2025">56.08</constraint>
+        <constraint year="2030">43.48</constraint>
+        <constraint year="2035">30.15</constraint>
+      </ghgpolicy>
+    </region>
+  </world>
+</scenario>

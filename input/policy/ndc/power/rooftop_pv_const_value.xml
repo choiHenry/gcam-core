@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <policy-portfolio-standard name="RooftopPV-Generation-Floor">
+        <policyType>subsidy</policyType>
+        <market>South Korea</market>
+        <min-price year="2020">0</min-price>
+        <min-price year="2025">0</min-price>
+        <min-price year="2030">0</min-price>
+        <min-price year="2035">0</min-price>
+        <constraint year="2020">0.011772</constraint>
+        <constraint year="2025">0.022032</constraint>
+        <constraint year="2030">0.032364</constraint>
+        <constraint year="2035">0.043128</constraint>
+      </policy-portfolio-standard>
+    </region>
+  </world>
+</scenario>
