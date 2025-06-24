@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="USA">
+      <supplysector name="traded iron and steel">
+        <relative-cost-logit>
+          <logit-exponent fillout="1" year="2020">-1</logit-exponent>
+        </relative-cost-logit>
+        <subsector name="South Korea traded iron and steel">
+          <relative-cost-logit>
+              <logit-exponent fillout="1" year="2020">-1</logit-exponent>
+          </relative-cost-logit>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

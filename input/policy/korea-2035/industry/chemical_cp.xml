@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="chemical energy use">
+        <subsector name="electricity">
+          <stub-technology name="electricity">
+            <period year="2030">
+              <minicam-non-energy-input name="subsidy_cp">
+                <input-cost>-0.20786272509341208</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="subsidy_cp">
+                <input-cost>-0.20786272509341208</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2040">
+              <minicam-non-energy-input name="subsidy_cp">
+                <input-cost>-0.20786272509341208</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

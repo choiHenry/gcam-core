@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="electricity">
+        <subsector name="wind">
+          <stub-technology name="wind">
+            <period year="2020">
+              <input-tax name="Onwind-Generation-Ceiling"/>
+            </period>
+            <period year="2025">
+              <input-tax name="Onwind-Generation-Ceiling"/>
+            </period>
+            <period year="2030">
+              <input-tax name="Onwind-Generation-Ceiling"/>
+            </period>
+            <period year="2035">
+              <input-tax name="Onwind-Generation-Ceiling"/>
+            </period>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

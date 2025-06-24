@@ -1,0 +1,334 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="iron and steel">
+        <subsector name="BLASTFUR">
+          <stub-technology name="BLASTFUR">
+            <period year="2025">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="BLASTFUR with hydrogen">
+            <period year="2025">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="Biomass-based">
+            <period year="2025">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="BLASTFUR CCS">
+            <period year="2025">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="BLASTFUR CCS with hydrogen">
+            <period year="2025">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name="EAF with DRI">
+          <stub-technology name="EAF with DRI">
+            <period year="2025">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="EAF with DRI CCS">
+            <period year="2025">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="Hydrogen-based DRI">
+            <period year="2025">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name="EAF with scrap">
+          <stub-technology name="EAF with scrap">
+            <period year="2025">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_IronSteel"/>
+            </period>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+      <supplysector name="chemical energy use">
+        <subsector name="biomass">
+          <stub-technology name="biomass">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="biomass cogen">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="biomass CCS">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name='electricity'>
+          <stub-technology name="electricity">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name='hydrogen'>
+          <stub-technology name="hydrogen">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="hydrogen cogen">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name="coal">
+          <stub-technology name="coal">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="coal cogen">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="coal CCS">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name="gas">
+          <stub-technology name="gas">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="gas cogen">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="gas CCS">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name="refined liquids">
+          <stub-technology name="refined liquids">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="refined liquids cogen">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+          <stub-technology name="refined liquids CCS">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+      <supplysector name="chemical feedstocks">
+        <subsector name="coal">
+          <stub-technology name="coal">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name="gas">
+          <stub-technology name="gas">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name="refined liquids">
+          <stub-technology name="refined liquids">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

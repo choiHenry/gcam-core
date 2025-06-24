@@ -1,0 +1,728 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="chemical energy use">
+        <subsector name="refined liquids">
+          <stub-technology name="refined liquids electrification">
+            <interpolation-rule apply-to="share-weight" delete="1" from-year="2030" to-year="2050" from-value="0" to-value="1">
+              <interpolation-function name="linear"/>
+            </interpolation-rule>
+          </stub-technology>
+        </subsector>
+        <subsector name="gas">
+          <stub-technology name="gas electrification">
+            <interpolation-rule apply-to="share-weight" delete="1" from-year="2030" to-year="2050" from-value="0" to-value="1">
+              <interpolation-function name="linear"/>
+            </interpolation-rule>
+          </stub-technology>
+        </subsector>
+        <subsector name="coal">
+          <stub-technology name="coal electrification">
+            <interpolation-rule apply-to="share-weight" delete="1" from-year="2030" to-year="2050" from-value="0" to-value="1">
+              <interpolation-function name="linear"/>
+            </interpolation-rule>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+    <global-technology-database>
+      <location-info sector-name="chemical energy use" subsector-name="coal">
+        <technology name="coal electrification">
+          <period year="1975">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>0.942</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="1990">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>0.971</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="2005">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="2010">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.005</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="2015">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.01</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2020">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.015</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2025">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.02</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2030">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.025</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2035">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.03</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2040">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.035</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2045">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.041</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2050">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.046</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+        </technology>
+      </location-info>
+      <location-info sector-name="chemical energy use" subsector-name="gas">
+        <technology name="gas electrification">
+          <period year="1975">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>0.942</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="1990">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>0.971</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="2005">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="2010">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.005</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="2015">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.01</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2020">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.015</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2025">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.02</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2030">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.025</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2035">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.03</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2040">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.035</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2045">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.041</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2050">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.046</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+        </technology>
+      </location-info>
+      <location-info sector-name="chemical energy use" subsector-name="refined liquids">
+        <technology name="refined liquids electrification">
+          <period year="1975">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>0.942</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="1990">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>0.971</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="2005">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="2010">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.005</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+          </period>
+          <period year="2015">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.01</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2020">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.015</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2025">
+            <share-weight>0</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.02</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2030">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.025</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2035">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.03</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2040">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.035</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2045">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.041</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+          <period year="2050">
+            <share-weight>1</share-weight>
+            <CO2 name="CO2_CCfD"/>
+            <minicam-energy-input name="elect_td_ind">
+              <efficiency>1.046</efficiency>
+            </minicam-energy-input>
+            <tracking-non-energy-input name="non-energy">
+              <capital-coef>8.48422302028949</capital-coef>
+              <tracking-market>capital</tracking-market>
+              <depreciation-rate>0</depreciation-rate>
+              <input-cost>3</input-cost>
+            </tracking-non-energy-input>
+            <lifetime>67</lifetime>
+            <s-curve-shutdown-decider name="s-curve">
+              <steepness>0.3</steepness>
+              <half-life>20</half-life>
+            </s-curve-shutdown-decider>
+            <profit-shutdown-decider name="profit">
+              <median-shutdown-point>-0.5</median-shutdown-point>
+              <steepness>6</steepness>
+            </profit-shutdown-decider>
+          </period>
+        </technology>
+      </location-info>
+    </global-technology-database>
+  </world>
+</scenario>

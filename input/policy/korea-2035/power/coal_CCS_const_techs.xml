@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="electricity">
+        <subsector name="coal">
+          <stub-technology name="coal (conv pul CCS)">
+            <!-- <interpolation-rule apply-to="share-weight" delete="1" from-year="2015" to-year="2025" to-value="0">
+              <interpolation-function name="fixed"/>
+            </interpolation-rule> -->
+            <interpolation-rule apply-to="share-weight" delete="1" from-year="2025" to-year="2050" from-value="1" to-value="1">
+              <interpolation-function name="fixed"/>
+            </interpolation-rule>
+            <period year="2030">
+              <input-subsidy name="Coal-CCS-Floor"/>
+            </period>
+            <period year="2035">
+              <input-subsidy name="Coal-CCS-Floor"/>
+            </period>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>
