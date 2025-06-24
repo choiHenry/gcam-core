@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="trn_pass">
+        <tranSubsector name="Passenger Rail">
+          <stub-technology name="Electric">
+            <period year="2025">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-1.593407</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-3.519009</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-3.519028</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
+        </tranSubsector>
+      </supplysector>
+      <supplysector name="trn_pass_road">
+        <tranSubsector name="Bus">
+          <stub-technology name="BEV">
+            <period year="2025">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.200785</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.427140</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.410820</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
+        </tranSubsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

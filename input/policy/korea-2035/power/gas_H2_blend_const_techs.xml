@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="electricity">
+        <subsector name="gas">
+          <stub-technology name="gas (CC H2 blend 50%)">
+            <period year="2025">
+              <input-subsidy name="Gas-H2-Blend-Floor"/>
+            </period>
+            <period year="2030">
+              <input-subsidy name="Gas-H2-Blend-Floor"/>
+            </period>
+            <period year="2035">
+              <input-subsidy name="Gas-H2-Blend-Floor"/>
+            </period>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

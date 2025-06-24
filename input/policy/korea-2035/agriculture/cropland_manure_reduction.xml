@@ -1,0 +1,793 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <AgSupplySector name="Corn" nocreate="1">
+        <AgSupplySubsector name="CornC4_Korea" nocreate="1">
+          <AgProductionTechnology name="CornC4_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001359</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001304</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="CornC4_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001361</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001306</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="FiberCrop" nocreate="1">
+        <AgSupplySubsector name="FiberCrop_Korea" nocreate="1">
+          <AgProductionTechnology name="FiberCrop_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001861</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001786</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="FiberCrop_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001861</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001786</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="FiberCrop_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001861</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001786</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="FiberCrop_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001861</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001786</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="FodderGrass" nocreate="1">
+        <AgSupplySubsector name="FodderGrass_Korea" nocreate="1">
+          <AgProductionTechnology name="FodderGrass_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000517</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000496</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="FodderGrass_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000517</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000496</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="Fruits" nocreate="1">
+        <AgSupplySubsector name="Fruits_Korea" nocreate="1">
+          <AgProductionTechnology name="Fruits_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000442</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000424</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Fruits_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000442</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000424</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Fruits_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000442</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000424</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Fruits_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000442</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000424</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+        <AgSupplySubsector name="FruitsTree_Korea" nocreate="1">
+          <AgProductionTechnology name="FruitsTree_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000442</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000424</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="FruitsTree_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000442</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000424</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="FruitsTree_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000442</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000424</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="FruitsTree_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000442</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000424</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="Legumes" nocreate="1">
+        <AgSupplySubsector name="Legumes_Korea" nocreate="1">
+          <AgProductionTechnology name="Legumes_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.005457</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.005236</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Legumes_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.005458</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.005236</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="MiscCrop" nocreate="1">
+        <AgSupplySubsector name="MiscCrop_Korea" nocreate="1">
+          <AgProductionTechnology name="MiscCrop_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002985</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002864</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="MiscCrop_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002985</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002864</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="MiscCrop_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002985</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002864</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="MiscCrop_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002985</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002864</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="NutsSeeds" nocreate="1">
+        <AgSupplySubsector name="NutsSeeds_Korea" nocreate="1">
+          <AgProductionTechnology name="NutsSeeds_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003520</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003378</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="NutsSeeds_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003520</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003378</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+        <AgSupplySubsector name="NutsSeedsTree_Korea" nocreate="1">
+          <AgProductionTechnology name="NutsSeedsTree_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003520</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003378</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="NutsSeedsTree_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003521</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003379</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="NutsSeedsTree_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003520</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003378</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="NutsSeedsTree_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003521</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003379</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="OilCrop" nocreate="1">
+        <AgSupplySubsector name="OilCrop_Korea" nocreate="1">
+          <AgProductionTechnology name="OilCrop_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.007606</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.007299</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="OilCrop_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.007619</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.007310</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="OilCrop_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.007605</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.007298</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="OilCrop_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.007618</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.007309</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="OtherGrain" nocreate="1">
+        <AgSupplySubsector name="OtherGrain_Korea" nocreate="1">
+          <AgProductionTechnology name="OtherGrain_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003376</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003239</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="OtherGrain_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003376</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003239</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="OtherGrain_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003373</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003236</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="OtherGrain_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003374</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003237</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+        <AgSupplySubsector name="OtherGrainC4_Korea" nocreate="1">
+          <AgProductionTechnology name="OtherGrainC4_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003374</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003237</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="OtherGrainC4_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003376</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003239</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="RootTuber" nocreate="1">
+        <AgSupplySubsector name="RootTuber_Korea" nocreate="1">
+          <AgProductionTechnology name="RootTuber_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000333</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000319</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="RootTuber_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000333</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000319</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="RootTuber_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000333</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000319</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="RootTuber_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000333</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000319</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="Soybean" nocreate="1">
+        <AgSupplySubsector name="Soybean_Korea" nocreate="1">
+          <AgProductionTechnology name="Soybean_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003731</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003580</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Soybean_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003734</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003582</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Soybean_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003734</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003582</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Soybean_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003737</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.003585</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="Vegetables" nocreate="1">
+        <AgSupplySubsector name="Vegetables_Korea" nocreate="1">
+          <AgProductionTechnology name="Vegetables_Korea_IRR_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000173</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000166</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Vegetables_Korea_IRR_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000173</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000166</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Vegetables_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000173</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000166</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Vegetables_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000173</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.000166</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+      <AgSupplySector name="Wheat" nocreate="1">
+        <AgSupplySubsector name="Wheat_Korea" nocreate="1">
+          <AgProductionTechnology name="Wheat_Korea_RFD_hi" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002076</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001991</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+          <AgProductionTechnology name="Wheat_Korea_RFD_lo" nocreate="1">
+            <period year="2030">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.002080</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+            <period year="2035">
+              <Non-CO2 name="N2O_AGR">
+                <emiss-coef>0.001995</emiss-coef>
+                <output-driver/>
+              </Non-CO2>
+            </period>
+          </AgProductionTechnology>
+        </AgSupplySubsector>
+      </AgSupplySector>
+    </region>
+  </world>
+</scenario>

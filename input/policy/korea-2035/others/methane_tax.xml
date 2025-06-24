@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="South Korea">
+            <ghgpolicy name="Global-Methane-Pledge">
+                <market>CH4KR</market>
+                <fixedTax year="2030">158.45</fixedTax>
+                <fixedTax year="2035">197.45</fixedTax>
+            </ghgpolicy>
+        </region>
+    </world>
+</scenario>

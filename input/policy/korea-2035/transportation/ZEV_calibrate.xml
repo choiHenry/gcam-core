@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="trn_freight_road">
+        <tranSubsector name="Medium truck">
+          <stub-technology name="BEV">
+            <period year="2020">
+              <fixedOutput>2046.70</fixedOutput>
+            </period>
+            <period year="2025">
+              <fixedOutput>24089.67</fixedOutput>
+            </period>
+          </stub-technology>
+          <stub-technology name="FCEV">
+            <period year="2020">
+              <fixedOutput>0.79</fixedOutput>
+            </period>
+            <period year="2025">
+              <fixedOutput>8.17</fixedOutput>
+            </period>
+          </stub-technology>
+        </tranSubsector>
+      </supplysector>
+      <supplysector name="trn_pass_road">
+        <tranSubsector name="Bus">
+          <stub-technology name="BEV">
+            <period year="2020">
+              <fixedOutput>1885.17</fixedOutput>
+            </period>
+            <period year="2025">
+              <fixedOutput>22188.42</fixedOutput>
+            </period>
+          </stub-technology>
+          <stub-technology name="FCEV">
+            <period year="2020">
+              <fixedOutput>355.20</fixedOutput>
+            </period>
+            <period year="2025">
+              <fixedOutput>3652.22</fixedOutput>
+            </period>
+          </stub-technology>
+        </tranSubsector>
+      </supplysector>
+      <supplysector name="trn_pass_road_LDV_4W">
+        <tranSubsector name="Car">
+          <stub-technology name="BEV">
+            <period year="2020">
+              <fixedOutput>1071.30</fixedOutput>
+            </period>
+            <period year="2025">
+              <fixedOutput>12609.28</fixedOutput>
+            </period>
+          </stub-technology>
+          <stub-technology name="FCEV">
+            <period year="2020">
+              <fixedOutput>115.13</fixedOutput>
+            </period>
+            <period year="2025">
+              <fixedOutput>1183.78</fixedOutput>
+            </period>
+          </stub-technology>
+        </tranSubsector>
+        <tranSubsector name="Large Car and Truck">
+          <stub-technology name="BEV">
+            <period year="2020">
+              <fixedOutput>511.16</fixedOutput>
+            </period>
+            <period year="2025">
+              <fixedOutput>6016.39</fixedOutput>
+            </period>
+          </stub-technology>
+          <stub-technology name="FCEV">
+            <period year="2020">
+              <fixedOutput>43.68</fixedOutput>
+            </period>
+            <period year="2025">
+              <fixedOutput>449.12</fixedOutput>
+            </period>
+          </stub-technology>
+        </tranSubsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

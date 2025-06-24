@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <policy-portfolio-standard name="Onwind-Generation-Ceiling">
+        <policyType>tax</policyType>
+        <market>South Korea</market>
+        <min-price year="2020">0</min-price>
+        <min-price year="2025">0</min-price>
+        <min-price year="2030">0</min-price>
+        <min-price year="2035">0</min-price>
+        <constraint year="2020">0.011304</constraint>
+        <constraint year="2025">0.01461249</constraint>
+        <constraint year="2030">0.02952966</constraint>
+        <constraint year="2035">0.0544522</constraint>
+      </policy-portfolio-standard>
+    </region>
+  </world>
+</scenario>
