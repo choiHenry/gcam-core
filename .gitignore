@@ -1,6 +1,14 @@
 # Combine C++, Visual Studio, and Xcode gitignores from:
 # https://github.com/github/gitignore/tree/master/Global
 
+*Zone.Identifier
+
+# gcamdata xml directory
+/input/gcamdata/xml
+
+# reference directory
+/input/policy/input-AI/
+
 # Compiled Object files
 *.slo
 *.lo

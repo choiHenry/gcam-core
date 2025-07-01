@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="South Korea">
+            <supplysector name="trn_pass_road_LDV_4W">
+                <tranSubsector name="Car">
+                    <stub-technology name="Hybrid Liquids">
+                        <period year="2030">
+                            <loadFactor>1.46</loadFactor>
+                            <tracking-non-energy-input name="non-energy">
+                                <capital-coef>0.00218428960933417</capital-coef>
+                                <tracking-market>consumer durable</tracking-market>
+                                <depreciation-rate>0.0666666666666667</depreciation-rate>
+                                <input-cost>0.2301</input-cost>
+                            </tracking-non-energy-input>
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1133</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                        <period year="2035">
+                            <loadFactor>1.46</loadFactor>
+                            <tracking-non-energy-input name="non-energy">
+                                <capital-coef>0.00218428980159307</capital-coef>
+                                <tracking-market>consumer durable</tracking-market>
+                                <depreciation-rate>0.0666666666666667</depreciation-rate>
+                                <input-cost>0.2301</input-cost>
+                            </tracking-non-energy-input>
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1132.4</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="Liquids">
+                        <period year="2030">
+                            <loadFactor>1.46</loadFactor>
+                            <tracking-non-energy-input name="non-energy">
+                                <capital-coef>0.00212740071241865</capital-coef>
+                                <tracking-market>consumer durable</tracking-market>
+                                <depreciation-rate>0.0666666666666667</depreciation-rate>
+                                <input-cost>0.2128</input-cost>
+                            </tracking-non-energy-input>
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1431.7</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                        <period year="2035">
+                            <loadFactor>1.46</loadFactor>
+                            <tracking-non-energy-input name="non-energy">
+                                <capital-coef>0.00212740048144856</capital-coef>
+                                <tracking-market>consumer durable</tracking-market>
+                                <depreciation-rate>0.0666666666666667</depreciation-rate>
+                                <input-cost>0.2128</input-cost>
+                            </tracking-non-energy-input>
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1416.4</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                    </stub-technology>
+                </tranSubsector>
+                <tranSubsector name="Large Car and Truck">
+                    <stub-technology name="Hybrid Liquids">
+                        <period year="2030">
+                            <loadFactor>1.46</loadFactor>
+                            <tracking-non-energy-input name="non-energy">
+                                <capital-coef>0.00220996545996106</capital-coef>
+                                <tracking-market>consumer durable</tracking-market>
+                                <depreciation-rate>0.0666666666666667</depreciation-rate>
+                                <input-cost>0.3944</input-cost>
+                            </tracking-non-energy-input>
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1517.8</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                        <period year="2035">
+                            <loadFactor>1.46</loadFactor>
+                            <tracking-non-energy-input name="non-energy">
+                                <capital-coef>0.00220996545996106</capital-coef>
+                                <tracking-market>consumer durable</tracking-market>
+                                <depreciation-rate>0.0666666666666667</depreciation-rate>
+                                <input-cost>0.3944</input-cost>
+                            </tracking-non-energy-input>
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1517.8</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="Liquids">
+                        <period year="2030">
+                            <loadFactor>1.46</loadFactor>
+                            <tracking-non-energy-input name="non-energy">
+                                <capital-coef>0.00215133387419418</capital-coef>
+                                <tracking-market>consumer durable</tracking-market>
+                                <depreciation-rate>0.0666666666666667</depreciation-rate>
+                                <input-cost>0.3629</input-cost>
+                            </tracking-non-energy-input>
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1918</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                        <period year="2035">
+                            <loadFactor>1.46</loadFactor>
+                            <tracking-non-energy-input name="non-energy">
+                                <capital-coef>0.00215133387419418</capital-coef>
+                                <tracking-market>consumer durable</tracking-market>
+                                <depreciation-rate>0.0666666666666667</depreciation-rate>
+                                <input-cost>0.3629</input-cost>
+                            </tracking-non-energy-input>
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1906.7</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                    </stub-technology>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_freight_road">
+                <tranSubsector name="Medium truck">
+                    <stub-technology name="Hybrid Liquids">
+                        <period year="2030">
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1087.0</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1087.0</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                    </stub-technology>
+                    <stub-technology name="Liquids">
+                        <period year="2030">
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1166.0</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1166.0</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                    </stub-technology>
+                </tranSubsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

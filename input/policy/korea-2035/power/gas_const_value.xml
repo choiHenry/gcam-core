@@ -5,12 +5,12 @@
       <policy-portfolio-standard name="Gas-Generation-Ceiling">
         <policyType>tax</policyType>
         <market>South Korea</market>
-        <min-price year="2020">-10000</min-price>
-        <min-price year="2025">-10000</min-price>
-        <min-price year="2030">-10000</min-price>
+        <min-price year="2020">0</min-price>
+        <min-price year="2025">0</min-price>
+        <min-price year="2030">0</min-price>
         <min-price year="2035">0</min-price>
-        <constraint year="2020">0.526248</constraint>
-        <constraint year="2025">0.563637</constraint>
+        <constraint year="2020">0.526</constraint>
+        <constraint year="2025">0.563</constraint>
         <constraint year="2030">0.554</constraint>
         <constraint year="2035">0.309</constraint>
       </policy-portfolio-standard>

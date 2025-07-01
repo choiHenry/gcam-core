@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="trn_pass_road_LDV_4W">
+        <subsector name="Car">
+          <stub-technology name="Liquids">
+            <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035" delete="1" to-value="0.5">
+                <interpolation-function name="linear"/>
+            </interpolation-rule>
+          </stub-technology>
+        </subsector>
+        <subsector name="Large Car and Truck">
+          <stub-technology name="Liquids">
+            <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035" delete="1" to-value="0.5">
+                <interpolation-function name="linear"/>
+            </interpolation-rule>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+      <supplysector name="trn_pass_road">
+        <subsector name="Bus">
+          <stub-technology name="Liquids">
+            <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035" delete="1" to-value="0.5">
+                <interpolation-function name="linear"/>
+            </interpolation-rule>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

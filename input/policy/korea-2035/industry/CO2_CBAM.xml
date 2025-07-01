@@ -328,6 +328,19 @@
             </period>
           </stub-technology>
         </subsector>
+        <!-- <subsector name="biomass">
+          <stub-technology name="biomass">
+            <period year="2025">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2030">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+            <period year="2035">
+              <CO2 name="CO2_Chemical"/>
+            </period>
+          </stub-technology>
+        </subsector> -->
       </supplysector>
     </region>
   </world>
