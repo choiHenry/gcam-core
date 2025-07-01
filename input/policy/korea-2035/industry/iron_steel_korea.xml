@@ -16,8 +16,8 @@
         
         <subsector name="EAF with DRI">
           <stub-technology name="Hydrogen-based DRI">
-            <share-weight fillout="1" year="2030">1</share-weight>
-            <interpolation-rule apply-to="share-weight" delete="1" from-year="2030" to-year="2050" from-value="1" to-value="1">
+            <share-weight fillout="1" year="2025">1</share-weight>
+            <interpolation-rule apply-to="share-weight" delete="1" from-year="2025" to-year="2050" from-value="1" to-value="1">
               <interpolation-function name="fixed"/>
             </interpolation-rule>
           </stub-technology>

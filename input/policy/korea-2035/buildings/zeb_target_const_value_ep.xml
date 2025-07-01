@@ -7,8 +7,8 @@
         <market>South Korea</market>
         <constraint year="2020">0.012</constraint>
         <constraint year="2025">0.023</constraint>
-        <constraint year="2030">0.077</constraint>
-        <constraint year="2035">0.135</constraint>
+        <!-- <constraint year="2030">0.077</constraint> -->
+        <!-- <constraint year="2035">0.135</constraint> -->
       </policy-portfolio-standard>
     </region>
   </world>

@@ -21,6 +21,23 @@
               </minicam-non-energy-input>
             </period>
           </stub-technology>
+          <stub-technology name="Liquids">
+            <period year="2025">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-1.899449</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-3.165990</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-3.166218</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
         </tranSubsector>
       </supplysector>
       <supplysector name="trn_pass_road">
@@ -39,6 +56,74 @@
             <period year="2035">
               <minicam-non-energy-input name="K-Pass">
                 <input-cost>-0.310032</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
+          <stub-technology name="FCEV">
+            <period year="2025">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.180260</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.298078</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.295701</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
+          <stub-technology name="Hybrid Liquids">
+            <period year="2025">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.169216</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.281415</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.280781</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
+          <stub-technology name="Liquids">
+            <period year="2025">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.164502</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.274895</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.275642</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
+          <stub-technology name="NG">
+            <period year="2025">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.184688</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.307904</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="K-Pass">
+                <input-cost>-0.308017</input-cost>
               </minicam-non-energy-input>
             </period>
           </stub-technology>

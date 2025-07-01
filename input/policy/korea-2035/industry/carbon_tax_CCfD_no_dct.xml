@@ -3,28 +3,34 @@
         <region name="South Korea">
             <ghgpolicy name="CO2">
                 <market>Korea</market>
-                <fixedTax year="2020">32.33</fixedTax>
-                <fixedTax year="2025">10.68</fixedTax>
-                <fixedTax year="2030">28.10</fixedTax>
-                <fixedTax year="2035">28.10</fixedTax>
+                <fixedTax year="2020">0.01</fixedTax>
+                <fixedTax year="2025">0.01</fixedTax>
+                <fixedTax year="2030">0.01</fixedTax>
+                <fixedTax year="2035">0.01</fixedTax>
             </ghgpolicy>
             <ghgpolicy name="CO2_IronSteel">
                 <market>Korea</market>
                 <!-- ( 127.145960 - 10.68) * 0.135 + 10.68-->
-                <fixedTax year="2025">26.40</fixedTax>
+                <fixedTax year="2025">17.16</fixedTax>
                 <!-- (158.446999 - 28.10) * 0.135 +28.10 -->
-                <fixedTax year="2030">45.69</fixedTax>
+                <fixedTax year="2030">21.39</fixedTax>
                 <!-- (197.453789 - 28.10) * 0.135 +28.10  -->
-                <fixedTax year="2035">50.96</fixedTax>
+                <fixedTax year="2035">26.65</fixedTax>
             </ghgpolicy>
             <ghgpolicy name="CO2_Chemical">
                 <market>Korea</market>
                 <!-- (127.145960 - 10.68) * 0.15 + 10.68 -->
-                <fixedTax year="2025">28.14</fixedTax>
+                <fixedTax year="2025">19.07</fixedTax>
                 <!-- (158.446999 - 28.10) * 0.135 +28.10 -->
-                <fixedTax year="2030">47.65</fixedTax>
+                <fixedTax year="2030">23.76</fixedTax>
                 <!-- (197.453789 - 28.10) * 0.15 + 28.10  -->
-                <fixedTax year="2035">53.50</fixedTax>
+                <fixedTax year="2035">29.61</fixedTax>
+            </ghgpolicy>
+            <ghgpolicy name="CO2_CCfD">
+                <market>Korea</market>
+                <fixedTax year="2025">0.01</fixedTax>
+                <fixedTax year="2030">158.45</fixedTax>
+                <fixedTax year="2035">197.45</fixedTax>
             </ghgpolicy>
         </region>
     </world>

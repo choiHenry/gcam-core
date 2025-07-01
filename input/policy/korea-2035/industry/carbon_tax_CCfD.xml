@@ -3,26 +3,28 @@
         <region name="South Korea">
             <ghgpolicy name="CO2">
                 <market>Korea</market>
-                <fixedTax year="2020">0.01</fixedTax>
-                <fixedTax year="2025">0.01</fixedTax>
-                <fixedTax year="2030">0.01</fixedTax>
-                <fixedTax year="2035">0.01</fixedTax>
+                <fixedTax year="2020">32.33</fixedTax>
+                <fixedTax year="2025">10.68</fixedTax>
+                <fixedTax year="2030">28.10</fixedTax>
+                <fixedTax year="2035">28.10</fixedTax>
             </ghgpolicy>
             <ghgpolicy name="CO2_IronSteel">
                 <market>Korea</market>
-                <fixedTax year="2025">17.16</fixedTax>
+                <!-- ( 127.145960 - 10.68) * 0.135 + 10.68-->
+                <fixedTax year="2025">26.40</fixedTax>
                 <fixedTax year="2030">158.45</fixedTax>
                 <fixedTax year="2035">197.45</fixedTax>
             </ghgpolicy>
             <ghgpolicy name="CO2_Chemical">
                 <market>Korea</market>
-                <fixedTax year="2025">7.62</fixedTax>
+                <!-- (127.145960 - 10.68) * 0.15 + 10.68 -->
+                <fixedTax year="2025">28.14</fixedTax>
                 <fixedTax year="2030">158.45</fixedTax>
                 <fixedTax year="2035">197.45</fixedTax>
             </ghgpolicy>
             <ghgpolicy name="CO2_CCfD">
                 <market>Korea</market>
-                <fixedTax year="2025">7.62</fixedTax>
+                <fixedTax year="2025">10.68</fixedTax>
                 <fixedTax year="2030">158.45</fixedTax>
                 <fixedTax year="2035">197.45</fixedTax>
             </ghgpolicy>
