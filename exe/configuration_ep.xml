@@ -167,7 +167,7 @@
     <Value name="Greenship-K">../input/policy/korea-2035/transportation/greenship_K_ep.xml</Value>
     <Value name="K-Pass">../input/policy/korea-2035/transportation/K_pass_ep.xml</Value>
     <Value name="VMT">../input/policy/korea-2035/transportation/aeei_ep.xml</Value>
-    <Value name="ZEV-Shareweights">../input/policy/korea-2035/transportation/ZEV_shareweights_cp.xml</Value>
+    <Value name="ZEV-Shareweights">../input/policy/korea-2035/transportation/ZEV_shareweights_ep.xml</Value>
     <Value name="ZEV-Shareweights">../input/policy/korea-2035/transportation/ICEV_turnoff_ep.xml</Value>
     <Value name="ZEV-Shareweights">../input/policy/korea-2035/transportation/CAFE_ep.xml</Value>
 
@@ -203,7 +203,7 @@
 
   </ScenarioComponents>
   <Strings>
-    <Value name="scenarioName">Enhanced-Ambition-Bld</Value>
+    <Value name="scenarioName">Enhanced-Ambition-V2</Value>
     <Value name="debug-region">South Korea</Value>
     <Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
     <Value name="MAGICC-output-dir">../output</Value>
