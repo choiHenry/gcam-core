@@ -18,6 +18,20 @@
               <input-tax name="Onwind-Generation-Ceiling"/>
             </period>
           </stub-technology>
+          <stub-technology name="wind_storage">
+            <period year="2020">
+              <input-tax name="Onwind-Generation-Ceiling"/>
+            </period>
+            <period year="2025">
+              <input-tax name="Onwind-Generation-Ceiling"/>
+            </period>
+            <period year="2030">
+              <input-tax name="Onwind-Generation-Ceiling"/>
+            </period>
+            <period year="2035">
+              <input-tax name="Onwind-Generation-Ceiling"/>
+            </period>
+          </stub-technology>
         </subsector>
       </supplysector>
     </region>

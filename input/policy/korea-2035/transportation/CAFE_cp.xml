@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="South Korea">
+            <supplysector name="trn_pass_road_LDV_4W">
+                <tranSubsector name="Car">
+                    <stub-technology name="Liquids">
+                        <period year="2025">
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>2081.728</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                        <period year="2030">
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1714.364</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                        <period year="2035">
+                            <minicam-energy-input name="refined liquids enduse">
+                                <coefficient>1714.364</coefficient>
+                                <market-name>South Korea</market-name>
+                            </minicam-energy-input>
+                        </period>
+                    </stub-technology>
+                </tranSubsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

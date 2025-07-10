@@ -18,6 +18,20 @@
               <input-subsidy name="Solar-Generation-Floor"/>
             </period>
           </stub-technology>
+          <stub-technology name="PV_storage">
+            <period year="2020">
+              <input-subsidy name="Solar-Generation-Floor"/>
+            </period>
+            <period year="2025">
+              <input-subsidy name="Solar-Generation-Floor"/>
+            </period>
+            <period year="2030">
+              <input-subsidy name="Solar-Generation-Floor"/>
+            </period>
+            <period year="2035">
+              <input-subsidy name="Solar-Generation-Floor"/>
+            </period>
+          </stub-technology>
         </subsector>
       </supplysector>
     </region>

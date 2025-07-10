@@ -25,67 +25,67 @@
             </period>
             <period year="2040">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6378240000000001</input-cost>
+                <input-cost>-0.637824</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2045">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6262245000000001</input-cost>
+                <input-cost>-0.6262245</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2050">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2055">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2060">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2065">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2070">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2075">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2080">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2085">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2090">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2095">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2100">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.6146250000000001</input-cost>
+                <input-cost>-0.614625</input-cost>
               </minicam-non-energy-input>
             </period>
           </stub-technology>
@@ -95,12 +95,12 @@
             </interpolation-rule>
             <period year="2025">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.40202250000000006</input-cost>
+                <input-cost>-0.4020225</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2030">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.40202250000000006</input-cost>
+                <input-cost>-0.4020225</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2035">
@@ -115,62 +115,62 @@
             </period>
             <period year="2045">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.28759500000000005</input-cost>
+                <input-cost>-0.287595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2050">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2055">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2060">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2065">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2070">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2075">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2080">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2085">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2090">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2095">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2100">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.25975950000000003</input-cost>
+                <input-cost>-0.2597595</input-cost>
               </minicam-non-energy-input>
             </period>
           </stub-technology>
@@ -180,7 +180,7 @@
             </interpolation-rule>
             <period year="2025">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.20100300000000001</input-cost>
+                <input-cost>-0.20100300</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2030">
@@ -195,7 +195,7 @@
             </period>
             <period year="2040">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.15945600000000001</input-cost>
+                <input-cost>-0.15945600</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2045">

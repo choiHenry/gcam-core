@@ -6,14 +6,14 @@
         <subsector name="Medium truck">
           <stub-technology name="BEV">
             <period year="2025">
-              <minicam-non-energy-input name="greencar-subsidy">
+              <minicam-non-energy-input name="purchase-subsidy">
                 <input-cost>-0.0034</input-cost>
               </minicam-non-energy-input>
             </period>
           </stub-technology>
           <stub-technology name="FCEV">
             <period year="2025">
-              <minicam-non-energy-input name="greencar-subsidy">
+              <minicam-non-energy-input name="purchase-subsidy">
                 <input-cost>-0.1076</input-cost>
               </minicam-non-energy-input>
             </period>
@@ -24,14 +24,14 @@
         <subsector name="Car">
           <stub-technology name="BEV">
             <period year="2025">
-              <minicam-non-energy-input name="greencar-subsidy">
+              <minicam-non-energy-input name="purchase-subsidy">
                 <input-cost>-0.0089</input-cost>
               </minicam-non-energy-input>
             </period>
           </stub-technology>
           <stub-technology name="FCEV">
             <period year="2025">
-              <minicam-non-energy-input name="greencar-subsidy">
+              <minicam-non-energy-input name="purchase-subsidy">
                 <input-cost>-0.0381</input-cost>
               </minicam-non-energy-input>
             </period>
@@ -40,14 +40,14 @@
         <subsector name="Large Car and Truck">
           <stub-technology name="BEV">
             <period year="2025">
-              <minicam-non-energy-input name="greencar-subsidy">
+              <minicam-non-energy-input name="purchase-subsidy">
                 <input-cost>-0.0089</input-cost>
               </minicam-non-energy-input>
             </period>
           </stub-technology>
           <stub-technology name="FCEV">
             <period year="2025">
-              <minicam-non-energy-input name="greencar-subsidy">
+              <minicam-non-energy-input name="purchase-subsidy">
                 <input-cost>-0.0381</input-cost>
               </minicam-non-energy-input>
             </period>
@@ -58,14 +58,14 @@
         <subsector name="Bus">
           <stub-technology name="BEV">
             <period year="2025">
-              <minicam-non-energy-input name="greencar-subsidy">
+              <minicam-non-energy-input name="purchase-subsidyy">
                 <input-cost>-0.0017</input-cost>
               </minicam-non-energy-input>
             </period>
           </stub-technology>
           <stub-technology name="FCEV">
             <period year="2025">
-              <minicam-non-energy-input name="greencar-subsidy">
+              <minicam-non-energy-input name="purchase-subsidy">
                 <input-cost>-0.0058</input-cost>
               </minicam-non-energy-input>
             </period>

@@ -6,16 +6,16 @@
         <subsector name="hydro">
           <stub-technology name="hydro">
             <period year="2020">
-              <fixedOutput>0.013</fixedOutput>
+              <fixedOutput>0.0257</fixedOutput>
             </period>
             <period year="2025">
-              <fixedOutput>0.014</fixedOutput>
+              <fixedOutput>0.0288</fixedOutput>
             </period>
             <period year="2030">
-              <fixedOutput>0.015</fixedOutput>
+              <fixedOutput>0.0328</fixedOutput>
             </period>
             <period year="2035">
-              <fixedOutput>0.016</fixedOutput>
+              <fixedOutput>0.0601</fixedOutput>
             </period>
           </stub-technology>
         </subsector>

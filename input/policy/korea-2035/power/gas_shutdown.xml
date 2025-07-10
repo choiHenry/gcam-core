@@ -7,9 +7,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
@@ -17,9 +18,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
@@ -27,9 +29,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
@@ -37,9 +40,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
@@ -47,9 +51,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
@@ -61,9 +66,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
@@ -71,9 +77,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
@@ -81,9 +88,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
@@ -91,9 +99,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
@@ -101,9 +110,10 @@
                         <period year="2015">
                             <s-curve-shutdown-decider delete="1" name="s-curve"/>
                             <exogenous-shutdown-decider name="exogenous-shutdown">
-                                <output-scalar year="2020">0.96</output-scalar>
-                                <output-scalar year="2025">0.94</output-scalar>
-                                <output-scalar year="2030">0.92</output-scalar>
+                                <output-scalar year="2020">1</output-scalar>
+                                <output-scalar year="2025">1</output-scalar>
+                                <output-scalar year="2030">0.95</output-scalar>
+                                <output-scalar year="2035">0.32</output-scalar>
                             </exogenous-shutdown-decider>
                         </period>
                     </stub-technology>
