@@ -84,3 +84,4 @@ xcuserdata
 *.xcuserstate
 .Rproj.user
 input/gcamdata/inst/extdata/emissions/CEDS/desktop.ini
+input/policy/korea-2035/agriculture/N_Fert_reduction.xml
