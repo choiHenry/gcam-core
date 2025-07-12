@@ -5,7 +5,7 @@
     <Value name="BatchFileName">batch_ag.xml</Value>
     <Value name="policy-target-file">../input/policy/forcing_target_4p5.xml</Value>
     <Value name="GHGInputFileName">../input/magicc/inputs/input_gases.emk</Value>
-    <Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_korea_2035_20250712</Value>
+    <Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_korea_2035_20250712_test</Value>
     <Value write-output="1" append-scenario-name="0" name="restart">./restart/restart</Value>
     <Value write-output="1" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
     <Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
@@ -101,100 +101,20 @@
     <Value name="gas_trade">../input/gcamdata/xml/gas_trade.xml</Value>
     <Value name="prune_ag">../input/gcamdata/xml/prune_empty_ag.xml</Value>
     <Value name="solver">../input/solution/cal_broyden_config.xml</Value>
-    
+
     <!-- Solver -->
     <Value name="solver">../input/solution/cal_broyden_config_ep.xml</Value>
 
-    <!-- Base -->
-    <Value name="electricity">../input/policy/korea-2035/base/electricity_water_ATB22.xml</Value>
-    <Value name="elec-offwind-capFactor">../input/policy/korea-2035/base/elec_offwind_capacity_factor.xml</Value>
-    <Value name="elec-grid-building">../input/policy/korea-2035/base/elec_shareweights.xml</Value>
-    <Value name="init-carbon-price">../input/policy/korea-2035/base/carbon_tax_Korea_0p01.xml</Value>
-    <Value name="SSP-after-COVID">../input/policy/korea-2035/base/socioeconomics_KAIST7.xml</Value>
-    <Value name="ghg-net0-2050-RoW">../input/policy/korea-2035/base/ghg_net0_constraint_global.xml</Value>
-    <Value name="ghg-link-RoW">../input/policy/korea-2035/base/linked_ghg_policy.xml</Value>
-
-    <!-- Coal -->
-    <Value name="coal-ammonia-blend">../input/policy/korea-2035/power/coal_ammonia_blend_technology.xml</Value>
-    <Value name="CAB-ceiling">../input/policy/korea-2035/power/coal_ammonia_blend_const_value_cp.xml</Value>
-    <Value name="CAB-techs">../input/policy/korea-2035/power/coal_ammonia_blend_const_techs.xml</Value>
-    <Value name="2025-coal-turnoff">../input/policy/korea-2035/power/coal_turnoff.xml</Value>
-    <Value name="coal-ceiling-value">../input/policy/korea-2035/power/coal_const_value_cp.xml</Value>
-    <Value name="coal-ceiling-techs">../input/policy/korea-2035/power/coal_const_techs.xml</Value>
-    <Value name="coal-exo-shutdown">../input/policy/korea-2035/power/coal_shutdown_cp.xml</Value>
-
-    <!-- Gas -->
-    <Value name="gas-H2-blend">../input/policy/korea-2035/power/gas_H2_blend_technology.xml</Value>
-    <Value name="GH2B-ceiling-value">../input/policy/korea-2035/power/gas_H2_blend_const_value_cp.xml</Value>
-    <Value name="GH2B-ceiling-techs">../input/policy/korea-2035/power/gas_H2_blend_const_techs.xml</Value>
-    <Value name="gas-ceiling-value">../input/policy/korea-2035/power/gas_const_value.xml</Value>
-    <Value name="gas-ceiling-techs">../input/policy/korea-2035/power/gas_const_techs.xml</Value>
-    <Value name="gas-exo-shutdown">../input/policy/korea-2035/power/gas_shutdown.xml</Value>
-    <!-- <Value name="gas-turnoff">../input/policy/korea-2035/power/gas_turnoff.xml</Value> -->
-
-    <!-- Nuclear -->
-    <Value name="nuclear-const-value">../input/policy/korea-2035/power/nuclear_const_value.xml</Value>
-    <Value name="nuclear-const-value">../input/policy/korea-2035/power/nuclear_const_techs.xml</Value>
-
-    <!-- Renewables -->
-    <Value name="hydro-fixed">../input/policy/korea-2035/power/hydro_fixedOutput.xml</Value>
-    <Value name="grid-building">../input/policy/korea-2035/power/grid_building.xml</Value>
-    <Value name="offwind-floor-value">../input/policy/korea-2035/power/offwind_const_value_cp.xml</Value>
-    <Value name="offwind-floor-techs">../input/policy/korea-2035/power/offwind_const_techs.xml</Value>
-    <Value name="onwind-floor-value">../input/policy/korea-2035/power/onwind_const_value.xml</Value>
-    <Value name="onwind-floor-techs">../input/policy/korea-2035/power/onwind_const_techs.xml</Value>
-    <Value name="solar-floor-value">../input/policy/korea-2035/power/solar_const_value_cp.xml</Value>
-    <Value name="solar-fllor-techs">../input/policy/korea-2035/power/solar_const_techs.xml</Value>
-    <!-- <Value name="ESS-const-value">../input/policy/korea-2035/power/ESS_const_techs.xml</Value> -->
-    <!-- <Value name="ESS-const-techs">../input/policy/korea-2035/power/ESS_const_value_cp.xml</Value> -->
-
-    <!-- RPS -->
-    <!-- <Value name="RPS">../input/policy/korea-2035/power/RPS_cp.xml</Value> -->
-
-    <!-- Industry -->
-    <Value name="iron-steel-trade">../input/policy/korea-2035/industry/iron_steel_trade_logit.xml</Value>
-    <Value name="iron-steel-korea">../input/policy/korea-2035/industry/iron_steel_korea.xml</Value>
-    <!-- <Value name="chemical">../input/policy/korea-2035/industry/chemical_korea.xml</Value> -->
-    <Value name="cement">../input/policy/korea-2035/industry/cement_korea.xml</Value>
-    <Value name="CBAM-CO2">../input/policy/korea-2035/industry/CO2_CBAM.xml</Value>
-    <Value name="carton-tax">../input/policy/korea-2035/industry/carbon_tax_cp.xml</Value>
-    <Value name="semiconductors">../input/policy/korea-2035/industry/semiconductors_cp.xml</Value>
-    <Value name="Cstorage-subsidy">../input/policy/korea-2035/industry/Cstorage_cp.xml</Value>
-
-    <!-- Transportation -->
-    <Value name="ZEV-Fixed-Output">../input/policy/korea-2035/transportation/ZEV_calibrate.xml</Value>
-    <Value name="ZEV-Purchase-Subsidy">../input/policy/korea-2035/transportation/ZEV_subsidy_cp.xml</Value>
-    <Value name="ZEV-Charing-Infra-Subsidy">../input/policy/korea-2035/transportation/ZEV_charging_infra_cp.xml</Value>
-    <Value name="ICEV-Early-Retirement">../input/policy/korea-2035/transportation/diesel_retirement.xml</Value>
-    <Value name="Greenship-K">../input/policy/korea-2035/transportation/greenship_K_cp.xml</Value>
-    <Value name="K-Pass">../input/policy/korea-2035/transportation/K_pass_cp.xml</Value>
-    <Value name="ZEV-Shareweights">../input/policy/korea-2035/transportation/ZEV_shareweights.xml</Value>
-    <Value name="CAFE">../input/policy/korea-2035/transportation/CAFE_cp.xml</Value>
-
-    <!-- Buildings -->
-    <Value name="EERS-technology">../input/policy/korea-2035/buildings/bld_EE_technology.xml</Value>
-    <Value name="EERS-fixedOutput">../input/policy/korea-2035/buildings/eers_cp.xml</Value>
-    <Value name="zeb-mandate">../input/policy/korea-2035/buildings/zeb_cp.xml</Value>
-    <!-- <Value name="zeb-const-tech">../input/policy/korea-2035/buildings/zeb_target_const_techs.xml</Value> -->
-    <!-- <Value name="eff-improve">../input/policy/korea-2035/buildings/eff_improve_cp.xml</Value> -->
-    
-    <Value name="financial-support">../input/policy/korea-2035/buildings/finance_support_cp.xml</Value>
-    <Value name="h2-subsidy-comm">../input/policy/korea-2035/buildings/h2_subsidy_comm_cp.xml</Value>
-    <Value name="h2-subsidy-resid">../input/policy/korea-2035/buildings/h2_subsidy_resid_cp.xml</Value>
-    <Value name="pv-subsidy-comm">../input/policy/korea-2035/buildings/pv_subsidy_comm_cp.xml</Value>
-    <Value name="pv-subsidy-resid">../input/policy/korea-2035/buildings/pv_subsidy_resid_cp.xml</Value>
-
-
     <!-- Agriculture -->
-    <Value name="ID-AWD">../input/policy/korea-2035/agriculture/water_management_cp.xml</Value>
+    <Value name="ID-AWD">../input/policy/korea-2035/agriculture/water_management_ep.xml</Value>
+    <Value name="manure-reduction">../input/policy/korea-2035/agriculture/cropland_manure_reduction_ep.xml</Value>
+    <Value name="biomethane">../input/policy/korea-2035/agriculture/biomethane_ep.xml</Value>
+    <Value name="entaric-fermentation">../input/policy/korea-2035/agriculture/an_ent_ferm_ep.xml</Value>
 
-    <!-- Others -->
-    <Value name="clean-hydrogen-credit">../input/policy/korea-2035/others/clean_hydrogen_credit_cp.xml</Value>
-    <Value name="waste-management">../input/policy/korea-2035/others/waste_management_cp.xml</Value>
 
   </ScenarioComponents>
   <Strings>
-    <Value name="scenarioName">Current-Policy</Value>
+    <Value name="scenarioName">Enhanced-Ambition</Value>
     <Value name="debug-region">South Korea</Value>
     <Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
     <Value name="MAGICC-output-dir">../output</Value>

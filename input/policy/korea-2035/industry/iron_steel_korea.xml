@@ -6,20 +6,32 @@
       <supplysector name="iron and steel">
 
         <subsector name="BLASTFUR">
+          <interpolation-rule apply-to="share-weight" delete="1" from-year="2025" to-year="2035" to-value="0">
+            <interpolation-function name="linear"/>
+          </interpolation-rule>
+          <share-weight fillout="1" year="2035">0</share-weight>
           <stub-technology name="BLASTFUR">
-            <share-weight fillout="1" year="2030">0</share-weight>
-            <interpolation-rule apply-to="share-weight" delete="1" from-year="2030" to-year="2035" from-value="0" to-value="0">
-              <interpolation-function name="fixed"/>
+            <interpolation-rule apply-to="share-weight" delete="1" from-year="2020" to-year="2030" to-value="0">
+              <interpolation-function name="linear"/>
             </interpolation-rule>
+            <share-weight fillout="1" year="2030">0</share-weight>
           </stub-technology>
         </subsector>
         
         <subsector name="EAF with DRI">
+          <interpolation-rule apply-to="share-weight" delete="1" from-year="2025" to-year="2035" to-value="1">
+            <interpolation-function name="linear"/>
+          </interpolation-rule>
+          <share-weight fillout="1" year="2020">0.130</share-weight>
+          <share-weight fillout="1" year="2025">0.185</share-weight>
+          <share-weight fillout="1" year="2035">1</share-weight>
+
           <stub-technology name="Hydrogen-based DRI">
-            <share-weight fillout="1" year="2025">1</share-weight>
-            <interpolation-rule apply-to="share-weight" delete="1" from-year="2025" to-year="2050" from-value="1" to-value="1">
+            <interpolation-rule apply-to="share-weight" delete="1" from-year="2030" to-year="2050" from-value="1" to-value="1">
               <interpolation-function name="fixed"/>
             </interpolation-rule>
+            <share-weight fillout="1" year="2030">1</share-weight>
+            <share-weight fillout="1" year="2050">1</share-weight>
           </stub-technology>
         </subsector>
       </supplysector>

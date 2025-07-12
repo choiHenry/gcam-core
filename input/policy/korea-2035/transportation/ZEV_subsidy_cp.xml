@@ -58,7 +58,7 @@
         <subsector name="Bus">
           <stub-technology name="BEV">
             <period year="2025">
-              <minicam-non-energy-input name="purchase-subsidyy">
+              <minicam-non-energy-input name="purchase-subsidy">
                 <input-cost>-0.0017</input-cost>
               </minicam-non-energy-input>
             </period>

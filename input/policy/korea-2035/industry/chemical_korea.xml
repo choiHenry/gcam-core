@@ -9,15 +9,15 @@
           </relative-cost-logit>
           <share-weight fillout="1" year="1975">0</share-weight>
           <share-weight fillout="1" year="2025">0</share-weight>
-          <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2050" from-value="0" to-value="0.25">
+          <interpolation-rule apply-to="share-weight"  delete="1" from-year="2025" to-year="2100" from-value="0" to-value="1">
             <interpolation-function name="linear"/>
           </interpolation-rule>
           <stub-technology name="biomass">
             <share-weight fillout="1" year="1975">0</share-weight>
-            <share-weight fillout="1" year="2025">0</share-weight>
-            <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2050" from-value="0" to-value="0.25">
-                <interpolation-function name="linear"/>
-            </interpolation-rule>
+            <share-weight fillout="1" year="2030">1</share-weight>
+            <interpolation-rule apply-to="share-weight" delete="1" from-year="2030" to-year="2100" from-value="1" to-value="1">
+                <interpolation-function name="fixed"/>
+            </interpolation-rule>            
           </stub-technology>
         </subsector>
       </supplysector>
@@ -96,7 +96,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2020">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -110,7 +110,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2025">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -124,7 +124,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2030">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -138,7 +138,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2035">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -152,7 +152,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2040">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -166,7 +166,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2045">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -180,7 +180,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2050">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -194,7 +194,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2055">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -208,7 +208,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2060">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -222,7 +222,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2065">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -236,7 +236,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2070">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -250,7 +250,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2075">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -264,7 +264,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2080">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -278,7 +278,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2085">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -292,7 +292,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2090">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -306,7 +306,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2095">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>
@@ -320,7 +320,7 @@
                   </non-energy-use-capture-component>
               </period>
               <period year="2100">
-                  <share-weight>0</share-weight>
+                  <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
                       <efficiency>1</efficiency>

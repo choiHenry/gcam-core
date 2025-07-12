@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+    <world>
+        <region name="South Korea">
+            <supplysector name="N fertilizer">
+
+                <subsector name="N fertilizer">
+
+                    <stub-technology name="N fertilizer">
+
+                        <period year="2030">
+                          <share-weight>1</share-weight>
+                          <CO2 name="CO2"/>
+                          <minicam-energy-input name="regional ammonia">
+                              <coefficient>0.81</coefficient>
+                          </minicam-energy-input>
+                        </period>
+
+                        <period year="2035">
+                            <share-weight>1</share-weight>
+                            <CO2 name="CO2"/>
+                            <minicam-energy-input name="regional ammonia">
+                                <coefficient>0.81</coefficient>
+                            </minicam-energy-input>
+                        </period>
+
+                    </stub-technology>
+                
+                </subsector>
+
+            </supplysector>
+        </region>
+
+    </world>
+</scenario>

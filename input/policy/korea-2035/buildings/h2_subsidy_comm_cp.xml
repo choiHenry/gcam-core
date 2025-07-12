@@ -6,22 +6,22 @@
         <subsector name="gas">
           <stub-technology name="hydrogen">
             <period year="2020">
-              <minicam-non-energy-input name="renewable-energy-subsidy">
+              <minicam-non-energy-input name="h2-subsidy-comm">
                 <input-cost>-0.092</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2025">
-              <minicam-non-energy-input name="renewable-energy-subsidy">
+              <minicam-non-energy-input name="h2-subsidy-comm">
                 <input-cost>-0.092</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2030">
-              <minicam-non-energy-input name="renewable-energy-subsidy">
+              <minicam-non-energy-input name="h2-subsidy-comm">
                 <input-cost>-0.092</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2035">
-              <minicam-non-energy-input name="renewable-energy-subsidy">
+              <minicam-non-energy-input name="h2-subsidy-comm">
                 <input-cost>-0.092</input-cost>
               </minicam-non-energy-input>
             </period>
@@ -32,22 +32,22 @@
         <subsector name="gas">
           <stub-technology name="hydrogen">
             <period year="2020">
-              <minicam-non-energy-input name="renewable-energy-subsidy">
+              <minicam-non-energy-input name="h2-subsidy-comm">
                 <input-cost>-0.092</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2025">
-              <minicam-non-energy-input name="renewable-energy-subsidy">
+              <minicam-non-energy-input name="h2-subsidy-comm">
                 <input-cost>-0.092</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2030">
-              <minicam-non-energy-input name="renewable-energy-subsidy">
+              <minicam-non-energy-input name="h2-subsidy-comm">
                 <input-cost>-0.092</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2035">
-              <minicam-non-energy-input name="renewable-energy-subsidy">
+              <minicam-non-energy-input name="h2-subsidy-comm">
                 <input-cost>-0.092</input-cost>
               </minicam-non-energy-input>
             </period>

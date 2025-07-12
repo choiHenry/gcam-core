@@ -5,7 +5,7 @@
     <Value name="BatchFileName">batch_ag.xml</Value>
     <Value name="policy-target-file">../input/policy/forcing_target_4p5.xml</Value>
     <Value name="GHGInputFileName">../input/magicc/inputs/input_gases.emk</Value>
-    <Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_korea_2035_20250710_3</Value>
+    <Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_korea_2035_20250712</Value>
     <Value write-output="1" append-scenario-name="0" name="restart">./restart/restart</Value>
     <Value write-output="1" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
     <Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
@@ -54,8 +54,8 @@
     <Value name="ag_prodchange">../input/gcamdata/xml/ag_prodchange_ref_IRR_MGMT.xml</Value>
     <Value name="residue_bio">../input/gcamdata/xml/resbio_input_IRR_MGMT.xml</Value>
     <Value name="animal">../input/gcamdata/xml/an_input.xml</Value>
-    <Value name="fertilizer">../input/gcamdata/xml/ag_Fert_IRR_MGMT.xml</Value>
-    <Value name="land1">../input/gcamdata/xml/land_input_1.xml</Value>
+    <Value name="fertilizer">../input/policy/korea-2035/agriculture/N_Fert_reduction.xml</Value>
+    <!-- <Value name="fertilizer">../input/gcamdata/xml/ag_Fert_IRR_MGMT.xml</Value> -->    <Value name="land1">../input/gcamdata/xml/land_input_1.xml</Value>
     <Value name="land2">../input/gcamdata/xml/land_input_2.xml</Value>
     <Value name="land3">../input/gcamdata/xml/land_input_3_IRR.xml</Value>
     <Value name="land4">../input/gcamdata/xml/land_input_4_IRR_MGMT.xml</Value>
@@ -173,9 +173,9 @@
     <!-- Buildings -->
     <Value name="EERS-technology">../input/policy/korea-2035/buildings/bld_EE_technology.xml</Value>
     <Value name="EERS-fixedOutput">../input/policy/korea-2035/buildings/eers_ep.xml</Value>
-    <Value name="zeb-const-value">../input/policy/korea-2035/buildings/zeb_target_const_value_ep.xml</Value>
-    <Value name="zeb-const-tech">../input/policy/korea-2035/buildings/zeb_target_const_techs.xml</Value>
-    <Value name="eff-improve">../input/policy/korea-2035/buildings/eff_improve_ep.xml</Value>
+    <Value name="zeb-mandate">../input/policy/korea-2035/buildings/zeb_ep.xml</Value>
+    <!-- <Value name="zeb-const-tech">../input/policy/korea-2035/buildings/zeb_target_const_techs.xml</Value> -->
+    <!-- <Value name="eff-improve">../input/policy/korea-2035/buildings/eff_improve_ep.xml</Value> -->
     <Value name="electrification">../input/policy/korea-2035/buildings/electrification_ep_test.xml</Value>
     <Value name="financial-support">../input/policy/korea-2035/buildings/finance_support_ep.xml</Value>
     <Value name="h2-subsidy-comm">../input/policy/korea-2035/buildings/h2_subsidy_comm_ep.xml</Value>
@@ -185,9 +185,9 @@
 
     <!-- Agriculture -->
     <Value name="ID-AWD">../input/policy/korea-2035/agriculture/water_management_ep.xml</Value>
-    <Value name="manure-an">../input/policy/korea-2035/agriculture/an_ent_manure.xml</Value>
-    <Value name="manure-ag">../input/policy/korea-2035/agriculture/cropland_manure_reduction.xml</Value>
-    <Value name="smartfarm-spreadout">../input/policy/korea-2035/agriculture/smart_farm_spreadout_ep.xml</Value>
+    <Value name="manure-reduction">../input/policy/korea-2035/agriculture/cropland_manure_reduction_ep.xml</Value>
+    <Value name="biomethane">../input/policy/korea-2035/agriculture/biomethane_ep.xml</Value>
+    <Value name="entaric-fermentation">../input/policy/korea-2035/agriculture/an_ent_ferm_ep.xml</Value>
 
     <!-- Others -->
     <Value name="clean-hydrogen-credit">../input/policy/korea-2035/others/clean_hydrogen_credit_cp.xml</Value>
@@ -204,7 +204,7 @@
 
   </ScenarioComponents>
   <Strings>
-    <Value name="scenarioName">Enhanced-Ambition-20250710</Value>
+    <Value name="scenarioName">Enhanced-Ambition</Value>
     <Value name="debug-region">South Korea</Value>
     <Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
     <Value name="MAGICC-output-dir">../output</Value>
