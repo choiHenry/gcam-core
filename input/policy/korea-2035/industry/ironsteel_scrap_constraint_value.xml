@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><scenario>
+   <world>
+      <region name="South Korea">
+         <policy-portfolio-standard name="Scrap-Ceiling">
+            <policyType>tax</policyType>
+            <market>South Korea</market>
+            <min-price year="2030">0</min-price>
+            <min-price year="2035">-10000</min-price>
+            <constraint year="2030">12.7</constraint>
+            <constraint year="2035">32.5</constraint>
+   	   </policy-portfolio-standard>
+      </region>
+   </world>
+</scenario>
