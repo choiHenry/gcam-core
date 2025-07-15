@@ -5,7 +5,7 @@
     <Value name="BatchFileName">batch_ag.xml</Value>
     <Value name="policy-target-file">../input/policy/forcing_target_4p5.xml</Value>
     <Value name="GHGInputFileName">../input/magicc/inputs/input_gases.emk</Value>
-    <Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_korea_2035_20250714</Value>
+    <Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_korea_2035_20250715_2</Value>
     <Value write-output="1" append-scenario-name="0" name="restart">./restart/restart</Value>
     <Value write-output="1" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
     <Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
@@ -131,6 +131,10 @@
     <Value name="gas-exo-shutdown">../input/policy/korea-2035/power/gas_shutdown.xml</Value>
     <!-- <Value name="gas-turnoff">../input/policy/korea-2035/power/gas_turnoff.xml</Value> -->
 
+    <!-- Oil -->
+    <Value name="oil-const-value">../input/policy/korea-2035/power/oil_const_value.xml</Value>
+    <Value name="oil-const-techs">../input/policy/korea-2035/power/oil_const_techs.xml</Value>
+
     <!-- Nuclear -->
     <Value name="nuclear-const-value">../input/policy/korea-2035/power/nuclear_const_value.xml</Value>
     <Value name="nuclear-const-value">../input/policy/korea-2035/power/nuclear_const_techs.xml</Value>
@@ -143,7 +147,8 @@
     <Value name="onwind-floor-value">../input/policy/korea-2035/power/onwind_const_value.xml</Value>
     <Value name="onwind-floor-techs">../input/policy/korea-2035/power/onwind_const_techs.xml</Value>
     <Value name="solar-floor-value">../input/policy/korea-2035/power/solar_const_value_ep.xml</Value>
-    <Value name="solar-fllor-techs">../input/policy/korea-2035/power/solar_const_techs.xml</Value>
+    <!-- <Value name="solar-fllor-techs">../input/policy/korea-2035/power/solar_const_techs.xml</Value> -->
+    <Value name="solar-fllor-techs">../input/policy/korea-2035/power/solar_const_techs_ep.xml</Value>
     <!-- <Value name="ESS-const-value">../input/policy/korea-2035/power/ESS_const_techs.xml</Value> -->
     <!-- <Value name="ESS-const-techs">../input/policy/korea-2035/power/ESS_const_value_ep.xml</Value> -->
 
@@ -153,6 +158,7 @@
     <!-- Industry -->
     <Value name="iron-steel-trade">../input/policy/korea-2035/industry/iron_steel_trade_logit.xml</Value>
     <Value name="iron-steel-korea">../input/policy/korea-2035/industry/iron_steel_korea.xml</Value>
+    <Value name="iron-steel-korea">../input/policy/korea-2035/industry/iron_steel_ep.xml</Value>
   	<Value name="scrap-const-value">../input/policy/korea-2035/industry/ironsteel_scrap_constraint_value_ep.xml</Value>
 		<Value name="scrap-const-tech">../input/policy/korea-2035/industry/ironsteel_scrap_constraint_techs.xml</Value>
     <Value name="chemical">../input/policy/korea-2035/industry/chemical_korea.xml</Value>

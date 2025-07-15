@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <policy-portfolio-standard name="Oil-Ceiling">
+        <policyType>tax</policyType>
+        <market>South Korea</market>
+        <constraint year="2030">0.039</constraint>
+        <constraint year="2035">0.042</constraint>
+      </policy-portfolio-standard>
+    </region>
+  </world>
+</scenario>

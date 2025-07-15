@@ -4,19 +4,46 @@
     <region name="South Korea">
       <supplysector name="cement">
         <subsector name="cement">
+          <stub-technology name="cement">
+            <period year="2015">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
+            <period year="2020">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
+            <period year="2025">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
+            <period year="2030">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
+            <period year="2035">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
+          </stub-technology>
           <stub-technology name="cement LC3">
             <share-weight fillout="1" year="1975">0</share-weight>
             <share-weight fillout="1" year="2025">1</share-weight>
-            <period year="2030">
-              <minicam-non-energy-input name="no-storage">
-                <input-cost>-0.0050</input-cost>
-              </minicam-non-energy-input>
-            </period>
-            <period year="2035">
-              <minicam-non-energy-input name="no-storage">
-                <input-cost>-0.0037</input-cost>
-              </minicam-non-energy-input>
-            </period>
           </stub-technology>
           <stub-technology name="cement CCS">
             <interpolation-rule apply-to="share-weight" delete="1" from-year="2030" to-year="2050" from-value="1" to-value="1">
@@ -24,12 +51,48 @@
             </interpolation-rule>
             <share-weight fillout="1" year="2030">1</share-weight>
             <share-weight fillout="1" year="2050">1</share-weight>
+            <period year="2015">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
+            <period year="2020">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
+            <period year="2025">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
+            <period year="2030">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
+            <period year="2035">
+              <lifetime>25</lifetime>
+              <s-curve-shutdown-decider name="s-curve">
+                <steepness>0.3</steepness>
+                <half-life>12.5</half-life>
+              </s-curve-shutdown-decider>
+            </period>
           </stub-technology>
         </subsector>
       </supplysector>
     </region>
     <global-technology-database>
       <location-info sector-name="cement" subsector-name="cement">
+        
         <technology name="cement LC3">
           <period year="1975">
             <share-weight>0</share-weight>
@@ -38,13 +101,13 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.004</coefficient>
             </minicam-energy-input>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="1990">
@@ -54,13 +117,13 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.004</coefficient>
             </minicam-energy-input>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2005">
@@ -70,13 +133,13 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.004</coefficient>
             </minicam-energy-input>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2010">
@@ -86,13 +149,13 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.004</coefficient>
             </minicam-energy-input>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2015">
@@ -102,22 +165,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0039444</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2020">
@@ -127,22 +190,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0038889</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2025">
@@ -152,27 +215,23 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0038333</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
-            <standard-capture-component>
-                <remove-fraction>0.486</remove-fraction>
-                <storage-market>carbon-storage</storage-market>
-            </standard-capture-component>
           </period>
           <period year="2030">
             <share-weight>1</share-weight>
@@ -181,27 +240,23 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0037778</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
-            <standard-capture-component>
-                <remove-fraction>0.486</remove-fraction>
-                <storage-market>carbon-storage</storage-market>
-            </standard-capture-component>
           </period>
           <period year="2035">
             <share-weight>1</share-weight>
@@ -210,27 +265,23 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0037222</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
-            <standard-capture-component>
-                <remove-fraction>0.486</remove-fraction>
-                <storage-market>carbon-storage</storage-market>
-            </standard-capture-component>
           </period>
           <period year="2040">
             <share-weight>1</share-weight>
@@ -239,22 +290,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0036667</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2045">
@@ -264,22 +315,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0036111</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2050">
@@ -289,22 +340,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0035556</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2055">
@@ -314,22 +365,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0035</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2060">
@@ -339,22 +390,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0034444</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2065">
@@ -364,22 +415,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0033889</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2070">
@@ -389,22 +440,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0033333</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2075">
@@ -414,22 +465,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0032778</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2080">
@@ -439,22 +490,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0032222</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2085">
@@ -464,22 +515,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0031667</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2090">
@@ -489,22 +540,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0031111</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2095">
@@ -514,22 +565,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.0030556</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
           <period year="2100">
@@ -539,22 +590,22 @@
               <coefficient>5e-04</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="limestone">
-              <coefficient>1.5</coefficient>
+              <coefficient>0.73</coefficient>
             </minicam-energy-input>
             <minicam-energy-input name="process heat cement">
               <coefficient>0.003</coefficient>
             </minicam-energy-input>
-            <lifetime>40</lifetime>
+            <lifetime>25</lifetime>
             <s-curve-shutdown-decider name="s-curve">
               <steepness>0.3</steepness>
-              <half-life>20</half-life>
+              <half-life>12.5</half-life>
             </s-curve-shutdown-decider>
             <profit-shutdown-decider name="profit">
               <median-shutdown-point>-0.5</median-shutdown-point>
               <steepness>6</steepness>
             </profit-shutdown-decider>
             <minicam-non-energy-input name="non-energy">
-              <input-cost>0.005</input-cost>
+              <input-cost>0.0075</input-cost>
             </minicam-non-energy-input>
           </period>
         </technology>

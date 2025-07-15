@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      
+      <supplysector name="iron and steel">
+        <subsector name="BLASTFUR">
+          <stub-technology name="BLASTFUR">
+            <interpolation-rule apply-to="share-weight" delete="1" from-year="2025" to-year="2035" from-value="0" to-value="0">
+              <interpolation-function name="fixed"/>
+            </interpolation-rule>
+            <share-weight fillout="1" year="2020">1</share-weight>
+            <share-weight fillout="1" year="2035">0</share-weight>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>
