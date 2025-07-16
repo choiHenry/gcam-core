@@ -6,36 +6,36 @@
         <subsector name="semiconductors">
           <stub-technology name="semiconductors">
             <period year="2030">
-              <Non-CO2 name="CF4_CaT">
+              <Non-CO2 name="CF4">
                 <emiss-coef>0</emiss-coef>
                 <output-driver/>
                 <emissions-unit>Gg</emissions-unit>
               </Non-CO2>
-              <Non-CO2 name="SF6_CaT">
+              <Non-CO2 name="SF6">
                 <emiss-coef>0</emiss-coef>
                 <output-driver/>
                 <emissions-unit>Gg</emissions-unit>
               </Non-CO2>
             </period>
             <period year="2035">
-              <Non-CO2 name="CF4_CaT">
+              <Non-CO2 name="CF4">
                 <emiss-coef>0</emiss-coef>
                 <output-driver/>
                 <emissions-unit>Gg</emissions-unit>
               </Non-CO2>
-              <Non-CO2 name="SF6_CaT">
+              <Non-CO2 name="SF6">
                 <emiss-coef>0</emiss-coef>
                 <output-driver/>
                 <emissions-unit>Gg</emissions-unit>
               </Non-CO2>
             </period>
             <period year="2040">
-              <Non-CO2 name="CF4_CaT">
+              <Non-CO2 name="CF4">
                 <emiss-coef>0</emiss-coef>
                 <output-driver/>
                 <emissions-unit>Gg</emissions-unit>
               </Non-CO2>
-              <Non-CO2 name="SF6_CaT">
+              <Non-CO2 name="SF6">
                 <emiss-coef>0</emiss-coef>
                 <output-driver/>
                 <emissions-unit>Gg</emissions-unit>
