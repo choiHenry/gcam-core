@@ -4,7 +4,7 @@
          <policy-portfolio-standard name="Import-Ceiling">
             <policyType>tax</policyType>
             <market>South Korea</market>
-            <constraint year="2020">12.4</constraint>
+            <constraint year="2020">6.5</constraint>
    	   </policy-portfolio-standard>
       </region>
    </world>

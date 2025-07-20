@@ -5,7 +5,7 @@
       
       <supplysector name="iron and steel">
 
-        <subsector name="BLASTFUR">
+        <!-- <subsector name="BLASTFUR">
           <interpolation-rule apply-to="share-weight" delete="1" from-year="2025" to-year="2035" to-value="0">
             <interpolation-function name="linear"/>
           </interpolation-rule>
@@ -16,7 +16,7 @@
             </interpolation-rule>
             <share-weight fillout="1" year="2030">0</share-weight>
           </stub-technology>
-        </subsector>
+        </subsector> -->
         
         <subsector name="EAF with DRI">
           <interpolation-rule apply-to="share-weight" delete="1" from-year="2025" to-year="2035" to-value="1">

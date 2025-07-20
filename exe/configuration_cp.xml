@@ -5,7 +5,7 @@
     <Value name="BatchFileName">batch_ag.xml</Value>
     <Value name="policy-target-file">../input/policy/forcing_target_4p5.xml</Value>
     <Value name="GHGInputFileName">../input/magicc/inputs/input_gases.emk</Value>
-    <Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_korea_2035_20250717</Value>
+    <Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb_korea_2035_20250717_4</Value>
     <Value write-output="1" append-scenario-name="0" name="restart">./restart/restart</Value>
     <Value write-output="1" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
     <Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
@@ -154,6 +154,7 @@
     <!-- Industry -->
     <Value name="iron-steel-trade">../input/policy/korea-2035/industry/iron_steel_trade_logit.xml</Value>
     <Value name="iron-steel-korea">../input/policy/korea-2035/industry/iron_steel_korea.xml</Value>
+    <Value name="iron-steel-korea">../input/policy/korea-2035/industry/iron_steel_cp.xml</Value>
 		<Value name="scrap-const-value">../input/policy/korea-2035/industry/ironsteel_scrap_constraint_value_cp.xml</Value>
 		<Value name="scrap-const-tech">../input/policy/korea-2035/industry/ironsteel_scrap_constraint_techs.xml</Value>
 		<Value name="scrap-const-value">../input/policy/korea-2035/industry/ironsteel_import_constraint_value.xml</Value>
