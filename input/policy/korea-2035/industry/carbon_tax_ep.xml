@@ -5,8 +5,8 @@
                 <market>Korea</market>
                 <fixedTax year="2020">32.33</fixedTax>
                 <fixedTax year="2025">10.68</fixedTax>
-                <fixedTax year="2030">28.10</fixedTax>
-                <fixedTax year="2035">28.10</fixedTax>
+                <fixedTax year="2030">53.12</fixedTax>
+                <fixedTax year="2035">53.12</fixedTax>
             </ghgpolicy>
             <ghgpolicy name="CO2_IronSteel">
                 <market>Korea</market>
@@ -14,8 +14,8 @@
                 <fixedTax year="2025">26.40</fixedTax>
                 <!-- (158.446999 - 28.10) * 0.135 + 28.10 -->
                 <fixedTax year="2030">45.69</fixedTax>
-                <!-- (197.453789 - 28.10) * 0.135 + 28.10  -->
-                <fixedTax year="2035">50.96</fixedTax>
+                <!-- (197.453789 - 28.10) * 0.135 + 53.12  -->
+                <fixedTax year="2035">72.60</fixedTax>
             </ghgpolicy>
             <ghgpolicy name="CO2_Chemical">
                 <market>Korea</market>
@@ -23,8 +23,8 @@
                 <fixedTax year="2025">28.14</fixedTax>
                 <!-- (158.446999 - 28.10) * 0.15 + 28.10 -->
                 <fixedTax year="2030">47.65</fixedTax>
-                <!-- (197.453789 - 28.10) * 0.15 + 28.10  -->
-                <fixedTax year="2035">53.50</fixedTax>
+                <!-- (197.453789 - 28.10) * 0.15 + 53.12  -->
+                <fixedTax year="2035">74.77</fixedTax>
             </ghgpolicy>
         </region>
     </world>

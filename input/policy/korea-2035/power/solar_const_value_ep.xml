@@ -8,11 +8,11 @@
         <min-price year="2020">0</min-price>
         <min-price year="2025">0</min-price>
         <min-price year="2030">0</min-price>
-        <min-price year="2035">0</min-price>
+        <!-- <min-price year="2035">0</min-price> -->
         <constraint year="2020">0.065628</constraint>
         <constraint year="2025">0.141804</constraint>
         <constraint year="2030">0.285</constraint>
-        <constraint year="2035">0.450</constraint>
+        <!-- <constraint year="2035">0.450</constraint> -->
       </policy-portfolio-standard>
     </region>
   </world>

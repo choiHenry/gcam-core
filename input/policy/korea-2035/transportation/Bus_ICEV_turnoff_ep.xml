@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="trn_pass_road">
+        <subsector name="Bus">
+          <stub-technology name="Hybrid Liquids">
+            <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2040" delete="1" to-value="0">
+                <interpolation-function name="linear"/>
+            </interpolation-rule>
+            <share-weight year="2040">0</share-weight>
+          </stub-technology>
+          <stub-technology name="Liquids">
+            <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2040" delete="1" to-value="0">
+                <interpolation-function name="linear"/>
+            </interpolation-rule>
+            <share-weight year="2040">0</share-weight>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

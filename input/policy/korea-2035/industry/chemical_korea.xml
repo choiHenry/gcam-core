@@ -17,9 +17,30 @@
             <share-weight fillout="1" year="2030">1</share-weight>
             <interpolation-rule apply-to="share-weight" delete="1" from-year="2030" to-year="2100" from-value="1" to-value="1">
                 <interpolation-function name="fixed"/>
-            </interpolation-rule>            
+            </interpolation-rule>
+            <period year="2025">
+                <minicam-non-energy-input name="non-energy">
+                    <input-cost>6</input-cost>
+                </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+                <minicam-non-energy-input name="non-energy">
+                    <input-cost>6</input-cost>
+                </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+                <minicam-non-energy-input name="non-energy">
+                    <input-cost>6</input-cost>
+                </minicam-non-energy-input>
+            </period>
+            <period year="2040">
+                <minicam-non-energy-input name="non-energy">
+                    <input-cost>6</input-cost>
+                </minicam-non-energy-input>
+            </period>
           </stub-technology>
         </subsector>
+        
       </supplysector>
     </region>
     <global-technology-database>
@@ -29,7 +50,7 @@
                   <share-weight>0</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
-                      <efficiency>1</efficiency>
+                      <efficiency>0.8</efficiency>
                   </minicam-energy-input>
                   <minicam-non-energy-input name="non-energy">
                       <input-cost>0</input-cost>
@@ -43,7 +64,7 @@
                   <share-weight>0</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
-                      <efficiency>1</efficiency>
+                      <efficiency>0.8</efficiency>
                   </minicam-energy-input>
                   <minicam-non-energy-input name="non-energy">
                       <input-cost>0</input-cost>
@@ -57,7 +78,7 @@
                   <share-weight>0</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
-                      <efficiency>1</efficiency>
+                      <efficiency>0.8</efficiency>
                   </minicam-energy-input>
                   <minicam-non-energy-input name="non-energy">
                       <input-cost>0</input-cost>
@@ -71,7 +92,7 @@
                   <share-weight>0</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
-                      <efficiency>1</efficiency>
+                      <efficiency>0.8</efficiency>
                   </minicam-energy-input>
                   <minicam-non-energy-input name="non-energy">
                       <input-cost>0</input-cost>
@@ -85,7 +106,7 @@
                   <share-weight>0</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
-                      <efficiency>1</efficiency>
+                      <efficiency>0.8</efficiency>
                   </minicam-energy-input>
                   <minicam-non-energy-input name="non-energy">
                       <input-cost>0</input-cost>
@@ -99,7 +120,7 @@
                   <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
-                      <efficiency>1</efficiency>
+                      <efficiency>0.8</efficiency>
                   </minicam-energy-input>
                   <minicam-non-energy-input name="non-energy">
                       <input-cost>0</input-cost>
@@ -113,7 +134,7 @@
                   <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
-                      <efficiency>1</efficiency>
+                      <efficiency>0.8</efficiency>
                   </minicam-energy-input>
                   <minicam-non-energy-input name="non-energy">
                       <input-cost>0</input-cost>
@@ -127,7 +148,7 @@
                   <share-weight>1</share-weight>
                   <CO2 name="CO2_Chemical"/>
                   <minicam-energy-input name="delivered biomass">
-                      <efficiency>1</efficiency>
+                      <efficiency>0.9</efficiency>
                   </minicam-energy-input>
                   <minicam-non-energy-input name="non-energy">
                       <input-cost>0</input-cost>
