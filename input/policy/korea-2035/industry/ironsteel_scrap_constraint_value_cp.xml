@@ -4,8 +4,8 @@
          <policy-portfolio-standard name="Scrap-Ceiling">
             <policyType>tax</policyType>
             <market>South Korea</market>
-            <constraint year="2030">13</constraint>
-            <constraint year="2035">26</constraint>
+            <constraint year="2030">10</constraint>
+            <constraint year="2035">20</constraint>
    	   </policy-portfolio-standard>
       </region>
    </world>

@@ -1,6 +1,24 @@
 <?xml version="1.0" ?>
 <scenario>
   <world>
+    <region name="USA">
+      <supplysector name="traded iron and steel">
+        <subsector name="South Korea traded iron and steel">
+          <technology name="South Korea traded iron and steel">
+              <period year="2030">
+                <minicam-non-energy-input name="misc">
+                    <input-cost>0.010</input-cost>
+                </minicam-non-energy-input>
+              </period>
+              <period year="2035">
+                <minicam-non-energy-input name="misc">
+                    <input-cost>0.020</input-cost>
+                </minicam-non-energy-input>
+              </period>
+          </technology>
+        </subsector>
+      </supplysector>
+    </region>
     <region name="South Korea">
       
       <supplysector name="iron and steel">
@@ -11,6 +29,16 @@
             </interpolation-rule>
             <share-weight fillout="1" year="2025">1</share-weight>
             <share-weight fillout="1" year="2040">0</share-weight>
+            <!-- <period year="2030">
+              <minicam-non-energy-input name="misc">
+                  <input-cost>0.015</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="misc">
+                  <input-cost>0.015</input-cost>
+              </minicam-non-energy-input>
+            </period> -->
           </stub-technology>
         </subsector>
       </supplysector>

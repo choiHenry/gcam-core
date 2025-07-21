@@ -10,9 +10,9 @@
         <min-price year="2030">0</min-price>
         <min-price year="2035">0</min-price>
         <constraint year="2020">0.0001</constraint>
-        <constraint year="2025">0.011268</constraint>
-        <constraint year="2030">0.178776</constraint>
-        <constraint year="2035">0.313416</constraint>
+        <constraint year="2025">0.0112</constraint>
+        <constraint year="2030">0.1787</constraint>
+        <constraint year="2035">0.3134</constraint>
       </policy-portfolio-standard>
     </region>
   </world>
