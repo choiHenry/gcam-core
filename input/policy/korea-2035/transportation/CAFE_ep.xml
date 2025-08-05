@@ -29,12 +29,12 @@
             <supplysector name="trn_freight_road">
                 <tranSubsector name="Medium truck">
                     <stub-technology name="Hybrid Liquids">
-                        <period year="2025">
+                        <!-- <period year="2025">
                             <minicam-energy-input name="refined liquids enduse">
                                 <coefficient>1248.449</coefficient>
                                 <market-name>South Korea</market-name>
                             </minicam-energy-input>
-                        </period>
+                        </period> -->
                         <period year="2030">
                             <minicam-energy-input name="refined liquids enduse">
                                 <coefficient>1109.733</coefficient>

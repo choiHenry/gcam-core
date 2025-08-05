@@ -180,7 +180,7 @@
             </interpolation-rule>
             <period year="2025">
               <minicam-non-energy-input name="Greenship-K">
-                <input-cost>-0.20100300</input-cost>
+                <input-cost>-0.201003</input-cost>
               </minicam-non-energy-input>
             </period>
             <period year="2030">
