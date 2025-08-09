@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<scenario>
+  <world>
+    <region name="South Korea">
+      <supplysector name="carbon-storage">
+        <subsector name="onshore carbon-storage">
+          <stub-technology name="onshore carbon-storage">
+            <period year="2020">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>0</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2025">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>0</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>-20.4</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>-20.4</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2040">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>-20.4</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2045">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>0</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2050">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>0</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
+        </subsector>
+        <subsector name="offshore carbon-storage">
+          <stub-technology name="offshore carbon-storage">
+            <period year="2020">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>0</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2025">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>0</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2030">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>-20.4</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2035">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>-20.4</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2040">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>-20.4</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2045">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>0</input-cost>
+              </minicam-non-energy-input>
+            </period>
+            <period year="2050">
+              <minicam-non-energy-input name="subsidy_EnhPol">
+                <input-cost>0</input-cost>
+              </minicam-non-energy-input>
+            </period>
+          </stub-technology>
+        </subsector>
+      </supplysector>
+    </region>
+  </world>
+</scenario>

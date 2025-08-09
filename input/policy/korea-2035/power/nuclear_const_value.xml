@@ -5,10 +5,6 @@
       <policy-portfolio-standard name="Nuclear-Ceiling">
         <policyType>tax</policyType>
         <market>South Korea</market>
-        <!-- <min-price year="2020">-10000</min-price> -->
-        <!-- <min-price year="2025">-10000</min-price> -->
-        <!-- <min-price year="2030">-10000</min-price> -->
-        <!-- <min-price year="2035">-10000</min-price> -->
         <constraint year="2020">0.576</constraint>
         <constraint year="2025">0.674</constraint>
         <constraint year="2030">0.735</constraint>
