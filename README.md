@@ -92,4 +92,4 @@ High-ambition climate action in all sectors can achieve a 60% greenhouse gas emi
 ```
 
 ## License
-MIT License – You are free to use, modify, and distribute this code with attribution.
+[MIT License](https://opensource.org/licenses/MIT) – You are free to use, modify, and distribute this code with attribution.
