@@ -36,21 +36,60 @@ This repository contains the model implementation, scenario configuration, and r
 
 ## Installation & Usage
 
-1. **Install GCAM v7.1**
+### 1. Install GCAM v7.1
 
-   Download [GCAM v7.1](https://github.com/JGCRI/gcam-core/releases) and install it in a directory separate from this repository.  
-   Reference installation guides:  
-   - [Windows](https://www.youtube.com/watch?v=2Tv-5rryhk8) – P. Patel  
-   - [MacOS](https://www.youtube.com/watch?v=AQnm_qZmypA) – P. Patel  
-   - [GCAM Build Instructions for Linux](https://jgcri.github.io/gcam-doc/gcam-build.html)
+Download [GCAM v7.1](https://github.com/JGCRI/gcam-core/releases) and install it in a directory separate from this repository.  
+Reference installation guides:  
+- [Windows](https://www.youtube.com/watch?v=2Tv-5rryhk8) – P. Patel  
+- [MacOS](https://www.youtube.com/watch?v=AQnm_qZmypA) – P. Patel  
+- [GCAM Build Instructions for Linux](https://jgcri.github.io/gcam-doc/gcam-build.html)
 
-2. **Attach Policy Input Files**
+---
 
-   Copy the `./input/policy/korea-2035/` folder into the `input` folder of your GCAM installation.
+### 2. Attach Policy Input Files
 
-3. **Run Scenarios**
+- Copy the `./input/policy/korea-2035/` folder into the `input` folder of your GCAM installation.
+- Download `N_Fert_reduction.xml` [here](https://www.dropbox.com/scl/fi/0qzk3bwc2egfe91wqy2zg/N_Fert_reduction.xml?rlkey=4t33sq0wu3k1o15us5swfhopm&st=a4u14ab6&dl=0) and place it in: `input/gcamdata/xml/`
 
-   Example (Windows PowerShell):
-   ```powershell
-   .\gcam.exe -C exe/configuration_current_policies_med.xml
-   .\gcam.exe -C exe/configuration_enhanced_ambition_med.xml
+### 3. Run Scenarios
+
+Navigate to the `exe` directory in your GCAM v7.1 installation.
+
+Example (Windows PowerShell):
+
+```powershell
+.\gcam.exe -C configuration_current_policies_med.xml
+.\gcam.exe -C configuration_enhanced_ambition_med.xml
+```
+
+Example (Linux/Mac):
+```bash
+./gcam -C configuration_current_policies_med.xml
+./gcam -C configuration_enhanced_ambition_med.xml
+```
+
+### 4. Analyze Results
+
+1. Set up Python environment:
+
+```bash
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+2. Open and run notebooks in `analysis`:
+```bash
+jupyter notebook analysis/
+```
+
+## Citation
+If you use this package in your work, please cite:
+```text
+Choi, H., Park, S., & McJeon, H. (2025).
+High-ambition climate action in all sectors can achieve a 60% greenhouse gas emissions reduction in Korea by 2035. Working Paper.
+[Preprint link or DOI]
+```
+
+## License
+MIT License – You are free to use, modify, and distribute this code with attribution.
