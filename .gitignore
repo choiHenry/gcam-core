@@ -2,6 +2,7 @@ __pycache__/
 *.pyc
 
 *Zone.Identifier
+/.vscode/
 
 # gcamdata xml directory
 /input/gcamdata/xml
